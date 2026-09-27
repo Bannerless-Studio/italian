@@ -1,5 +1,20 @@
 # TODO (v4 candidates)
 
+## Known deviations from the ideal spec
+- The subtitle frequency list ships pre-lowercased, so the ">80% capitalised
+  in subtitle occurrences" proper-noun heuristic could not be applied from
+  that source; proper-noun exclusion relies on Wiktionary's `pos=name` tag
+  instead.
+- Part of speech is the word's most frequent POS in the tagged corpus. A
+  lemma has at most two entries: a second POS needs 20% of the lemma's
+  corpus tokens and a distinct sense. The articles il/un also sit beside
+  their pronoun/numeral homographs. Same-spelling pairs (come prep/conj)
+  make the engine validator print a "share surface form" warning; that is
+  expected.
+- The spaCy Italian model is CC BY-NC-SA 3.0, not MIT. The pack ships no
+  model files; the model is used only at build time. This project is
+  non-commercial.
+
 Residuals from the v3 QA rounds. See `tools/REPORT.md` for the rules
 already in place and their counts.
 
