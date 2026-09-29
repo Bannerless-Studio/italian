@@ -87,3 +87,6 @@ already in place and their counts.
 - A native-speaker pass over the 60 texts has not been done yet.
 - Republished on engine 1dbca4d (one word id per token, phrase-part links):
   the 11 passage fallback chips are gone (0 tokens without a span).
+
+## Republish 09e90bc (2026-09-29)
+- Republish 09e90bc: sentence spans (18975/19012 linked words placed); inflected forms now cloze targets
