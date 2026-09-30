@@ -90,3 +90,6 @@ already in place and their counts.
 
 ## Republish 09e90bc (2026-09-29)
 - Republish 09e90bc: sentence spans (18975/19012 linked words placed); inflected forms now cloze targets
+
+## Republish ef44c6e (2026-09-30)
+- Republish ef44c6e: no words moved (pack/*.json byte-identical); no override keys deleted; set-counter and no-voice planner fixes
