@@ -93,3 +93,7 @@ already in place and their counts.
 
 ## Republish ef44c6e (2026-09-30)
 - Republish ef44c6e: no words moved (pack/*.json byte-identical); no override keys deleted; set-counter and no-voice planner fixes
+
+## Republish 439df3d (2026-10-08, port wave 1)
+- Republish 439df3d: typed modes, day-aware scheduling, reading rotation, goals, pairs, frequency tiers, Progress v2, redesigned tabs, session estimates. Pack diff vs f3e2a96: every word gains `ft` (100 ambient / 1385 core / 515 peripheral), pack.json gains the generic flag set + `eta`; nothing else (tools/eta.json from `eta_checks --calibrate --sessions 600`).
+- Migration proof: rollback hash f3e2a96a20b6cc15249465368058e77e08760b80; previous live md5 index 928a5b5e92e72b351cafe82d14db6117, sw 58b15a5e7898da1cf29a1f9f3f146bed. Storage: new fields day/sn/t/u/f/p/pm/pv/pause/read.done s,ls/today.tw on first use; boot writes nothing; previous build ef44c6e/aa00571 carries them (migration [port] 9/9).
