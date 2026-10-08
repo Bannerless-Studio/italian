@@ -176,6 +176,10 @@
   "appView": "v2",
   "levelGate": 0.7,
   "placementWhole": true,
+  "placementEarlyStop": true,
+  "placedRead": true,
+  "placedKnown": true,
+  "gapGender": true,
   "eta": {
     "curve": [
       [
