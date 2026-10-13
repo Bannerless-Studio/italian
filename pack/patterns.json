@@ -1,0 +1,4675 @@
+[
+ {
+  "id": "p01",
+  "lv": "A1",
+  "label": "essere / stare",
+  "en": "to be: what it is / how it is now",
+  "note": [
+   "essere: what it is. stare: how, or doing now.",
+   "È un medico. Sta bene. Sta leggendo."
+  ],
+  "near": [
+   "p02",
+   "p03",
+   "p06",
+   "p10",
+   "p23"
+  ],
+  "keys": [
+   "w2138",
+   "w0002",
+   "w0020"
+  ],
+  "sentences": [
+   {
+    "id": "p01.1",
+    "src": "s0057",
+    "t": "Vienna è una bellissima città.",
+    "en": "Vienna is a beautiful city.",
+    "lv": "A1",
+    "words": [
+     "w2138",
+     "w2003",
+     "w0093",
+     "w0232"
+    ],
+    "marks": [
+     [
+      7,
+      8
+     ]
+    ]
+   },
+   {
+    "id": "p01.2",
+    "src": "s0145",
+    "t": "Mio padre è alto.",
+    "en": "My father is tall.",
+    "lv": "A1",
+    "words": [
+     "w2008",
+     "w0188",
+     "w2138",
+     "w0260"
+    ],
+    "marks": [
+     [
+      10,
+      11
+     ]
+    ]
+   },
+   {
+    "id": "p01.3",
+    "src": "s0037",
+    "t": "Tutti gli autobus sono pieni.",
+    "en": "All the buses are full.",
+    "lv": "A1",
+    "words": [
+     "w0001",
+     "w1823",
+     "w0002",
+     "w0344"
+    ],
+    "marks": [
+     [
+      18,
+      22
+     ]
+    ]
+   },
+   {
+    "id": "p01.4",
+    "src": "s0455",
+    "t": "Tu sei un ragazzo americano.",
+    "en": "You are an American boy.",
+    "lv": "A1",
+    "words": [
+     "w0055",
+     "w0002",
+     "w2003",
+     "w0144",
+     "w0481"
+    ],
+    "marks": [
+     [
+      3,
+      6
+     ]
+    ]
+   },
+   {
+    "id": "p01.5",
+    "src": "s0333",
+    "t": "La donna sta leggendo.",
+    "en": "The woman is reading.",
+    "lv": "A1",
+    "words": [
+     "w0001",
+     "w0133",
+     "w0020",
+     "w0163"
+    ],
+    "marks": [
+     [
+      9,
+      12
+     ]
+    ]
+   },
+   {
+    "id": "p01.6",
+    "src": "s0813",
+    "t": "Il progetto sta prendendo forma.",
+    "en": "The project is taking shape.",
+    "lv": "A1",
+    "words": [
+     "w0001",
+     "w0420",
+     "w0020",
+     "w0063",
+     "w0431"
+    ],
+    "marks": [
+     [
+      12,
+      15
+     ]
+    ]
+   },
+   {
+    "id": "p01.7",
+    "src": "s1313",
+    "t": "Loro stanno andando in guerra.",
+    "en": "They're going to the war.",
+    "lv": "A1",
+    "words": [
+     "w0065",
+     "w0020",
+     "w0024",
+     "w0008",
+     "w0271"
+    ],
+    "marks": [
+     [
+      5,
+      11
+     ]
+    ]
+   },
+   {
+    "id": "p01.8",
+    "src": "s1497",
+    "t": "Quella camicia ti sta bene.",
+    "en": "That shirt looks good on you.",
+    "lv": "A1",
+    "words": [
+     "w2093",
+     "w0055",
+     "w0020",
+     "w2013"
+    ],
+    "marks": [
+     [
+      18,
+      21
+     ]
+    ]
+   }
+  ]
+ },
+ {
+  "id": "p02",
+  "lv": "A1",
+  "label": "c'è / ci sono",
+  "en": "there is / there are",
+  "note": [
+   "There is / there are, matching the noun.",
+   "C'è un cane. Ci sono due cani."
+  ],
+  "near": [
+   "p01",
+   "p06",
+   "p10",
+   "p11",
+   "p20",
+   "p21",
+   "p22",
+   "p23",
+   "p24",
+   "p25",
+   "p26",
+   "p27"
+  ],
+  "keys": [
+   "w0030",
+   "w2138",
+   "w0002"
+  ],
+  "sentences": [
+   {
+    "id": "p02.1",
+    "src": "s0127",
+    "t": "C'è qualche problema?",
+    "en": "Is there a problem?",
+    "lv": "A1",
+    "words": [
+     "w0030",
+     "w2138",
+     "w0141",
+     "w0137"
+    ],
+    "marks": [
+     [
+      0,
+      3
+     ]
+    ]
+   },
+   {
+    "id": "p02.2",
+    "src": "s0302",
+    "t": "In agosto non ci sono lezioni.",
+    "en": "There is no school during August.",
+    "lv": "A1",
+    "words": [
+     "w0008",
+     "w1360",
+     "w0007",
+     "w0030",
+     "w0002",
+     "w0742"
+    ],
+    "marks": [
+     [
+      14,
+      21
+     ]
+    ]
+   },
+   {
+    "id": "p02.3",
+    "src": "s0450",
+    "t": "Non c'è più sale.",
+    "en": "There's no more salt.",
+    "lv": "A1",
+    "words": [
+     "w0007",
+     "w0030",
+     "w2138",
+     "w0036",
+     "w2078"
+    ],
+    "marks": [
+     [
+      4,
+      7
+     ]
+    ]
+   },
+   {
+    "id": "p02.4",
+    "src": "s0806",
+    "t": "Non ci sono biglietti rimasti.",
+    "en": "There are no tickets left.",
+    "lv": "A1",
+    "words": [
+     "w0007",
+     "w0030",
+     "w0002",
+     "w0839",
+     "w0185"
+    ],
+    "marks": [
+     [
+      4,
+      11
+     ]
+    ]
+   },
+   {
+    "id": "p02.5",
+    "src": "s1347",
+    "t": "C'è un centro informazioni?",
+    "en": "Is there an information counter?",
+    "lv": "A1",
+    "words": [
+     "w0030",
+     "w2138",
+     "w2003",
+     "w0348",
+     "w0366"
+    ],
+    "marks": [
+     [
+      0,
+      3
+     ]
+    ]
+   },
+   {
+    "id": "p02.6",
+    "src": "s2382",
+    "t": "Ci sono diciotto di loro.",
+    "en": "There are eighteen of them.",
+    "lv": "A1",
+    "words": [
+     "w0030",
+     "w0002",
+     "w2121",
+     "w0003",
+     "w0065"
+    ],
+    "marks": [
+     [
+      0,
+      7
+     ]
+    ]
+   },
+   {
+    "id": "p02.7",
+    "src": "s0459",
+    "t": "C'è dello zucchero?",
+    "en": "Is there any sugar?",
+    "lv": "A1",
+    "words": [
+     "w0030",
+     "w2138",
+     "w0003",
+     "w2085"
+    ],
+    "marks": [
+     [
+      0,
+      3
+     ]
+    ]
+   }
+  ]
+ },
+ {
+  "id": "p03",
+  "lv": "A1",
+  "label": "piace / piacciono",
+  "en": "to like (the thing liked is the subject)",
+  "note": [
+   "Like: the verb matches what is liked.",
+   "Mi piace il tè. Mi piacciono i gatti."
+  ],
+  "near": [
+   "p01",
+   "p06",
+   "p10",
+   "p11",
+   "p20",
+   "p21",
+   "p22",
+   "p23",
+   "p24",
+   "p25"
+  ],
+  "keys": [
+   "w2027"
+  ],
+  "sentences": [
+   {
+    "id": "p03.1",
+    "src": "s0174",
+    "t": "Ti piacciono i vini francesi?",
+    "en": "Do you like French wines?",
+    "lv": "A1",
+    "words": [
+     "w0055",
+     "w2027",
+     "w0001",
+     "w0915",
+     "w0648"
+    ],
+    "marks": [
+     [
+      3,
+      12
+     ]
+    ]
+   },
+   {
+    "id": "p03.2",
+    "src": "s0198",
+    "t": "Ti piace l'estate?",
+    "en": "Do you like summer?",
+    "lv": "A1",
+    "words": [
+     "w0055",
+     "w2027",
+     "w0001",
+     "w1164"
+    ],
+    "marks": [
+     [
+      3,
+      8
+     ]
+    ]
+   },
+   {
+    "id": "p03.3",
+    "src": "s0209",
+    "t": "Mi piacciono i capelli corti.",
+    "en": "I like short hair.",
+    "lv": "A1",
+    "words": [
+     "w2004",
+     "w2027",
+     "w0001",
+     "w0664",
+     "w2074"
+    ],
+    "marks": [
+     [
+      3,
+      12
+     ]
+    ]
+   },
+   {
+    "id": "p03.4",
+    "src": "s0387",
+    "t": "A lei piacciono le arance.",
+    "en": "She likes oranges.",
+    "lv": "A1",
+    "words": [
+     "w2001",
+     "w0096",
+     "w2027",
+     "w0001",
+     "w2117"
+    ],
+    "marks": [
+     [
+      6,
+      15
+     ]
+    ]
+   },
+   {
+    "id": "p03.5",
+    "src": "s0663",
+    "t": "Ai gatti non piace l'acqua.",
+    "en": "Cats don't like water.",
+    "lv": "A1",
+    "words": [
+     "w2001",
+     "w1151",
+     "w0007",
+     "w2027",
+     "w0001",
+     "w0300"
+    ],
+    "marks": [
+     [
+      13,
+      18
+     ]
+    ]
+   },
+   {
+    "id": "p03.6",
+    "src": "s0799",
+    "t": "Ti piace la pioggia?",
+    "en": "Do you like rain?",
+    "lv": "A1",
+    "words": [
+     "w0055",
+     "w2027",
+     "w0001",
+     "w1687"
+    ],
+    "marks": [
+     [
+      3,
+      8
+     ]
+    ]
+   },
+   {
+    "id": "p03.7",
+    "src": "s1104",
+    "t": "Mi piacciono i film.",
+    "en": "I like movies.",
+    "lv": "A1",
+    "words": [
+     "w2004",
+     "w2027",
+     "w0001",
+     "w0287"
+    ],
+    "marks": [
+     [
+      3,
+      12
+     ]
+    ]
+   },
+   {
+    "id": "p03.8",
+    "src": "s0113",
+    "t": "A mia madre piace la musica.",
+    "en": "My mother likes music.",
+    "lv": "A1",
+    "words": [
+     "w2001",
+     "w2008",
+     "w2047",
+     "w2027",
+     "w0001",
+     "w0432"
+    ],
+    "marks": [
+     [
+      12,
+      17
+     ]
+    ]
+   }
+  ]
+ },
+ {
+  "id": "p04",
+  "lv": "A1",
+  "label": "il / lo / la / i / gli / le",
+  "en": "the",
+  "note": [
+   "the: it matches the noun's gender and number.",
+   "il libro, lo zio, la casa, i libri, le case"
+  ],
+  "near": [
+   "p08",
+   "p15"
+  ],
+  "keys": [
+   "w0001"
+  ],
+  "sentences": [
+   {
+    "id": "p04.1",
+    "src": "s0585",
+    "t": "Il cane nero correva.",
+    "en": "The black dog ran.",
+    "lv": "A1",
+    "words": [
+     "w0001",
+     "w0488",
+     "w2066",
+     "w0626"
+    ],
+    "marks": [
+     [
+      0,
+      2
+     ]
+    ]
+   },
+   {
+    "id": "p04.2",
+    "src": "s0116",
+    "t": "La scuola comincia in aprile.",
+    "en": "School begins in April.",
+    "lv": "A1",
+    "words": [
+     "w0001",
+     "w0237",
+     "w0327",
+     "w0008",
+     "w1154"
+    ],
+    "marks": [
+     [
+      0,
+      2
+     ]
+    ]
+   },
+   {
+    "id": "p04.3",
+    "src": "s0187",
+    "t": "I pesci vivono nel mare.",
+    "en": "Fish live in the sea.",
+    "lv": "A1",
+    "words": [
+     "w0001",
+     "w1061",
+     "w0168",
+     "w0008",
+     "w0530"
+    ],
+    "marks": [
+     [
+      0,
+      1
+     ]
+    ]
+   },
+   {
+    "id": "p04.4",
+    "src": "s0432",
+    "t": "Le mele sono rosse.",
+    "en": "Apples are red.",
+    "lv": "A1",
+    "words": [
+     "w0001",
+     "w2101",
+     "w0002",
+     "w2068"
+    ],
+    "marks": [
+     [
+      0,
+      2
+     ]
+    ]
+   },
+   {
+    "id": "p04.5",
+    "src": "s0861",
+    "t": "Maria ha gli occhi azzurri.",
+    "en": "Maria has blue eyes.",
+    "lv": "A1",
+    "words": [
+     "w2002",
+     "w0001",
+     "w2052",
+     "w2106"
+    ],
+    "marks": [
+     [
+      9,
+      12
+     ]
+    ]
+   },
+   {
+    "id": "p04.6",
+    "src": "s1018",
+    "t": "Lo zero viene prima dell'uno.",
+    "en": "Zero comes before one.",
+    "lv": "A1",
+    "words": [
+     "w0001",
+     "w2076",
+     "w0045",
+     "w0052",
+     "w0003"
+    ],
+    "marks": [
+     [
+      0,
+      2
+     ]
+    ]
+   },
+   {
+    "id": "p04.7",
+    "src": "s0082",
+    "t": "Sa parlare bene lo spagnolo.",
+    "en": "She can speak Spanish well.",
+    "lv": "A1",
+    "words": [
+     "w0029",
+     "w0054",
+     "w2013",
+     "w0001",
+     "w2086"
+    ],
+    "marks": [
+     [
+      16,
+      18
+     ]
+    ]
+   }
+  ]
+ },
+ {
+  "id": "p05",
+  "lv": "A1",
+  "label": "mio / mia / miei",
+  "en": "my",
+  "note": [
+   "my: it matches the noun it goes with.",
+   "il mio libro, la mia casa, i miei libri"
+  ],
+  "near": [
+   "p14",
+   "p18"
+  ],
+  "keys": [
+   "w2008"
+  ],
+  "sentences": [
+   {
+    "id": "p05.1",
+    "src": "s0122",
+    "t": "Ecco il mio portafoglio.",
+    "en": "Here's my wallet.",
+    "lv": "A1",
+    "words": [
+     "w0187",
+     "w0001",
+     "w2008"
+    ],
+    "marks": [
+     [
+      8,
+      11
+     ]
+    ]
+   },
+   {
+    "id": "p05.2",
+    "src": "s0254",
+    "t": "La mia macchina è tedesca.",
+    "en": "My car is German.",
+    "lv": "A1",
+    "words": [
+     "w0001",
+     "w2008",
+     "w0306",
+     "w2138",
+     "w0892"
+    ],
+    "marks": [
+     [
+      3,
+      6
+     ]
+    ]
+   },
+   {
+    "id": "p05.3",
+    "src": "s0413",
+    "t": "I miei occhi sono blu.",
+    "en": "My eyes are blue.",
+    "lv": "A1",
+    "words": [
+     "w0001",
+     "w2008",
+     "w2052",
+     "w0002",
+     "w1155"
+    ],
+    "marks": [
+     [
+      2,
+      6
+     ]
+    ]
+   },
+   {
+    "id": "p05.4",
+    "src": "s0214",
+    "t": "Mio zio vive a Londra.",
+    "en": "My uncle lives in London.",
+    "lv": "A1",
+    "words": [
+     "w2008",
+     "w1039",
+     "w0168",
+     "w2001"
+    ],
+    "marks": [
+     [
+      0,
+      3
+     ]
+    ]
+   },
+   {
+    "id": "p05.5",
+    "src": "s1106",
+    "t": "Mia sorella è sposata.",
+    "en": "My sister is married.",
+    "lv": "A1",
+    "words": [
+     "w2008",
+     "w0525",
+     "w2138",
+     "w0465"
+    ],
+    "marks": [
+     [
+      0,
+      3
+     ]
+    ]
+   },
+   {
+    "id": "p05.6",
+    "src": "s1911",
+    "t": "Dove sono i miei soldi?",
+    "en": "Where's my money?",
+    "lv": "A1",
+    "words": [
+     "w2018",
+     "w0002",
+     "w0001",
+     "w2008",
+     "w2049"
+    ],
+    "marks": [
+     [
+      12,
+      16
+     ]
+    ]
+   },
+   {
+    "id": "p05.7",
+    "src": "s1852",
+    "t": "Dov'è la mia pizza?",
+    "en": "Where's my pizza?",
+    "lv": "A1",
+    "words": [
+     "w2018",
+     "w2138",
+     "w0001",
+     "w2008",
+     "w1563"
+    ],
+    "marks": [
+     [
+      9,
+      12
+     ]
+    ]
+   },
+   {
+    "id": "p05.8",
+    "src": "s0194",
+    "t": "Ho perso il mio ombrello.",
+    "en": "I have lost my umbrella.",
+    "lv": "A1",
+    "words": [
+     "w2002",
+     "w0230",
+     "w0001",
+     "w2008",
+     "w2128"
+    ],
+    "marks": [
+     [
+      12,
+      15
+     ]
+    ]
+   }
+  ]
+ },
+ {
+  "id": "p06",
+  "lv": "A1",
+  "label": "ho / ha / abbiamo / hanno",
+  "en": "to have",
+  "note": [
+   "have: the verb matches who has.",
+   "Io ho un cane. Lei ha un cane. Hanno un cane."
+  ],
+  "near": [
+   "p01",
+   "p02",
+   "p03",
+   "p10"
+  ],
+  "keys": [
+   "w2002"
+  ],
+  "sentences": [
+   {
+    "id": "p06.1",
+    "src": "s0215",
+    "t": "Mia zia ha tre bambini.",
+    "en": "My aunt has three children.",
+    "lv": "A1",
+    "words": [
+     "w2008",
+     "w1604",
+     "w2002",
+     "w0154",
+     "w0193"
+    ],
+    "marks": [
+     [
+      8,
+      10
+     ]
+    ]
+   },
+   {
+    "id": "p06.2",
+    "src": "s0566",
+    "t": "Mio padre ha un ristorante.",
+    "en": "My father has a restaurant.",
+    "lv": "A1",
+    "words": [
+     "w2008",
+     "w0188",
+     "w2002",
+     "w2003",
+     "w1083"
+    ],
+    "marks": [
+     [
+      10,
+      12
+     ]
+    ]
+   },
+   {
+    "id": "p06.3",
+    "src": "s1456",
+    "t": "Un anno ha dodici mesi.",
+    "en": "A year has twelve months.",
+    "lv": "A1",
+    "words": [
+     "w2003",
+     "w0053",
+     "w2002",
+     "w2096",
+     "w0194"
+    ],
+    "marks": [
+     [
+      8,
+      10
+     ]
+    ]
+   },
+   {
+    "id": "p06.4",
+    "src": "s0621",
+    "t": "Lei ha sette figli.",
+    "en": "She has seven sons.",
+    "lv": "A1",
+    "words": [
+     "w0096",
+     "w2002",
+     "w0776",
+     "w0160"
+    ],
+    "marks": [
+     [
+      4,
+      6
+     ]
+    ]
+   },
+   {
+    "id": "p06.5",
+    "src": "s1736",
+    "t": "Le ragazze hanno vinto.",
+    "en": "The girls won.",
+    "lv": "A1",
+    "words": [
+     "w0001",
+     "w0184",
+     "w2002",
+     "w0289"
+    ],
+    "marks": [
+     [
+      11,
+      16
+     ]
+    ]
+   },
+   {
+    "id": "p06.6",
+    "src": "s1584",
+    "t": "Noi abbiamo tutto sotto controllo.",
+    "en": "We have everything under control.",
+    "lv": "A1",
+    "words": [
+     "w0090",
+     "w2002",
+     "w2009",
+     "w2043",
+     "w0365"
+    ],
+    "marks": [
+     [
+      4,
+      11
+     ]
+    ]
+   },
+   {
+    "id": "p06.7",
+    "src": "s2068",
+    "t": "Io ho il foglio rosa.",
+    "en": "I've got a provisional licence.",
+    "lv": "A1",
+    "words": [
+     "w2004",
+     "w2002",
+     "w0001",
+     "w2088"
+    ],
+    "marks": [
+     [
+      3,
+      5
+     ]
+    ]
+   }
+  ]
+ },
+ {
+  "id": "p07",
+  "lv": "A1",
+  "label": "molto / molta / molti",
+  "en": "much, many, very",
+  "note": [
+   "molto: very (fixed). much / many agree with the noun.",
+   "molto freddo, molta neve, molti amici"
+  ],
+  "near": [
+   "p13",
+   "p19"
+  ],
+  "keys": [
+   "w0044"
+  ],
+  "sentences": [
+   {
+    "id": "p07.1",
+    "src": "s0259",
+    "t": "Fa molto freddo ora.",
+    "en": "It's very cold now.",
+    "lv": "A1",
+    "words": [
+     "w0010",
+     "w0044",
+     "w2075",
+     "w2019"
+    ],
+    "marks": [
+     [
+      3,
+      8
+     ]
+    ]
+   },
+   {
+    "id": "p07.2",
+    "src": "s0260",
+    "t": "Ero molto occupato oggi.",
+    "en": "I was very busy today.",
+    "lv": "A1",
+    "words": [
+     "w0002",
+     "w0044",
+     "w0430",
+     "w0149"
+    ],
+    "marks": [
+     [
+      4,
+      9
+     ]
+    ]
+   },
+   {
+    "id": "p07.3",
+    "src": "s0916",
+    "t": "La forma è molto importante.",
+    "en": "Shape is very important.",
+    "lv": "A1",
+    "words": [
+     "w0001",
+     "w0431",
+     "w2138",
+     "w0044",
+     "w0221"
+    ],
+    "marks": [
+     [
+      11,
+      16
+     ]
+    ]
+   },
+   {
+    "id": "p07.4",
+    "src": "s1157",
+    "t": "Abbiamo molta neve in inverno.",
+    "en": "We have a lot of snow in the winter.",
+    "lv": "A1",
+    "words": [
+     "w2002",
+     "w1958",
+     "w0008",
+     "w2087"
+    ],
+    "marks": [
+     [
+      8,
+      13
+     ]
+    ]
+   },
+   {
+    "id": "p07.5",
+    "src": "s1899",
+    "t": "Una volta aveva molta terra.",
+    "en": "He once had a lot of land.",
+    "lv": "A1",
+    "words": [
+     "w2003",
+     "w0074",
+     "w2002",
+     "w0259"
+    ],
+    "marks": [
+     [
+      16,
+      21
+     ]
+    ]
+   },
+   {
+    "id": "p07.6",
+    "src": "s0056",
+    "t": "Aveva molti buoni amici qua.",
+    "en": "She has a good many friends here.",
+    "lv": "A1",
+    "words": [
+     "w2002",
+     "w0111",
+     "w0107",
+     "w0389"
+    ],
+    "marks": [
+     [
+      6,
+      11
+     ]
+    ]
+   }
+  ]
+ },
+ {
+  "id": "p08",
+  "lv": "A1",
+  "label": "lo / li (him, it, them)",
+  "en": "direct object: him, it, them",
+  "note": [
+   "him / it / them: it matches the thing, with the past.",
+   "Lo hai fatto. Li ho visti."
+  ],
+  "near": [
+   "p04",
+   "p12",
+   "p15"
+  ],
+  "keys": [
+   "w2007",
+   "w2028"
+  ],
+  "sentences": [
+   {
+    "id": "p08.1",
+    "src": "s1524",
+    "t": "La polizia lo ha cercato.",
+    "en": "He has been looked for by the police.",
+    "lv": "A1",
+    "words": [
+     "w0001",
+     "w0311",
+     "w2007",
+     "w2002",
+     "w0118"
+    ],
+    "marks": [
+     [
+      11,
+      13
+     ]
+    ]
+   },
+   {
+    "id": "p08.2",
+    "src": "s1901",
+    "t": "Perché non li hai fermati?",
+    "en": "Why didn't you stop them?",
+    "lv": "A1",
+    "words": [
+     "w0046",
+     "w0007",
+     "w2028",
+     "w2002",
+     "w0410"
+    ],
+    "marks": [
+     [
+      11,
+      13
+     ]
+    ]
+   },
+   {
+    "id": "p08.3",
+    "src": "s2399",
+    "t": "Lo hai fatto di nuovo.",
+    "en": "You did it again.",
+    "lv": "A1",
+    "words": [
+     "w2007",
+     "w2002",
+     "w0010",
+     "w0003",
+     "w0077"
+    ],
+    "marks": [
+     [
+      0,
+      2
+     ]
+    ]
+   },
+   {
+    "id": "p08.4",
+    "src": "s2414",
+    "t": "Lo hai fatto una volta.",
+    "en": "You did that once.",
+    "lv": "A1",
+    "words": [
+     "w2007",
+     "w2002",
+     "w0010",
+     "w2003",
+     "w0074"
+    ],
+    "marks": [
+     [
+      0,
+      2
+     ]
+    ]
+   },
+   {
+    "id": "p08.5",
+    "src": "s2153",
+    "t": "Lui lo ha fatto comunque.",
+    "en": "He did it anyway.",
+    "lv": "A1",
+    "words": [
+     "w0081",
+     "w2007",
+     "w2002",
+     "w0010",
+     "w0212"
+    ],
+    "marks": [
+     [
+      4,
+      6
+     ]
+    ],
+    "edited": true
+   }
+  ]
+ },
+ {
+  "id": "p09",
+  "lv": "A1",
+  "label": "più … di",
+  "en": "more than",
+  "note": [
+   "more than: più + adjective or number + di.",
+   "Sono più alto di te. Più di cento."
+  ],
+  "near": [
+   "p17"
+  ],
+  "keys": [
+   "w0003"
+  ],
+  "sentences": [
+   {
+    "id": "p09.1",
+    "src": "s0731",
+    "t": "Hai ottenuto più di me.",
+    "en": "You obtained more than me.",
+    "lv": "A1",
+    "words": [
+     "w2002",
+     "w0345",
+     "w0036",
+     "w0003",
+     "w0047"
+    ],
+    "marks": [
+     [
+      17,
+      19
+     ]
+    ]
+   },
+   {
+    "id": "p09.2",
+    "src": "s0732",
+    "t": "Avete ottenuto più di me.",
+    "en": "You obtained more than me.",
+    "lv": "A1",
+    "words": [
+     "w2002",
+     "w0345",
+     "w0036",
+     "w0003",
+     "w0047"
+    ],
+    "marks": [
+     [
+      19,
+      21
+     ]
+    ]
+   },
+   {
+    "id": "p09.3",
+    "src": "s0944",
+    "t": "Sono più basso di te.",
+    "en": "I am shorter than you.",
+    "lv": "A1",
+    "words": [
+     "w0002",
+     "w0036",
+     "w0498",
+     "w0003",
+     "w0056"
+    ],
+    "marks": [
+     [
+      15,
+      17
+     ]
+    ]
+   },
+   {
+    "id": "p09.4",
+    "src": "s0945",
+    "t": "Sono più bassa di te.",
+    "en": "I am shorter than you.",
+    "lv": "A1",
+    "words": [
+     "w0002",
+     "w0036",
+     "w0498",
+     "w0003",
+     "w0056"
+    ],
+    "marks": [
+     [
+      15,
+      17
+     ]
+    ]
+   },
+   {
+    "id": "p09.5",
+    "src": "s1941",
+    "t": "Ha più di cento anni.",
+    "en": "It's more than a hundred years old.",
+    "lv": "A1",
+    "words": [
+     "w2002",
+     "w0036",
+     "w0003",
+     "w1274",
+     "w0053"
+    ],
+    "marks": [
+     [
+      7,
+      9
+     ]
+    ]
+   }
+  ]
+ },
+ {
+  "id": "p10",
+  "lv": "A2",
+  "label": "ho / ha + participle · sono / è + participle",
+  "en": "past tense helper: avere or essere",
+  "note": [
+   "Past tense: avere, or essere for coming and going.",
+   "Ho mangiato. Sono arrivato. Siamo tornati."
+  ],
+  "near": [
+   "p01",
+   "p02",
+   "p03",
+   "p06",
+   "p23"
+  ],
+  "keys": [
+   "w2002",
+   "w2138",
+   "w0002"
+  ],
+  "sentences": [
+   {
+    "id": "p10.1",
+    "src": "s0168",
+    "t": "Shakespeare ha creato molti personaggi famosi.",
+    "en": "Shakespeare created many famous characters.",
+    "lv": "A2",
+    "words": [
+     "w2002",
+     "w0309",
+     "w0967",
+     "w0781"
+    ],
+    "marks": [
+     [
+      12,
+      14
+     ]
+    ]
+   },
+   {
+    "id": "p10.2",
+    "src": "s0549",
+    "t": "L'estate è passata troppo in fretta.",
+    "en": "Summer has gone all too soon.",
+    "lv": "A2",
+    "words": [
+     "w0001",
+     "w1164",
+     "w2138",
+     "w0153",
+     "w2035",
+     "w0008",
+     "w1009"
+    ],
+    "marks": [
+     [
+      9,
+      10
+     ]
+    ]
+   },
+   {
+    "id": "p10.3",
+    "src": "s0547",
+    "t": "Entrambi i bambini hanno vinto un premio.",
+    "en": "Both of the children won a prize.",
+    "lv": "A2",
+    "words": [
+     "w2151",
+     "w0001",
+     "w0193",
+     "w2002",
+     "w0289",
+     "w2003",
+     "w0850"
+    ],
+    "marks": [
+     [
+      19,
+      24
+     ]
+    ]
+   },
+   {
+    "id": "p10.4",
+    "src": "s0339",
+    "t": "I prodotti sono arrivati in buone condizioni.",
+    "en": "The goods arrived in good condition.",
+    "lv": "A2",
+    "words": [
+     "w0001",
+     "w2177",
+     "w0002",
+     "w0110",
+     "w0008",
+     "w0111",
+     "w0554"
+    ],
+    "marks": [
+     [
+      11,
+      15
+     ]
+    ]
+   },
+   {
+    "id": "p10.5",
+    "src": "s1930",
+    "t": "Questa mattina io ho visto un angelo.",
+    "en": "This morning, I saw an angel.",
+    "lv": "A2",
+    "words": [
+     "w0012",
+     "w0644",
+     "w2004",
+     "w2002",
+     "w0037",
+     "w2003",
+     "w0997"
+    ],
+    "marks": [
+     [
+      18,
+      20
+     ]
+    ]
+   },
+   {
+    "id": "p10.6",
+    "src": "s1776",
+    "t": "Noi siamo tornati indietro tramite Hong Kong.",
+    "en": "We came back by way of Hong Kong.",
+    "lv": "A2",
+    "words": [
+     "w0090",
+     "w0002",
+     "w0129",
+     "w0566",
+     "w2215"
+    ],
+    "marks": [
+     [
+      4,
+      9
+     ]
+    ]
+   },
+   {
+    "id": "p10.7",
+    "src": "s0527",
+    "t": "La qualità della traduzione è migliorata.",
+    "en": "The quality of translation has improved.",
+    "lv": "A2",
+    "words": [
+     "w0001",
+     "w1219",
+     "w0003",
+     "w0576",
+     "w2138",
+     "w1059"
+    ],
+    "marks": [
+     [
+      28,
+      29
+     ]
+    ]
+   },
+   {
+    "id": "p10.8",
+    "src": "s1084",
+    "t": "L'azienda ha comprato alcune auto nuove.",
+    "en": "The firm has bought some new cars.",
+    "lv": "A2",
+    "words": [
+     "w0001",
+     "w0699",
+     "w2002",
+     "w0363",
+     "w2032",
+     "w0077"
+    ],
+    "marks": [
+     [
+      10,
+      12
+     ]
+    ]
+   }
+  ]
+ },
+ {
+  "id": "p11",
+  "lv": "A2",
+  "label": "devo / devi / deve / dobbiamo / devono",
+  "en": "must, have to",
+  "note": [
+   "must / have to: the verb matches who must.",
+   "Devo andare. Devi studiare. Deve partire."
+  ],
+  "near": [
+   "p02",
+   "p03",
+   "p27"
+  ],
+  "keys": [
+   "w0026"
+  ],
+  "sentences": [
+   {
+    "id": "p11.1",
+    "src": "s0533",
+    "t": "Il poliziotto deve dire \"è la legge\".",
+    "en": "The policeman must say, \"It's the law.\"",
+    "lv": "A2",
+    "words": [
+     "w0001",
+     "w0923",
+     "w0026",
+     "w0033",
+     "w2138",
+     "w0229"
+    ],
+    "marks": [
+     [
+      14,
+      18
+     ]
+    ]
+   },
+   {
+    "id": "p11.2",
+    "src": "s1528",
+    "t": "Noi dobbiamo considerare ogni aspetto del problema.",
+    "en": "We must consider every aspect of the problem.",
+    "lv": "A2",
+    "words": [
+     "w0090",
+     "w0026",
+     "w0353",
+     "w0108",
+     "w0782",
+     "w0003",
+     "w0137"
+    ],
+    "marks": [
+     [
+      4,
+      12
+     ]
+    ]
+   },
+   {
+    "id": "p11.3",
+    "src": "s1662",
+    "t": "Lui deve subire un intervento la prossima settimana.",
+    "en": "He has to have an operation next week.",
+    "lv": "A2",
+    "words": [
+     "w0081",
+     "w0026",
+     "w0209",
+     "w2003",
+     "w1098",
+     "w0001",
+     "w0266",
+     "w0211"
+    ],
+    "marks": [
+     [
+      4,
+      8
+     ]
+    ]
+   },
+   {
+    "id": "p11.4",
+    "src": "s1977",
+    "t": "Io devo consegnare il mio rapporto oggi.",
+    "en": "I have to turn in my report today.",
+    "lv": "A2",
+    "words": [
+     "w2004",
+     "w0026",
+     "w1294",
+     "w0001",
+     "w2008",
+     "w0388",
+     "w0149"
+    ],
+    "marks": [
+     [
+      3,
+      7
+     ]
+    ]
+   },
+   {
+    "id": "p11.5",
+    "src": "s2734",
+    "t": "Soprattutto, devi prenderti cura di te stesso.",
+    "en": "Above all, you must take good care of yourself.",
+    "lv": "A2",
+    "words": [
+     "w0516",
+     "w0026",
+     "w0063",
+     "w0393",
+     "w0003",
+     "w0056",
+     "w2022"
+    ],
+    "marks": [
+     [
+      13,
+      17
+     ]
+    ]
+   },
+   {
+    "id": "p11.6",
+    "src": "s2767",
+    "t": "Tom deve andare in tribunale domani.",
+    "en": "Tom has to go to court tomorrow.",
+    "lv": "A2",
+    "words": [
+     "w0026",
+     "w0024",
+     "w0008",
+     "w1017",
+     "w0346"
+    ],
+    "marks": [
+     [
+      4,
+      8
+     ]
+    ]
+   }
+  ]
+ },
+ {
+  "id": "p12",
+  "lv": "A2",
+  "label": "mi / si / ci",
+  "en": "reflexive: oneself",
+  "note": [
+   "Done to oneself: the pronoun matches who acts.",
+   "Mi sono alzato. Si è seduta. Ci siamo lavati."
+  ],
+  "near": [
+   "p08",
+   "p15"
+  ],
+  "keys": [
+   "w0011",
+   "w0030",
+   "w2004"
+  ],
+  "sentences": [
+   {
+    "id": "p12.1",
+    "src": "s1532",
+    "t": "Loro si sono stabiliti in campagna.",
+    "en": "They settled in the country.",
+    "lv": "A2",
+    "words": [
+     "w0065",
+     "w0011",
+     "w0002",
+     "w1101",
+     "w0008",
+     "w0852"
+    ],
+    "marks": [
+     [
+      5,
+      7
+     ]
+    ]
+   },
+   {
+    "id": "p12.2",
+    "src": "s1586",
+    "t": "Lui si è trasferito nel mio quartiere.",
+    "en": "He moved into my neighborhood.",
+    "lv": "A2",
+    "words": [
+     "w0081",
+     "w0011",
+     "w2138",
+     "w2180",
+     "w0008",
+     "w2008",
+     "w1013"
+    ],
+    "marks": [
+     [
+      4,
+      6
+     ]
+    ]
+   },
+   {
+    "id": "p12.3",
+    "src": "s2684",
+    "t": "Lui si è dichiarato alla giovane donna.",
+    "en": "He proposed to the young woman.",
+    "lv": "A2",
+    "words": [
+     "w0081",
+     "w0011",
+     "w2138",
+     "w0844",
+     "w2001",
+     "w0295",
+     "w0133"
+    ],
+    "marks": [
+     [
+      4,
+      6
+     ]
+    ]
+   },
+   {
+    "id": "p12.4",
+    "src": "s1895",
+    "t": "Lui si è ripreso poco a poco.",
+    "en": "He recovered little by little.",
+    "lv": "A2",
+    "words": [
+     "w0081",
+     "w0011",
+     "w2138",
+     "w0739",
+     "w0151",
+     "w2001"
+    ],
+    "marks": [
+     [
+      4,
+      6
+     ]
+    ]
+   },
+   {
+    "id": "p12.5",
+    "src": "s2346",
+    "t": "Noi ci siamo seduti nel silenzio totale.",
+    "en": "We sat in total silence.",
+    "lv": "A2",
+    "words": [
+     "w0090",
+     "w0030",
+     "w0002",
+     "w0437",
+     "w0008",
+     "w2178",
+     "w0988"
+    ],
+    "marks": [
+     [
+      4,
+      6
+     ]
+    ]
+   },
+   {
+    "id": "p12.6",
+    "src": "s0985",
+    "t": "Mi sono appena alzato.",
+    "en": "I just got up.",
+    "lv": "A2",
+    "words": [
+     "w2004",
+     "w0002",
+     "w0219",
+     "w0743"
+    ],
+    "marks": [
+     [
+      0,
+      2
+     ]
+    ]
+   },
+   {
+    "id": "p12.7",
+    "src": "s2253",
+    "t": "Mi sono allenato con le forze speciali.",
+    "en": "I trained with the special forces.",
+    "lv": "A2",
+    "words": [
+     "w2004",
+     "w0002",
+     "w0014",
+     "w0001",
+     "w2040",
+     "w0434"
+    ],
+    "marks": [
+     [
+      0,
+      2
+     ]
+    ]
+   },
+   {
+    "id": "p12.8",
+    "src": "s3112",
+    "t": "Mi sono persino concesso una bella cena.",
+    "en": "I even treated myself to a nice meal.",
+    "lv": "A2",
+    "words": [
+     "w2004",
+     "w0002",
+     "w1271",
+     "w1696",
+     "w2003",
+     "w0093",
+     "w0684"
+    ],
+    "marks": [
+     [
+      0,
+      2
+     ]
+    ]
+   }
+  ]
+ },
+ {
+  "id": "p13",
+  "lv": "A2",
+  "label": "tutto / tutta / tutti",
+  "en": "all, every",
+  "note": [
+   "all: it matches the noun it goes with.",
+   "tutto il mondo, tutta la città, tutti i libri"
+  ],
+  "near": [
+   "p07"
+  ],
+  "keys": [
+   "w2009"
+  ],
+  "sentences": [
+   {
+    "id": "p13.1",
+    "src": "s0264",
+    "t": "Tutto lo zucchero è dolce.",
+    "en": "All sugar is sweet.",
+    "lv": "A2",
+    "words": [
+     "w2009",
+     "w0001",
+     "w2085",
+     "w2138",
+     "w0695"
+    ],
+    "marks": [
+     [
+      0,
+      5
+     ]
+    ]
+   },
+   {
+    "id": "p13.2",
+    "src": "s1083",
+    "t": "La tempesta ha distrutto tutta la città.",
+    "en": "The storm destroyed the whole town.",
+    "lv": "A2",
+    "words": [
+     "w0001",
+     "w2002",
+     "w0708",
+     "w0232"
+    ],
+    "marks": [
+     [
+      25,
+      30
+     ]
+    ]
+   },
+   {
+    "id": "p13.3",
+    "src": "s2777",
+    "t": "Lui aveva perso tutto il potere politico.",
+    "en": "He had lost all political power.",
+    "lv": "A2",
+    "words": [
+     "w0081",
+     "w2002",
+     "w0230",
+     "w0001",
+     "w0740"
+    ],
+    "marks": [
+     [
+      16,
+      21
+     ]
+    ]
+   },
+   {
+    "id": "p13.4",
+    "src": "s0666",
+    "t": "Tutti i loro segreti sono stati rivelati.",
+    "en": "All their secrets have been revealed.",
+    "lv": "A2",
+    "words": [
+     "w0001",
+     "w2044",
+     "w2159",
+     "w0002",
+     "w1170"
+    ],
+    "marks": [
+     [
+      0,
+      5
+     ]
+    ]
+   },
+   {
+    "id": "p13.5",
+    "src": "s2119",
+    "t": "Ho provato a eliminare tutti i dubbi.",
+    "en": "I tried to remove all doubt.",
+    "lv": "A2",
+    "words": [
+     "w2002",
+     "w0208",
+     "w2001",
+     "w1168",
+     "w0001",
+     "w2158"
+    ],
+    "marks": [
+     [
+      23,
+      28
+     ]
+    ]
+   },
+   {
+    "id": "p13.6",
+    "src": "s2713",
+    "t": "Non tutti gli studi scientifici sono uguali.",
+    "en": "Not all scientific studies are equal.",
+    "lv": "A2",
+    "words": [
+     "w0007",
+     "w0001",
+     "w0336",
+     "w1139",
+     "w0002",
+     "w1148"
+    ],
+    "marks": [
+     [
+      4,
+      9
+     ]
+    ]
+   }
+  ]
+ },
+ {
+  "id": "p14",
+  "lv": "A2",
+  "label": "quel / quella / quei / quelle",
+  "en": "that, those",
+  "note": [
+   "that / those: it matches the noun it goes with.",
+   "quel libro, quella casa, quei libri, quelle case"
+  ],
+  "near": [
+   "p05"
+  ],
+  "keys": [
+   "w2010"
+  ],
+  "sentences": [
+   {
+    "id": "p14.1",
+    "src": "s2570",
+    "t": "Quel cappello sta bene addosso a Tom.",
+    "en": "That hat looks good on Tom.",
+    "lv": "A2",
+    "words": [
+     "w2010",
+     "w1906",
+     "w0020",
+     "w2013",
+     "w1060",
+     "w2001"
+    ],
+    "marks": [
+     [
+      0,
+      4
+     ]
+    ]
+   },
+   {
+    "id": "p14.2",
+    "src": "s0307",
+    "t": "Quella chiesa sulla collina è molto antica.",
+    "en": "That church on the hill is very old.",
+    "lv": "A2",
+    "words": [
+     "w0483",
+     "w0048",
+     "w2138",
+     "w0044",
+     "w2186"
+    ],
+    "marks": [
+     [
+      0,
+      6
+     ]
+    ]
+   },
+   {
+    "id": "p14.3",
+    "src": "s0878",
+    "t": "Quelle proposte mi sembrano del tutto simili.",
+    "en": "Those proposals seem very much alike to me.",
+    "lv": "A2",
+    "words": [
+     "w2196",
+     "w2004",
+     "w0099",
+     "w0003",
+     "w0463"
+    ],
+    "marks": [
+     [
+      0,
+      6
+     ]
+    ]
+   },
+   {
+    "id": "p14.4",
+    "src": "s1488",
+    "t": "Gli ha consigliato di leggere quei libri.",
+    "en": "She advised him to read those books.",
+    "lv": "A2",
+    "words": [
+     "w0813",
+     "w2002",
+     "w2217",
+     "w0003",
+     "w0163",
+     "w0264"
+    ],
+    "marks": [
+     [
+      30,
+      34
+     ]
+    ]
+   },
+   {
+    "id": "p14.5",
+    "src": "s1656",
+    "t": "L'orologio su quella torre è preciso.",
+    "en": "The clock on that tower is accurate.",
+    "lv": "A2",
+    "words": [
+     "w0001",
+     "w1880",
+     "w0048",
+     "w2138",
+     "w1171"
+    ],
+    "marks": [
+     [
+      14,
+      20
+     ]
+    ]
+   },
+   {
+    "id": "p14.6",
+    "src": "s2830",
+    "t": "Qual è il titolo di quel libro?",
+    "en": "What's the title of that book?",
+    "lv": "A2",
+    "words": [
+     "w2038",
+     "w2138",
+     "w0001",
+     "w0661",
+     "w0003",
+     "w2010",
+     "w0264"
+    ],
+    "marks": [
+     [
+      20,
+      24
+     ]
+    ]
+   },
+   {
+    "id": "p14.7",
+    "src": "s1877",
+    "t": "Io l'avrei fatto in quel periodo.",
+    "en": "I would have done it at that time.",
+    "lv": "A2",
+    "words": [
+     "w2004",
+     "w2007",
+     "w2002",
+     "w0010",
+     "w0008",
+     "w2010",
+     "w0532"
+    ],
+    "marks": [
+     [
+      20,
+      24
+     ]
+    ]
+   }
+  ]
+ },
+ {
+  "id": "p15",
+  "lv": "A2",
+  "label": "ci / ne",
+  "en": "there, us / of it, of them",
+  "note": [
+   "ci: us, or there. ne: of it, of them.",
+   "Ci vado. Ne ho tre. Ne vale la pena."
+  ],
+  "near": [
+   "p04",
+   "p08",
+   "p12"
+  ],
+  "keys": [
+   "w0030",
+   "w0050"
+  ],
+  "sentences": [
+   {
+    "id": "p15.1",
+    "src": "s0361",
+    "t": "Ho proposto che ci vada da sola.",
+    "en": "I suggested that she go there alone.",
+    "lv": "A2",
+    "words": [
+     "w2002",
+     "w0562",
+     "w0005",
+     "w0030",
+     "w0024",
+     "w0017"
+    ],
+    "marks": [
+     [
+      16,
+      18
+     ]
+    ]
+   },
+   {
+    "id": "p15.2",
+    "src": "s0886",
+    "t": "La guida ci condurrà al famoso parco.",
+    "en": "The guide will lead us to the famous park.",
+    "lv": "A2",
+    "words": [
+     "w0001",
+     "w0774",
+     "w0030",
+     "w1051",
+     "w2001",
+     "w0781",
+     "w2204"
+    ],
+    "marks": [
+     [
+      9,
+      11
+     ]
+    ]
+   },
+   {
+    "id": "p15.3",
+    "src": "s0175",
+    "t": "Lei ci insegna il francese.",
+    "en": "She teaches us French.",
+    "lv": "A2",
+    "words": [
+     "w0096",
+     "w0030",
+     "w0810",
+     "w0001"
+    ],
+    "marks": [
+     [
+      4,
+      6
+     ]
+    ]
+   },
+   {
+    "id": "p15.4",
+    "src": "s1068",
+    "t": "È un pezzo che non ci vediamo.",
+    "en": "It's been a while since we've met.",
+    "lv": "A2",
+    "words": [
+     "w2138",
+     "w2003",
+     "w0454",
+     "w0005",
+     "w0007",
+     "w0030",
+     "w0037"
+    ],
+    "marks": [
+     [
+      19,
+      21
+     ]
+    ]
+   },
+   {
+    "id": "p15.5",
+    "src": "s0782",
+    "t": "Ne abbiamo avuto abbastanza delle parole vuote.",
+    "en": "We have had enough of empty words.",
+    "lv": "A2",
+    "words": [
+     "w0050",
+     "w2002",
+     "w0316",
+     "w0003",
+     "w0196",
+     "w2203"
+    ],
+    "marks": [
+     [
+      0,
+      2
+     ]
+    ]
+   },
+   {
+    "id": "p15.6",
+    "src": "s0411",
+    "t": "Gli ospiti se ne sono andati tutti.",
+    "en": "The guests are all gone.",
+    "lv": "A2",
+    "words": [
+     "w0001",
+     "w1063",
+     "w0011",
+     "w0050",
+     "w0002",
+     "w0024",
+     "w2009"
+    ],
+    "marks": [
+     [
+      14,
+      16
+     ]
+    ]
+   },
+   {
+    "id": "p15.7",
+    "src": "s1295",
+    "t": "Ne ho avuto abbastanza dei suoi scherzi.",
+    "en": "I have had quite enough of his jokes.",
+    "lv": "A2",
+    "words": [
+     "w0050",
+     "w2002",
+     "w0316",
+     "w0003",
+     "w0028",
+     "w2213"
+    ],
+    "marks": [
+     [
+      0,
+      2
+     ]
+    ]
+   }
+  ]
+ },
+ {
+  "id": "p16",
+  "lv": "A2",
+  "label": "ieri / domani · scorso / prossimo",
+  "en": "time words: the verb tense agrees",
+  "note": [
+   "yesterday, tomorrow, last, next: they fit the tense.",
+   "Ieri ho mangiato. Domani mangerò."
+  ],
+  "near": [
+   "p23",
+   "p26",
+   "p27"
+  ],
+  "keys": [
+   "w2149",
+   "w0266",
+   "w0346",
+   "w0367"
+  ],
+  "sentences": [
+   {
+    "id": "p16.1",
+    "src": "s0316",
+    "t": "Ho perso mia moglie l'anno scorso.",
+    "en": "I lost my wife last year.",
+    "lv": "A2",
+    "words": [
+     "w2002",
+     "w0230",
+     "w2008",
+     "w0324",
+     "w0001",
+     "w0053",
+     "w2149"
+    ],
+    "marks": [
+     [
+      27,
+      33
+     ]
+    ]
+   },
+   {
+    "id": "p16.2",
+    "src": "s0347",
+    "t": "Non ho dormito bene la notte scorsa.",
+    "en": "I did not sleep well last night.",
+    "lv": "A2",
+    "words": [
+     "w0007",
+     "w2002",
+     "w0417",
+     "w2013",
+     "w0001",
+     "w0238",
+     "w2149"
+    ],
+    "marks": [
+     [
+      29,
+      35
+     ]
+    ]
+   },
+   {
+    "id": "p16.3",
+    "src": "s1662",
+    "t": "Lui deve subire un intervento la prossima settimana.",
+    "en": "He has to have an operation next week.",
+    "lv": "A2",
+    "words": [
+     "w0081",
+     "w0026",
+     "w0209",
+     "w2003",
+     "w1098",
+     "w0001",
+     "w0266",
+     "w0211"
+    ],
+    "marks": [
+     [
+      33,
+      41
+     ]
+    ]
+   },
+   {
+    "id": "p16.4",
+    "src": "s0773",
+    "t": "Il Presidente farà una dichiarazione domani.",
+    "en": "The President is to make a statement tomorrow.",
+    "lv": "A2",
+    "words": [
+     "w0001",
+     "w0010",
+     "w2003",
+     "w1177",
+     "w0346"
+    ],
+    "marks": [
+     [
+      37,
+      43
+     ]
+    ]
+   },
+   {
+    "id": "p16.5",
+    "src": "s2146",
+    "t": "Ti dirò il resto della storia domani.",
+    "en": "I'll tell you the rest of the story tomorrow.",
+    "lv": "A2",
+    "words": [
+     "w0055",
+     "w0033",
+     "w0001",
+     "w0352",
+     "w0003",
+     "w0152",
+     "w0346"
+    ],
+    "marks": [
+     [
+      30,
+      36
+     ]
+    ]
+   },
+   {
+    "id": "p16.6",
+    "src": "s1821",
+    "t": "Ieri sono stato al teatro dell'opera.",
+    "en": "Yesterday I went to the opera.",
+    "lv": "A2",
+    "words": [
+     "w0367",
+     "w0002",
+     "w2001",
+     "w1173",
+     "w0003",
+     "w0501"
+    ],
+    "marks": [
+     [
+      0,
+      4
+     ]
+    ]
+   },
+   {
+    "id": "p16.7",
+    "src": "s2478",
+    "t": "Ho visto Tom al bar ieri sera.",
+    "en": "I saw Tom at the bar last night.",
+    "lv": "A2",
+    "words": [
+     "w2002",
+     "w0037",
+     "w2001",
+     "w0889",
+     "w0367",
+     "w0305"
+    ],
+    "marks": [
+     [
+      20,
+      24
+     ]
+    ]
+   },
+   {
+    "id": "p16.8",
+    "src": "s1170",
+    "t": "Tom e Mary voleranno a Boston domani.",
+    "en": "Tom and Mary are flying to Boston tomorrow.",
+    "lv": "A2",
+    "words": [
+     "w2005",
+     "w1278",
+     "w2001",
+     "w0346"
+    ],
+    "marks": [
+     [
+      30,
+      36
+     ]
+    ]
+   }
+  ]
+ },
+ {
+  "id": "p17",
+  "lv": "A2",
+  "label": "a / in (place)",
+  "en": "in, to a place",
+  "note": [
+   "in / to a place: a + city, in + country.",
+   "Vivo a Roma. Vado in Italia."
+  ],
+  "near": [
+   "p09",
+   "p27"
+  ],
+  "keys": [
+   "w2001",
+   "w0008"
+  ],
+  "sentences": [
+   {
+    "id": "p17.1",
+    "src": "s0280",
+    "t": "Ci sono molti templi antichi a Kyoto.",
+    "en": "There are many old temples in Kyoto.",
+    "lv": "A2",
+    "words": [
+     "w0030",
+     "w0002",
+     "w2186",
+     "w2001"
+    ],
+    "marks": [
+     [
+      29,
+      30
+     ]
+    ]
+   },
+   {
+    "id": "p17.2",
+    "src": "s1161",
+    "t": "Tom non ha desiderio di andare a Boston.",
+    "en": "Tom has no desire to go to Boston.",
+    "lv": "A2",
+    "words": [
+     "w0007",
+     "w2002",
+     "w0954",
+     "w0003",
+     "w0024",
+     "w2001"
+    ],
+    "marks": [
+     [
+      31,
+      32
+     ]
+    ]
+   },
+   {
+    "id": "p17.3",
+    "src": "s1935",
+    "t": "Ci sono ancora dei giudici a Berlino!",
+    "en": "There are still judges in Berlin!",
+    "lv": "A2",
+    "words": [
+     "w0030",
+     "w0002",
+     "w0066",
+     "w0003",
+     "w0871",
+     "w2001"
+    ],
+    "marks": [
+     [
+      27,
+      28
+     ]
+    ]
+   },
+   {
+    "id": "p17.4",
+    "src": "s2111",
+    "t": "Mary gestisce un banco alimentare a Londra.",
+    "en": "Mary runs a food bank in London.",
+    "lv": "A2",
+    "words": [
+     "w0737",
+     "w2003",
+     "w2001"
+    ],
+    "marks": [
+     [
+      34,
+      35
+     ]
+    ]
+   },
+   {
+    "id": "p17.5",
+    "src": "s0603",
+    "t": "Ci sono molti popoli differenti in Europa.",
+    "en": "There are a lot of different people in Europe.",
+    "lv": "A2",
+    "words": [
+     "w0030",
+     "w0002",
+     "w0749",
+     "w0008"
+    ],
+    "marks": [
+     [
+      32,
+      34
+     ]
+    ]
+   },
+   {
+    "id": "p17.6",
+    "src": "s1118",
+    "t": "Il suo desiderio era andare in America.",
+    "en": "His wish was to go to America.",
+    "lv": "A2",
+    "words": [
+     "w0001",
+     "w0028",
+     "w0954",
+     "w0002",
+     "w0024",
+     "w0008"
+    ],
+    "marks": [
+     [
+      28,
+      30
+     ]
+    ]
+   },
+   {
+    "id": "p17.7",
+    "src": "s1631",
+    "t": "La settimana in Russia è stata fantastica.",
+    "en": "The week in Russia has been awesome.",
+    "lv": "A2",
+    "words": [
+     "w0001",
+     "w0211",
+     "w0008",
+     "w2138",
+     "w0002",
+     "w0491"
+    ],
+    "marks": [
+     [
+      13,
+      15
+     ]
+    ]
+   },
+   {
+    "id": "p17.8",
+    "src": "s1653",
+    "t": "In Africa molte persone soffrono la fame.",
+    "en": "A lot of people in Africa go hungry.",
+    "lv": "A2",
+    "words": [
+     "w0008",
+     "w0095",
+     "w0925",
+     "w0001",
+     "w0868"
+    ],
+    "marks": [
+     [
+      0,
+      2
+     ]
+    ]
+   }
+  ]
+ },
+ {
+  "id": "p18",
+  "lv": "A2",
+  "label": "suo / sua / suoi / sue",
+  "en": "his, her",
+  "note": [
+   "his / her: it matches the noun, not the owner.",
+   "il suo libro, la sua casa, i suoi libri"
+  ],
+  "near": [
+   "p05"
+  ],
+  "keys": [
+   "w0028"
+  ],
+  "sentences": [
+   {
+    "id": "p18.1",
+    "src": "s0324",
+    "t": "È ritornato a prendere il suo cappello.",
+    "en": "He went back to get his hat.",
+    "lv": "A2",
+    "words": [
+     "w2138",
+     "w0494",
+     "w2001",
+     "w0063",
+     "w0001",
+     "w0028",
+     "w1906"
+    ],
+    "marks": [
+     [
+      26,
+      29
+     ]
+    ]
+   },
+   {
+    "id": "p18.2",
+    "src": "s0184",
+    "t": "Ogni paese ha la sua bandiera nazionale.",
+    "en": "Every country has its national flag.",
+    "lv": "A2",
+    "words": [
+     "w0108",
+     "w0235",
+     "w2002",
+     "w0001",
+     "w0028",
+     "w0492"
+    ],
+    "marks": [
+     [
+      17,
+      20
+     ]
+    ]
+   },
+   {
+    "id": "p18.3",
+    "src": "s0401",
+    "t": "Lui non vive con i suoi genitori.",
+    "en": "He lives apart from his parents.",
+    "lv": "A2",
+    "words": [
+     "w0081",
+     "w0007",
+     "w0168",
+     "w0014",
+     "w0001",
+     "w0028",
+     "w0452"
+    ],
+    "marks": [
+     [
+      19,
+      23
+     ]
+    ]
+   },
+   {
+    "id": "p18.4",
+    "src": "s1075",
+    "t": "Non ho avuto sue notizie di recente.",
+    "en": "I have heard nothing of him lately.",
+    "lv": "A2",
+    "words": [
+     "w0007",
+     "w2002",
+     "w0028",
+     "w0340",
+     "w0003",
+     "w1046"
+    ],
+    "marks": [
+     [
+      13,
+      16
+     ]
+    ]
+   },
+   {
+    "id": "p18.5",
+    "src": "s0295",
+    "t": "Ho ringraziato Mary per il suo aiuto.",
+    "en": "I thanked Mary for her help.",
+    "lv": "A2",
+    "words": [
+     "w2002",
+     "w0720",
+     "w0009",
+     "w0001",
+     "w0028",
+     "w0284"
+    ],
+    "marks": [
+     [
+      27,
+      30
+     ]
+    ]
+   },
+   {
+    "id": "p18.6",
+    "src": "s1283",
+    "t": "La sua vita è giunta al termine.",
+    "en": "His life came to a close.",
+    "lv": "A2",
+    "words": [
+     "w0001",
+     "w0028",
+     "w0097",
+     "w2138",
+     "w1595",
+     "w2001",
+     "w0541"
+    ],
+    "marks": [
+     [
+      3,
+      6
+     ]
+    ]
+   },
+   {
+    "id": "p18.7",
+    "src": "s0602",
+    "t": "I suoi giorni stanno giungendo al termine.",
+    "en": "His days are drawing to their close.",
+    "lv": "A2",
+    "words": [
+     "w0001",
+     "w0028",
+     "w0084",
+     "w0020",
+     "w1595",
+     "w2001",
+     "w0541"
+    ],
+    "marks": [
+     [
+      2,
+      6
+     ]
+    ]
+   },
+   {
+    "id": "p18.8",
+    "src": "s1006",
+    "t": "Ha un profondo affetto per suo figlio.",
+    "en": "He has a deep affection for his son.",
+    "lv": "A2",
+    "words": [
+     "w2002",
+     "w2003",
+     "w0977",
+     "w0009",
+     "w0028",
+     "w0160"
+    ],
+    "marks": [
+     [
+      27,
+      30
+     ]
+    ]
+   }
+  ]
+ },
+ {
+  "id": "p19",
+  "lv": "A2",
+  "label": "del / della / dei / delle",
+  "en": "of the",
+  "note": [
+   "of the: di joins with the article.",
+   "del libro, della casa, dei libri, delle case"
+  ],
+  "near": [
+   "p07"
+  ],
+  "keys": [
+   "w0003"
+  ],
+  "sentences": [
+   {
+    "id": "p19.1",
+    "src": "s0073",
+    "t": "Fammi sapere i risultati del tuo esame.",
+    "en": "Let me know your exam results.",
+    "lv": "A2",
+    "words": [
+     "w0010",
+     "w0029",
+     "w0001",
+     "w0470",
+     "w0003",
+     "w0042",
+     "w0906"
+    ],
+    "marks": [
+     [
+      25,
+      28
+     ]
+    ]
+   },
+   {
+    "id": "p19.2",
+    "src": "s0510",
+    "t": "Qual è lo scopo della tua visita?",
+    "en": "What's the purpose of your visit?",
+    "lv": "A2",
+    "words": [
+     "w2038",
+     "w2138",
+     "w0001",
+     "w0775",
+     "w0003",
+     "w0042",
+     "w0704"
+    ],
+    "marks": [
+     [
+      16,
+      21
+     ]
+    ]
+   },
+   {
+    "id": "p19.3",
+    "src": "s1344",
+    "t": "Solo 3 dei 98 passeggeri sono sopravvissuti.",
+    "en": "Only 3 out of the 98 passengers survived.",
+    "lv": "A2",
+    "words": [
+     "w2014",
+     "w0003",
+     "w0002",
+     "w1568"
+    ],
+    "marks": [
+     [
+      7,
+      10
+     ]
+    ]
+   },
+   {
+    "id": "p19.4",
+    "src": "s1624",
+    "t": "Ho studiato la struttura delle famiglie Ainu.",
+    "en": "I studied the structure of Ainu families.",
+    "lv": "A2",
+    "words": [
+     "w2002",
+     "w0701",
+     "w0001",
+     "w1006",
+     "w0003",
+     "w0178"
+    ],
+    "marks": [
+     [
+      25,
+      30
+     ]
+    ]
+   },
+   {
+    "id": "p19.5",
+    "src": "s1587",
+    "t": "È diventato un cittadino degli Stati Uniti.",
+    "en": "He became a citizen of the United States.",
+    "lv": "A2",
+    "words": [
+     "w2138",
+     "w0164",
+     "w2003",
+     "w0805",
+     "w0003"
+    ],
+    "marks": [
+     [
+      25,
+      30
+     ]
+    ]
+   },
+   {
+    "id": "p19.6",
+    "src": "s0535",
+    "t": "Qual è il compito dello storico?",
+    "en": "What's the historian's duty?",
+    "lv": "A2",
+    "words": [
+     "w2038",
+     "w2138",
+     "w0001",
+     "w0893",
+     "w0003",
+     "w1038"
+    ],
+    "marks": [
+     [
+      18,
+      23
+     ]
+    ]
+   },
+   {
+    "id": "p19.7",
+    "src": "s0801",
+    "t": "Questo è il risultato della nostra ricerca.",
+    "en": "This is the outcome of our research.",
+    "lv": "A2",
+    "words": [
+     "w0012",
+     "w2138",
+     "w0001",
+     "w0470",
+     "w0003",
+     "w0061",
+     "w0403"
+    ],
+    "marks": [
+     [
+      22,
+      27
+     ]
+    ]
+   },
+   {
+    "id": "p19.8",
+    "src": "s2689",
+    "t": "L'isola è a sud del Giappone.",
+    "en": "The island is to the south of Japan.",
+    "lv": "A2",
+    "words": [
+     "w0001",
+     "w0944",
+     "w2138",
+     "w2001",
+     "w0639",
+     "w0003"
+    ],
+    "marks": [
+     [
+      16,
+      19
+     ]
+    ]
+   }
+  ]
+ },
+ {
+  "id": "p20",
+  "lv": "B1",
+  "label": "che + sia / abbia / possa",
+  "en": "subjunctive: opinion, hope, doubt",
+  "note": [
+   "After think, hope, doubt + che, the verb changes.",
+   "Penso che sia vero. Spero che abbia tempo."
+  ],
+  "near": [
+   "p02",
+   "p03"
+  ],
+  "keys": [
+   "w0002",
+   "w2002",
+   "w0015",
+   "w0020"
+  ],
+  "sentences": [
+   {
+    "id": "p20.1",
+    "src": "s0975",
+    "t": "Penso che tu sia una persona davvero simpatica.",
+    "en": "I think you are a really nice person.",
+    "lv": "B1",
+    "words": [
+     "w0049",
+     "w0005",
+     "w0055",
+     "w0002",
+     "w2003",
+     "w0095",
+     "w0124",
+     "w2321"
+    ],
+    "marks": [
+     [
+      13,
+      16
+     ]
+    ]
+   },
+   {
+    "id": "p20.2",
+    "src": "s1098",
+    "t": "Non è probabile che lo abbia fatto apposta.",
+    "en": "It is not likely that he did it on purpose.",
+    "lv": "B1",
+    "words": [
+     "w0007",
+     "w2138",
+     "w1813",
+     "w0005",
+     "w2007",
+     "w2002",
+     "w0010"
+    ],
+    "marks": [
+     [
+      23,
+      28
+     ]
+    ]
+   },
+   {
+    "id": "p20.3",
+    "src": "s1412",
+    "t": "Si dice che gli inglesi siano persone pratiche.",
+    "en": "The English are said to be a practical people.",
+    "lv": "B1",
+    "words": [
+     "w0011",
+     "w0033",
+     "w0005",
+     "w0001",
+     "w0002",
+     "w0095",
+     "w2297"
+    ],
+    "marks": [
+     [
+      24,
+      29
+     ]
+    ]
+   },
+   {
+    "id": "p20.4",
+    "src": "s1772",
+    "t": "Noi pensiamo che Tom possa essere nei guai.",
+    "en": "We think Tom may be in trouble.",
+    "lv": "B1",
+    "words": [
+     "w0090",
+     "w0049",
+     "w0005",
+     "w0015",
+     "w0002",
+     "w0008",
+     "w1334"
+    ],
+    "marks": [
+     [
+      21,
+      26
+     ]
+    ]
+   },
+   {
+    "id": "p20.5",
+    "src": "s2452",
+    "t": "Io penso che Tom stia esagerando un po'.",
+    "en": "I think Tom is exaggerating a little.",
+    "lv": "B1",
+    "words": [
+     "w2004",
+     "w0049",
+     "w0005",
+     "w0020",
+     "w1851",
+     "w2003"
+    ],
+    "marks": [
+     [
+      17,
+      21
+     ]
+    ]
+   },
+   {
+    "id": "p20.6",
+    "src": "s2721",
+    "t": "Spero che tu abbia portato la protezione solare.",
+    "en": "I hope you brought sunscreen.",
+    "lv": "B1",
+    "words": [
+     "w0244",
+     "w0005",
+     "w0055",
+     "w2002",
+     "w0127",
+     "w0001",
+     "w1312"
+    ],
+    "marks": [
+     [
+      13,
+      18
+     ]
+    ]
+   },
+   {
+    "id": "p20.7",
+    "src": "s2333",
+    "t": "Tom è convinto che la Terra sia piatta.",
+    "en": "Tom is convinced that the earth is flat.",
+    "lv": "B1",
+    "words": [
+     "w2138",
+     "w2314",
+     "w0005",
+     "w0001",
+     "w0002"
+    ],
+    "marks": [
+     [
+      28,
+      31
+     ]
+    ]
+   },
+   {
+    "id": "p20.8",
+    "src": "s3039",
+    "t": "Spero che Tom e Mary non siano offesi.",
+    "en": "I hope Tom and Mary aren't offended.",
+    "lv": "B1",
+    "words": [
+     "w0244",
+     "w0005",
+     "w2005",
+     "w0007",
+     "w0002",
+     "w2292"
+    ],
+    "marks": [
+     [
+      25,
+      30
+     ]
+    ]
+   }
+  ]
+ },
+ {
+  "id": "p21",
+  "lv": "B1",
+  "label": "fosse / avesse / potesse",
+  "en": "past subjunctive",
+  "note": [
+   "Subjunctive in the past: pensavo che, se, vorrei che.",
+   "Pensavo che fosse tardi. Se avessi tempo..."
+  ],
+  "near": [
+   "p02",
+   "p03",
+   "p23"
+  ],
+  "keys": [
+   "w0020",
+   "w2002",
+   "w0015",
+   "w0002"
+  ],
+  "sentences": [
+   {
+    "id": "p21.1",
+    "src": "s0697",
+    "t": "Era convinta che lui stesse sprecando energia elettrica.",
+    "en": "She thought that he was wasting electricity.",
+    "lv": "B1",
+    "words": [
+     "w0002",
+     "w0733",
+     "w0005",
+     "w0081",
+     "w0020",
+     "w0866",
+     "w1382"
+    ],
+    "marks": [
+     [
+      21,
+      27
+     ]
+    ]
+   },
+   {
+    "id": "p21.2",
+    "src": "s0864",
+    "t": "Si credeva che Joe avesse sparato al prigioniero.",
+    "en": "Joe was believed to have shot the prisoner.",
+    "lv": "B1",
+    "words": [
+     "w0011",
+     "w0072",
+     "w0005",
+     "w2002",
+     "w0543",
+     "w2001",
+     "w2319"
+    ],
+    "marks": [
+     [
+      19,
+      25
+     ]
+    ]
+   },
+   {
+    "id": "p21.3",
+    "src": "s1793",
+    "t": "Io pensavo che Tom potesse essere in carcere.",
+    "en": "I thought Tom might be in jail.",
+    "lv": "B1",
+    "words": [
+     "w2004",
+     "w0049",
+     "w0005",
+     "w0015",
+     "w0002",
+     "w0008",
+     "w1716"
+    ],
+    "marks": [
+     [
+      19,
+      26
+     ]
+    ]
+   },
+   {
+    "id": "p21.4",
+    "src": "s1970",
+    "t": "Se io avessi le ali, volerei verso di te.",
+    "en": "If I had wings, I would fly to you.",
+    "lv": "B1",
+    "words": [
+     "w0022",
+     "w2004",
+     "w2002",
+     "w0001",
+     "w1356",
+     "w1278",
+     "w0227",
+     "w0003",
+     "w0056"
+    ],
+    "marks": [
+     [
+      6,
+      12
+     ]
+    ],
+    "edited": true
+   },
+   {
+    "id": "p21.5",
+    "src": "s0016",
+    "t": "Per un momento ho pensato che fosse impazzito.",
+    "en": "For a moment there, I thought he had gone mad.",
+    "lv": "B1",
+    "words": [
+     "w0009",
+     "w2003",
+     "w0146",
+     "w2002",
+     "w0049",
+     "w0005",
+     "w0002",
+     "w1481"
+    ],
+    "marks": [
+     [
+      30,
+      35
+     ]
+    ]
+   },
+   {
+    "id": "p21.6",
+    "src": "s0611",
+    "t": "Sebbene fosse stanca, ha continuato a lavorare.",
+    "en": "Though she was tired, she kept on working.",
+    "lv": "B1",
+    "words": [
+     "w1893",
+     "w0002",
+     "w2002",
+     "w0338",
+     "w2001",
+     "w0192"
+    ],
+    "marks": [
+     [
+      8,
+      13
+     ]
+    ]
+   },
+   {
+    "id": "p21.7",
+    "src": "s3058",
+    "t": "Mi chiedo cosa stesse combinando in quel posto.",
+    "en": "I wonder what he was up to in that place.",
+    "lv": "B1",
+    "words": [
+     "w2004",
+     "w0116",
+     "w2015",
+     "w0020",
+     "w1871",
+     "w0008",
+     "w2010",
+     "w0126"
+    ],
+    "marks": [
+     [
+      15,
+      21
+     ]
+    ]
+   },
+   {
+    "id": "p21.8",
+    "src": "s2869",
+    "t": "Non penso che Tom fosse determinato a farlo.",
+    "en": "I don't think Tom was determined to do that.",
+    "lv": "B1",
+    "words": [
+     "w0007",
+     "w0049",
+     "w0005",
+     "w0002",
+     "w1858",
+     "w2001",
+     "w0010"
+    ],
+    "marks": [
+     [
+      18,
+      23
+     ]
+    ]
+   }
+  ]
+ },
+ {
+  "id": "p22",
+  "lv": "B1",
+  "label": "dovrebbe / potrebbe / sarebbe",
+  "en": "should, could, would",
+  "note": [
+   "Would / should / could: endings -rei, -resti, -rebbe.",
+   "Dovresti partire. Sarebbe bello."
+  ],
+  "near": [
+   "p02",
+   "p03",
+   "p27"
+  ],
+  "keys": [
+   "w0026",
+   "w0015",
+   "w0002"
+  ],
+  "sentences": [
+   {
+    "id": "p22.1",
+    "src": "s2079",
+    "t": "Tu dovresti pagare il tuo affitto in anticipo.",
+    "en": "You should pay your rent in advance.",
+    "lv": "B1",
+    "words": [
+     "w0055",
+     "w0026",
+     "w0265",
+     "w0001",
+     "w0042",
+     "w1942",
+     "w0008"
+    ],
+    "marks": [
+     [
+      3,
+      11
+     ]
+    ]
+   },
+   {
+    "id": "p22.2",
+    "src": "s1600",
+    "t": "La mente dovrebbe essere sviluppata assieme al corpo.",
+    "en": "The mind should be developed along with the body.",
+    "lv": "B1",
+    "words": [
+     "w0001",
+     "w0408",
+     "w0026",
+     "w0002",
+     "w1441",
+     "w1533",
+     "w2001",
+     "w0290"
+    ],
+    "marks": [
+     [
+      9,
+      17
+     ]
+    ]
+   },
+   {
+    "id": "p22.3",
+    "src": "s0830",
+    "t": "Riforme finanziarie potrebbero migliorare le difficoltà economiche attuali.",
+    "en": "Financial reforms may ameliorate the current economic difficulties.",
+    "lv": "B1",
+    "words": [
+     "w2264",
+     "w0015",
+     "w1059",
+     "w0001",
+     "w1483",
+     "w0817",
+     "w1324"
+    ],
+    "marks": [
+     [
+      20,
+      30
+     ]
+    ]
+   },
+   {
+    "id": "p22.4",
+    "src": "s3001",
+    "t": "Ho delle novità che potrebbero interessarti.",
+    "en": "I have some news that might interest you.",
+    "lv": "B1",
+    "words": [
+     "w2002",
+     "w0003",
+     "w2256",
+     "w2006",
+     "w0015",
+     "w0504"
+    ],
+    "marks": [
+     [
+      20,
+      30
+     ]
+    ]
+   },
+   {
+    "id": "p22.5",
+    "src": "s2748",
+    "t": "Sarebbe fantastico se ci fosse un'edizione giapponese.",
+    "en": "It'd be awesome if there was a Japanese edition.",
+    "lv": "B1",
+    "words": [
+     "w0002",
+     "w0491",
+     "w0022",
+     "w0030",
+     "w2003",
+     "w1734"
+    ],
+    "marks": [
+     [
+      0,
+      7
+     ]
+    ]
+   },
+   {
+    "id": "p22.6",
+    "src": "s3088",
+    "t": "Sarebbe molto crudele escludere qualcuno da un gruppo.",
+    "en": "It would be very cruel to leave someone out of a group.",
+    "lv": "B1",
+    "words": [
+     "w0002",
+     "w0044",
+     "w1866",
+     "w0147",
+     "w0017",
+     "w2003",
+     "w0261"
+    ],
+    "marks": [
+     [
+      0,
+      7
+     ]
+    ]
+   },
+   {
+    "id": "p22.7",
+    "src": "s2123",
+    "t": "Io potrei provare a procurarti un biglietto.",
+    "en": "I could try to get you a ticket.",
+    "lv": "B1",
+    "words": [
+     "w2004",
+     "w0015",
+     "w0208",
+     "w2001",
+     "w2287",
+     "w2003",
+     "w0839"
+    ],
+    "marks": [
+     [
+      3,
+      9
+     ]
+    ]
+   }
+  ]
+ },
+ {
+  "id": "p23",
+  "lv": "B1",
+  "label": "sarà / saranno / avrà",
+  "en": "will (future)",
+  "note": [
+   "Will: the future ends in -rà or -ranno.",
+   "Domani sarà bello. Tom avrà tempo."
+  ],
+  "near": [
+   "p01",
+   "p02",
+   "p03",
+   "p10",
+   "p16",
+   "p21",
+   "p27"
+  ],
+  "keys": [
+   "w0002",
+   "w2002"
+  ],
+  "sentences": [
+   {
+    "id": "p23.1",
+    "src": "s0978",
+    "t": "Nostra figlia sarà al Shichi-Go-San festival quest'anno.",
+    "en": "Our daughter will be in the Shichi-Go-San festival this year.",
+    "lv": "B1",
+    "words": [
+     "w0061",
+     "w0384",
+     "w0002",
+     "w2001",
+     "w1877",
+     "w0012",
+     "w0053"
+    ],
+    "marks": [
+     [
+      14,
+      18
+     ]
+    ]
+   },
+   {
+    "id": "p23.2",
+    "src": "s1322",
+    "t": "Date ad un uomo una maschera e sarà sincero.",
+    "en": "Give a man a mask and he'll tell the truth.",
+    "lv": "B1",
+    "words": [
+     "w0068",
+     "w2001",
+     "w2003",
+     "w0100",
+     "w1952",
+     "w2005",
+     "w0002",
+     "w1535"
+    ],
+    "marks": [
+     [
+      31,
+      35
+     ]
+    ]
+   },
+   {
+    "id": "p23.3",
+    "src": "s1918",
+    "t": "Sarà servita la cena a bordo dell'aereo.",
+    "en": "Dinner will be served on board the plane.",
+    "lv": "B1",
+    "words": [
+     "w0002",
+     "w0183",
+     "w0001",
+     "w0684",
+     "w2001",
+     "w1295",
+     "w0003",
+     "w2071"
+    ],
+    "marks": [
+     [
+      0,
+      4
+     ]
+    ]
+   },
+   {
+    "id": "p23.4",
+    "src": "s2030",
+    "t": "Scommetto che tradurre questo testo sarà davvero facile.",
+    "en": "I bet that translating this text will be really easy.",
+    "lv": "B1",
+    "words": [
+     "w1423",
+     "w0005",
+     "w1810",
+     "w0012",
+     "w1184",
+     "w0002",
+     "w0124",
+     "w0436"
+    ],
+    "marks": [
+     [
+      36,
+      40
+     ]
+    ]
+   },
+   {
+    "id": "p23.5",
+    "src": "s0101",
+    "t": "Saranno accettati dai loro pari in età adulta.",
+    "en": "They will be accepted by their peers in adulthood.",
+    "lv": "B1",
+    "words": [
+     "w0002",
+     "w0563",
+     "w0017",
+     "w2044",
+     "w1149",
+     "w0008",
+     "w0943",
+     "w1470"
+    ],
+    "marks": [
+     [
+      0,
+      7
+     ]
+    ]
+   },
+   {
+    "id": "p23.6",
+    "src": "s0522",
+    "t": "Infine è stato deciso che i negozi saranno forniti di telecamere di sorveglianza.",
+    "en": "Eventually it was decided that the stores will be equipped with surveillance cameras.",
+    "lv": "B1",
+    "words": [
+     "w1569",
+     "w2138",
+     "w0002",
+     "w0283",
+     "w0005",
+     "w0001",
+     "w0785",
+     "w0976",
+     "w0003",
+     "w1616"
+    ],
+    "marks": [
+     [
+      35,
+      42
+     ]
+    ]
+   },
+   {
+    "id": "p23.7",
+    "src": "s2706",
+    "t": "Tom avrà bisogno di un po' di supporto.",
+    "en": "Tom will need some support.",
+    "lv": "B1",
+    "words": [
+     "w2002",
+     "w0169",
+     "w0003",
+     "w2003",
+     "w1424"
+    ],
+    "marks": [
+     [
+      4,
+      8
+     ]
+    ]
+   }
+  ]
+ },
+ {
+  "id": "p24",
+  "lv": "B1",
+  "label": "era / ero / erano / aveva",
+  "en": "was, were, had (past description)",
+  "note": [
+   "Was / were / had: the past form matches who it is about.",
+   "Era stanco. Ero felice. Erano soci."
+  ],
+  "near": [
+   "p02",
+   "p03",
+   "p25"
+  ],
+  "keys": [
+   "w0002",
+   "w2002"
+  ],
+  "sentences": [
+   {
+    "id": "p24.1",
+    "src": "s0889",
+    "t": "La strada era grigia per via della polvere.",
+    "en": "The road was gray with dust.",
+    "lv": "B1",
+    "words": [
+     "w0001",
+     "w0240",
+     "w0002",
+     "w2103",
+     "w0009",
+     "w0123",
+     "w0003",
+     "w1852"
+    ],
+    "marks": [
+     [
+      10,
+      13
+     ]
+    ]
+   },
+   {
+    "id": "p24.2",
+    "src": "s2011",
+    "t": "L'ambiente di lavoro di Tom era buono.",
+    "en": "Tom's work environment was good.",
+    "lv": "B1",
+    "words": [
+     "w0001",
+     "w1304",
+     "w0003",
+     "w0105",
+     "w0002"
+    ],
+    "marks": [
+     [
+      28,
+      31
+     ]
+    ]
+   },
+   {
+    "id": "p24.3",
+    "src": "s2461",
+    "t": "L'inverno in questa area era estremamente freddo.",
+    "en": "Winter in this area was extremely cold.",
+    "lv": "B1",
+    "words": [
+     "w0001",
+     "w2087",
+     "w0008",
+     "w0012",
+     "w0796",
+     "w0002",
+     "w1919",
+     "w2075"
+    ],
+    "marks": [
+     [
+      25,
+      28
+     ]
+    ]
+   },
+   {
+    "id": "p24.4",
+    "src": "s2219",
+    "t": "Io ero perfettamente felice di essere completamente sola.",
+    "en": "I was perfectly happy being all alone.",
+    "lv": "B1",
+    "words": [
+     "w2004",
+     "w0002",
+     "w1497",
+     "w0318",
+     "w0003",
+     "w0638"
+    ],
+    "marks": [
+     [
+      3,
+      6
+     ]
+    ]
+   },
+   {
+    "id": "p24.5",
+    "src": "s1123",
+    "t": "Le mie osservazioni non erano dirette a te.",
+    "en": "My remarks were not aimed at you.",
+    "lv": "B1",
+    "words": [
+     "w0001",
+     "w2008",
+     "w0007",
+     "w0002",
+     "w1036",
+     "w2001",
+     "w0056"
+    ],
+    "marks": [
+     [
+      24,
+      29
+     ]
+    ]
+   },
+   {
+    "id": "p24.6",
+    "src": "s2368",
+    "t": "I due uomini erano soci d'affari.",
+    "en": "The two men were business partners.",
+    "lv": "B1",
+    "words": [
+     "w0001",
+     "w0062",
+     "w0100",
+     "w0002",
+     "w1326",
+     "w0003",
+     "w0515"
+    ],
+    "marks": [
+     [
+      13,
+      18
+     ]
+    ]
+   },
+   {
+    "id": "p24.7",
+    "src": "s2210",
+    "t": "La sua spiegazione del problema non aveva senso.",
+    "en": "Her explanation of the problem was nonsense.",
+    "lv": "B1",
+    "words": [
+     "w0001",
+     "w0028",
+     "w1666",
+     "w0003",
+     "w0137",
+     "w0007",
+     "w2002",
+     "w0269"
+    ],
+    "marks": [
+     [
+      36,
+      41
+     ]
+    ]
+   },
+   {
+    "id": "p24.8",
+    "src": "s2474",
+    "t": "Loro avevano qualche dubbio sul loro comandante.",
+    "en": "They had some doubts about their commander.",
+    "lv": "B1",
+    "words": [
+     "w0065",
+     "w2002",
+     "w0141",
+     "w2158",
+     "w0048",
+     "w2044",
+     "w1305"
+    ],
+    "marks": [
+     [
+      5,
+      12
+     ]
+    ]
+   }
+  ]
+ },
+ {
+  "id": "p25",
+  "lv": "B1",
+  "label": "ero / aveva · è stato / è stata",
+  "en": "past: how it was / what happened",
+  "note": [
+   "Was: ero, aveva for a state, è stato for one event.",
+   "Ero giovane. È stato chiuso ieri."
+  ],
+  "near": [
+   "p02",
+   "p03",
+   "p24"
+  ],
+  "keys": [
+   "w0002",
+   "w2002",
+   "w2138"
+  ],
+  "sentences": [
+   {
+    "id": "p25.1",
+    "src": "s0066",
+    "t": "Potevo correre molto più velocemente quando ero giovane.",
+    "en": "I could run much faster when I was young.",
+    "lv": "B1",
+    "words": [
+     "w0015",
+     "w0626",
+     "w0044",
+     "w0036",
+     "w1739",
+     "w0041",
+     "w0002",
+     "w0295"
+    ],
+    "marks": [
+     [
+      44,
+      47
+     ]
+    ]
+   },
+   {
+    "id": "p25.2",
+    "src": "s0779",
+    "t": "Quando ero giovane ho ottenuto molte cose gratis.",
+    "en": "When I was young I got lots of things for free.",
+    "lv": "B1",
+    "words": [
+     "w0041",
+     "w0002",
+     "w0295",
+     "w2002",
+     "w0345",
+     "w2015",
+     "w1395"
+    ],
+    "marks": [
+     [
+      7,
+      10
+     ]
+    ]
+   },
+   {
+    "id": "p25.3",
+    "src": "s0577",
+    "t": "Lei divenne una madre quando aveva quindici anni.",
+    "en": "She became a mother when she was fifteen years old.",
+    "lv": "B1",
+    "words": [
+     "w0096",
+     "w1579",
+     "w2003",
+     "w2047",
+     "w0041",
+     "w2002",
+     "w2105",
+     "w0053"
+    ],
+    "marks": [
+     [
+      29,
+      34
+     ]
+    ]
+   },
+   {
+    "id": "p25.4",
+    "src": "s0341",
+    "t": "Il prigioniero è stato rimesso in libertà ieri.",
+    "en": "The prisoner was set at liberty yesterday.",
+    "lv": "B1",
+    "words": [
+     "w0001",
+     "w2319",
+     "w2138",
+     "w0002",
+     "w1502",
+     "w0008",
+     "w0909",
+     "w0367"
+    ],
+    "marks": [
+     [
+      15,
+      22
+     ]
+    ]
+   },
+   {
+    "id": "p25.5",
+    "src": "s1797",
+    "t": "Questa organizzazione è stata fondata centoundici anni fa.",
+    "en": "This organization was founded one hundred and eleven years ago.",
+    "lv": "B1",
+    "words": [
+     "w0012",
+     "w1279",
+     "w2138",
+     "w0002",
+     "w2302",
+     "w0053",
+     "w2055"
+    ],
+    "marks": [
+     [
+      22,
+      29
+     ]
+    ]
+   },
+   {
+    "id": "p25.6",
+    "src": "s1904",
+    "t": "La fabbrica è stata chiusa dieci anni fa.",
+    "en": "The factory was shut down ten years ago.",
+    "lv": "B1",
+    "words": [
+     "w0001",
+     "w1763",
+     "w2138",
+     "w0002",
+     "w0320",
+     "w0552",
+     "w0053",
+     "w2055"
+    ],
+    "marks": [
+     [
+      12,
+      19
+     ]
+    ]
+   },
+   {
+    "id": "p25.7",
+    "src": "s2194",
+    "t": "Questa foto è stata scattata tre anni fa.",
+    "en": "This picture was taken three years ago.",
+    "lv": "B1",
+    "words": [
+     "w0012",
+     "w0217",
+     "w2138",
+     "w0002",
+     "w1638",
+     "w0154",
+     "w0053",
+     "w2055"
+    ],
+    "marks": [
+     [
+      12,
+      19
+     ]
+    ]
+   },
+   {
+    "id": "p25.8",
+    "src": "s2298",
+    "t": "Il lavoro è stato completato in un giorno.",
+    "en": "The job was completed in one day.",
+    "lv": "B1",
+    "words": [
+     "w0001",
+     "w0105",
+     "w2138",
+     "w0002",
+     "w2329",
+     "w0008",
+     "w2003",
+     "w0084"
+    ],
+    "marks": [
+     [
+      10,
+      17
+     ]
+    ]
+   }
+  ]
+ },
+ {
+  "id": "p26",
+  "lv": "B1",
+  "label": "meglio / migliore",
+  "en": "better, best",
+  "note": [
+   "better: meglio goes with a verb, migliore with a noun.",
+   "Parla meglio. È il migliore. I migliori."
+  ],
+  "near": [
+   "p02",
+   "p16"
+  ],
+  "keys": [
+   "w0139",
+   "w0206"
+  ],
+  "sentences": [
+   {
+    "id": "p26.1",
+    "src": "s2203",
+    "t": "Faresti meglio a non contare su un aumento.",
+    "en": "You'd better not count on a raise.",
+    "lv": "B1",
+    "words": [
+     "w0010",
+     "w0139",
+     "w2001",
+     "w0007",
+     "w0607",
+     "w0048",
+     "w2003",
+     "w1541"
+    ],
+    "marks": [
+     [
+      8,
+      14
+     ]
+    ]
+   },
+   {
+    "id": "p26.2",
+    "src": "s2262",
+    "t": "Cercammo di sfruttare al meglio le nostre possibilità.",
+    "en": "We tried to make the most of our chances.",
+    "lv": "B1",
+    "words": [
+     "w0118",
+     "w0003",
+     "w1936",
+     "w2001",
+     "w0001",
+     "w0061",
+     "w0606"
+    ],
+    "marks": [
+     [
+      25,
+      31
+     ]
+    ]
+   },
+   {
+    "id": "p26.3",
+    "src": "s2816",
+    "t": "Dovevamo sfruttare al meglio la nostra piccola casa.",
+    "en": "We had to make the best of our small house.",
+    "lv": "B1",
+    "words": [
+     "w0026",
+     "w1936",
+     "w2001",
+     "w0001",
+     "w0061",
+     "w0161",
+     "w0080"
+    ],
+    "marks": [
+     [
+      22,
+      28
+     ]
+    ]
+   },
+   {
+    "id": "p26.4",
+    "src": "s2541",
+    "t": "I sogni migliori avvengono quando si è svegli.",
+    "en": "The best dreams happen when you're awake.",
+    "lv": "B1",
+    "words": [
+     "w0001",
+     "w1275",
+     "w0206",
+     "w2182",
+     "w0041",
+     "w0011",
+     "w2138",
+     "w0983"
+    ],
+    "marks": [
+     [
+      8,
+      16
+     ]
+    ]
+   },
+   {
+    "id": "p26.5",
+    "src": "s2810",
+    "t": "Il sonno è la cosa migliore per loro.",
+    "en": "Sleep's the best thing for them.",
+    "lv": "B1",
+    "words": [
+     "w0001",
+     "w2354",
+     "w2138",
+     "w2015",
+     "w0206",
+     "w0009",
+     "w0065"
+    ],
+    "marks": [
+     [
+      19,
+      27
+     ]
+    ]
+   },
+   {
+    "id": "p26.6",
+    "src": "s2791",
+    "t": "Non so nemmeno come sia meglio che procediamo.",
+    "en": "I don't even know how best to proceed.",
+    "lv": "B1",
+    "words": [
+     "w0007",
+     "w0029",
+     "w0294",
+     "w2017",
+     "w0002",
+     "w0139",
+     "w0005",
+     "w1359"
+    ],
+    "marks": [
+     [
+      24,
+      30
+     ]
+    ]
+   },
+   {
+    "id": "p26.7",
+    "src": "s2914",
+    "t": "Ho assistito al miglior gioco della mia vita!",
+    "en": "I attended the best game of my life!",
+    "lv": "B1",
+    "words": [
+     "w2002",
+     "w1669",
+     "w2001",
+     "w0206",
+     "w0278",
+     "w0003",
+     "w2008",
+     "w0097"
+    ],
+    "marks": [
+     [
+      16,
+      23
+     ]
+    ]
+   }
+  ]
+ },
+ {
+  "id": "p27",
+  "lv": "B1",
+  "label": "prima di / dopo",
+  "en": "before / after",
+  "note": [
+   "before / after.",
+   "Prima di uscire. Dopo la cena."
+  ],
+  "near": [
+   "p02",
+   "p11",
+   "p16",
+   "p17",
+   "p22",
+   "p23"
+  ],
+  "keys": [
+   "w0052",
+   "w0003",
+   "w2026"
+  ],
+  "sentences": [
+   {
+    "id": "p27.1",
+    "src": "s0613",
+    "t": "Devi spegnere la corrente prima di controllare il circuito.",
+    "en": "You must switch off the power before checking the circuit.",
+    "lv": "B1",
+    "words": [
+     "w0026",
+     "w1809",
+     "w0001",
+     "w1182",
+     "w0052",
+     "w0003",
+     "w0422"
+    ],
+    "marks": [
+     [
+      26,
+      34
+     ]
+    ]
+   },
+   {
+    "id": "p27.2",
+    "src": "s1787",
+    "t": "Spegni la luce prima di andare a letto.",
+    "en": "Turn off the light before you go to bed.",
+    "lv": "B1",
+    "words": [
+     "w1809",
+     "w0001",
+     "w0394",
+     "w0052",
+     "w0003",
+     "w0024",
+     "w2001",
+     "w2064"
+    ],
+    "marks": [
+     [
+      15,
+      23
+     ]
+    ]
+   },
+   {
+    "id": "p27.3",
+    "src": "s0495",
+    "t": "Non dimenticate di chiudere il gas prima di uscire.",
+    "en": "Don't forget to turn off the gas before going out.",
+    "lv": "B1",
+    "words": [
+     "w0007",
+     "w0473",
+     "w0003",
+     "w0320",
+     "w0001",
+     "w1491",
+     "w0052",
+     "w0150"
+    ],
+    "marks": [
+     [
+      35,
+      43
+     ]
+    ]
+   },
+   {
+    "id": "p27.4",
+    "src": "s0600",
+    "t": "Lei era ancora debole dopo la sua malattia.",
+    "en": "She was still weak after her illness.",
+    "lv": "B1",
+    "words": [
+     "w0096",
+     "w0002",
+     "w0066",
+     "w2233",
+     "w2026",
+     "w0001",
+     "w0028",
+     "w0851"
+    ],
+    "marks": [
+     [
+      22,
+      26
+     ]
+    ]
+   },
+   {
+    "id": "p27.5",
+    "src": "s1285",
+    "t": "Mio nonno morì poco dopo la mia nascita.",
+    "en": "My grandfather died shortly after my birth.",
+    "lv": "B1",
+    "words": [
+     "w2008",
+     "w1141",
+     "w0148",
+     "w0151",
+     "w2026",
+     "w0001",
+     "w1620"
+    ],
+    "marks": [
+     [
+      20,
+      24
+     ]
+    ]
+   },
+   {
+    "id": "p27.6",
+    "src": "s3122",
+    "t": "Dopo l'incidente, è finito al pronto soccorso.",
+    "en": "After the accident, he ended up in the emergency room.",
+    "lv": "B1",
+    "words": [
+     "w2026",
+     "w0001",
+     "w0752",
+     "w2138",
+     "w0195",
+     "w2001",
+     "w0252",
+     "w1619"
+    ],
+    "marks": [
+     [
+      0,
+      4
+     ]
+    ]
+   },
+   {
+    "id": "p27.7",
+    "src": "s3126",
+    "t": "Dopo il divorzio, ho dovuto ricominciare una nuova vita.",
+    "en": "After the divorce, I had to make a fresh start.",
+    "lv": "B1",
+    "words": [
+     "w2026",
+     "w0001",
+     "w2002",
+     "w0026",
+     "w1934",
+     "w2003",
+     "w0077",
+     "w0097"
+    ],
+    "marks": [
+     [
+      0,
+      4
+     ]
+    ]
+   }
+  ]
+ }
+]
