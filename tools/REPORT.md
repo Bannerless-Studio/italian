@@ -28,7 +28,7 @@ Candidate pool: 7,106 (lemma, POS) keys in blended-rank order, one POS per lemma
 | Exclusion | Count | Examples |
 |---|---|---|
 | no usable Wiktionary entry for corpus POS | 585 | l, the, ii, ex, d, of, and, d, to, n, all, max |
-| second POS entry without a distinct sense | 202 | questo, tutto, quello, altro, solo, molto, quanto, tanto, dopo, diverso, pubblico, meglio |
+| second POS entry without a distinct sense | 203 | questo, tutto, quello, altro, solo, molto, quanto, tanto, dopo, diverso, pubblico, meglio |
 | proper noun (corpus PROPN/capitalised majority) | 159 | dio, s, beh, c, be, ok, nord, r, tv, monte, repubblica, h |
 | English loanword unattested in Italian corpus | 27 | team, set, stop, staff, top, coach, party, live, baby, lady, boss, home |
 | interjection (not in forced greetings) | 16 | oh, ah, eh, okay, oddio, fanculo, ehm, congratulazioni, vabbè, amen, scusi, benvenuto |
@@ -44,17 +44,18 @@ Levels: {'A1': 600, 'A2': 700, 'B1': 700}. POS: {'noun': 978, 'verb': 489, 'adj'
 
 ## Sentences
 
-- Final sentences: **3,141**, 470 with audio (`https://tatoeba.org/audio/download/<audio_id>`).
+- Final sentences: **3,143**, 472 with audio (`https://tatoeba.org/audio/download/<audio_id>`).
+- Sentence ids (`tools/sentence_ids_v1.json`): 3,138 kept, 5 new (s3142, s3143, s3144, s3145, s3146), 3 retired.
 - Word coverage: 0 = 2, 1 = 6, 2 = 1992.
 - Words with no sentence: anzi, ovvero.
-- Candidate sentences (terminal punctuation, 3-14 tokens, content lemmas in pack/top-3000, >=1 link): 475,563. Rejected for a content lemma outside pack/top-3000: 142,865.
-- Passato remoto: 46,337 candidates contain one; 46,290 were blocked for A1/A2 words; 159 in the final set (all lv B1).
-- Primary word level of each sentence: {'A1': 808, 'A2': 1110, 'B1': 1223}.
+- Candidate sentences (terminal punctuation, 3-14 tokens, content lemmas in pack/top-3000, >=1 link): 475,567. Rejected for a content lemma outside pack/top-3000: 142,865.
+- Passato remoto: 46,337 candidates contain one; 46,294 were blocked for A1/A2 words; 159 in the final set (all lv B1).
+- Primary word level of each sentence: {'A1': 810, 'A2': 1110, 'B1': 1223}.
 - Token-length distribution of the final set:
 
 | tokens | 4 | 5 | 6 | 7 | 8 | 9 | 10 | 11 | 13 |
 |---|---|---|---|---|---|---|---|---|---|
-| sentences | 229 | 685 | 95 | 1010 | 1068 | 41 | 8 | 4 | 1 |
+| sentences | 231 | 686 | 95 | 1010 | 1068 | 40 | 8 | 4 | 1 |
 
 ## Kelly CEFR cross-check (sanity only, not shipped)
 
@@ -72,7 +73,7 @@ Levels: {'A1': 600, 'A2': 700, 'B1': 700}. POS: {'noun': 978, 'verb': 489, 'adj'
    1 di [prep] of, by, ’s
    2 essere [verb] to be
    3 il [art] the (il, lo, l', la, i, gli, le)
-   4 a [prep] in, to
+   4 a [prep] to, at; in
    5 avere [verb] to have
    6 un [art] a, an (un, uno, una, un')
    7 non [adv] not
@@ -82,9 +83,9 @@ Levels: {'A1': 600, 'A2': 700, 'B1': 700}. POS: {'noun': 978, 'verb': 489, 'adj'
   11 fare [verb] to do, to make
   12 io [pron] I
   13 da [prep] from
-  14 si [pron] people, one, they; himself, herself, itself
+  14 si [pron] himself, herself, itself; one, people, they
   15 e [conj] and
-  16 tu [pron] you
+  16 tu [pron] you (singular)
   17 potere [verb] can, could
   18 con [prep] with, together
   19 ci [pron] us; there
@@ -101,12 +102,12 @@ Levels: {'A1': 600, 'A2': 700, 'B1': 700}. POS: {'noun': 978, 'verb': 489, 'adj'
   30 volere [verb] to want
   31 più [adv] more
   32 mio [det] my
-  33 dovere [verb] to have to do something
-  34 sapere [verb] to know
+  33 dovere [verb] to have to, must; to owe
+  34 sapere [verb] to know (a fact); to know how to
   35 vedere [verb] to see
   36 anche [adv] also, too, as well; even
   37 tutto [pron] everything, all
-  38 così [adv] so
+  38 così [adv] so, like this, thus
   39 quello [pron] that, those
   40 o [conj] or
   41 perché [conj] why, because
@@ -114,8 +115,8 @@ Levels: {'A1': 600, 'A2': 700, 'B1': 700}. POS: {'noun': 978, 'verb': 489, 'adj'
   43 bene [adv] well, OK, right
   44 solo [adv] only, just, alone
   45 venire [verb] to come
-  46 tuo [det] your
-  47 cosa [pron] what?
+  46 tuo [det] your (singular)
+  47 cosa [pron] what (thing)?
   48 quando [conj] when
   49 la cosa [noun] thing
   50 me [pron] me
@@ -147,25 +148,25 @@ Levels: {'A1': 600, 'A2': 700, 'B1': 700}. POS: {'noun': 978, 'verb': 489, 'adj'
   76 nuovo [adj] new
   77 credere [verb] to believe
   78 già [adv] already, yet
-  79 poi [adv] then
+  79 poi [adv] then, afterwards, later
   80 gli [pron] to him; to them
   81 primo [adj] first
   82 il giorno [noun] day
   83 la casa [noun] house; home
   84 mettere [verb] to put, to set, to place
-  85 te [pron] you, thee
+  85 te [pron] you (after a preposition)
   86 il tempo [noun] time
   87 lui [pron] he
   88 prima [adv] before
   89 tra [prep] between
-  90 bello [adj] nice, fine, fair; handsome, good-looking
+  90 bello [adj] beautiful, nice; handsome, good-looking
   91 vero [adj] true
   92 noi [pron] we
   93 capire [verb] to understand
   94 la persona [noun] person, persons
-  95 lasciare [verb] to leave
+  95 lasciare [verb] to leave (behind); to let
   96 la vita [noun] life
-  97 portare [verb] to bring, to take, to carry
+  97 portare [verb] to bring, to take, to carry; to wear
   98 lei [pron] she
   99 stesso [adj] same, equal
  100 il lavoro [noun] work; job, task
