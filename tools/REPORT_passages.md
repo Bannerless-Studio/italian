@@ -10,7 +10,7 @@ words = the builder's word count (the band rule); ws_words = whitespace-separate
 tokens of the passage text, the count the app shows (report only).
 
 - **A1**: 20 passages; words/passage 63-90 (median 76.0); ws_words 63-90; coverage min 1.000, median 1.000 (rule >= 0.95); linked min 0.987; questions mc 45, tf 40
-- **A2**: 30 passages; words/passage 91-119 (median 111.5); ws_words 91-119; coverage min 0.971, median 1.000 (rule >= 0.95); linked min 0.971; questions mc 74, tf 68
+- **A2**: 30 passages; words/passage 91-120 (median 111.5); ws_words 91-120; coverage min 0.971, median 1.000 (rule >= 0.95); linked min 0.971; questions mc 74, tf 68
 - **B1**: 30 passages; words/passage 114-146 (median 135.0); ws_words 122-146; coverage min 0.992, median 1.000 (rule >= 0.93); linked min 0.992; questions mc 84, tf 63
 
 | id | lv | title | words | ws_words | coverage | linked | out-of-pack lemmas (reason) | higher-level lemmas |
@@ -76,12 +76,12 @@ tokens of the passage text, the count the app shows (report only).
 | p0059 | B1 | Imparare una lingua da adulti | 136 | 136 | 1.000 | 1.000 | - | - |
 | p0060 | B1 | Tra dieci anni | 128 | 128 | 1.000 | 1.000 | - | - |
 | p0061 | A2 | Una riunione spostata | 91 | 91 | 1.000 | 1.000 | - | B1: disturbo, entro, riunione |
-| p0062 | A2 | La borsa persa | 94 | 105 | 1.000 | 1.000 | - | B1: intanto, preoccupato |
+| p0062 | A2 | La borsa persa | 96 | 107 | 1.000 | 1.000 | - | B1: credito, intanto, preoccupato |
 | p0063 | A2 | Una giornata in montagna | 111 | 111 | 1.000 | 1.000 | - | B1: lago |
 | p0064 | A2 | Un evento in biblioteca | 116 | 116 | 1.000 | 1.000 | - | B1: biblioteca, esperto, ingresso |
 | p0065 | A2 | Più strade per le biciclette | 119 | 119 | 1.000 | 1.000 | - | B1: traffico |
-| p0066 | A2 | Il negozio di pane | 118 | 118 | 1.000 | 1.000 | - | B1: concludere, simpatico |
-| p0067 | A2 | Domani si corre? | 94 | 103 | 1.000 | 1.000 | - | B1: corsa, moderno |
+| p0066 | A2 | Dove si fa il pane | 120 | 120 | 1.000 | 1.000 | - | B1: concludere, simpatico |
+| p0067 | A2 | Domani si corre? | 102 | 102 | 1.000 | 1.000 | - | B1: moderno |
 | p0068 | A2 | Le chiavi perse | 109 | 109 | 1.000 | 1.000 | - | B1: copia |
 | p0069 | A2 | Un regalo per la nonna | 100 | 110 | 1.000 | 1.000 | - | B1: album, regalare |
 | p0070 | A2 | Il corso di cucina | 118 | 118 | 1.000 | 1.000 | - | B1: cucinare, insegnante |

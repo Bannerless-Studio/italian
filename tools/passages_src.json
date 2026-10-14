@@ -7006,7 +7006,7 @@
      "type": "mc",
      "options": [
       "Di un contratto con un cliente",
-      "Delle vacanze di tutti i colleghi",
+      "Delle vacanze dei colleghi",
       "Di un viaggio a Londra",
       "Del nuovo ufficio di Paolo"
      ],
@@ -7053,8 +7053,8 @@
      "— What does it look like?"
     ],
     [
-     "— È piccola, marrone, e dentro c'è una carta blu con un po' di denaro.",
-     "— It's small and brown, and inside there is a blue card with some money."
+     "— È piccola, marrone, e dentro c'è una carta di credito blu con un po' di denaro.",
+     "— It's small and brown, and inside there is a blue credit card with some money."
     ],
     [
      "— Aspetti un momento, controllo la lista degli oggetti trovati.",
@@ -7117,7 +7117,7 @@
      "type": "mc",
      "options": [
       "Una chiave e un biglietto del treno",
-      "Una carta e un po' di denaro",
+      "Una carta di credito e un po' di denaro",
       "Due carte e una lettera",
       "Una foto e un telefono"
      ],
@@ -7251,7 +7251,7 @@
       "Ha raccolto dei fiori",
       "Ha preso un treno",
       "Ha fatto il bagno",
-      "Ha dormito in macchina"
+      "Ha dormito in auto"
      ],
      "answer": 0,
      "words": [
@@ -7358,7 +7358,7 @@
      "options": [
       "Libri nuovi e vecchi telefoni",
       "Giochi e film per bambini",
-      "Macchine, biciclette e vestiti antichi",
+      "Macchine e biciclette antiche",
       "Foto, lettere e giornali vecchi"
      ],
      "answer": 3,
@@ -7388,7 +7388,7 @@
       "Venderle alla biblioteca",
       "Mandarle a una scuola",
       "Metterle in un giornale",
-      "Portarle in biblioteca"
+      "Portarle qui"
      ],
      "answer": 3,
      "words": [
@@ -7419,11 +7419,11 @@
     ],
     [
      "Le nuove strade collegheranno i quartieri con la stazione, la scuola e il parco.",
-     "The new roads will connect the neighbourhoods with the station, the school and the big park."
+     "The new roads will connect the neighbourhoods with the station, the school and the park."
     ],
     [
      "I lavori cominceranno in primavera e dureranno sei mesi.",
-     "The work will start in spring and last about six months."
+     "The work will start in spring and last six months."
     ],
     [
      "In questo periodo non si potrà passare per alcune vie e gli autobus useranno altre strade.",
@@ -7435,7 +7435,7 @@
     ],
     [
      "Altri hanno dubbi: temono che i lavori costino troppo.",
-     "Others, instead, have doubts: they fear the work will cost too much."
+     "Others have doubts: they fear the work will cost too much."
     ],
     [
      "Il comune risponde che il progetto è importante per il futuro.",
@@ -7507,7 +7507,7 @@
      "type": "mc",
      "options": [
       "Pensano che le strade siano pericolose",
-      "Temono che i lavori costino troppo",
+      "Temono i costi dei lavori",
       "Non usano mai la bicicletta",
       "Vogliono più strade per le macchine"
      ],
@@ -7523,12 +7523,12 @@
   {
    "id": "p0066",
    "lv": "A2",
-   "title": "Il negozio di pane",
+   "title": "Dove si fa il pane",
    "oop": {},
    "sentences": [
     [
-     "Oggi parliamo con Franco, che lavora da trent'anni in un negozio di pane.",
-     "Today we talk to Franco, who has worked for thirty years in a small bread shop."
+     "Oggi parliamo con Franco, che lavora da trent'anni in un posto dove si fa il pane.",
+     "Today we talk to Franco, who has worked for thirty years in a place where bread is made."
     ],
     [
      "«Mi alzo ogni giorno alle tre di notte», racconta, «perché il pane deve essere pronto prima delle sei.»",
@@ -7555,8 +7555,8 @@
      "A young girl works with him and is learning everything."
     ],
     [
-     "«Voglio continuare per qualche anno», conclude Franco, «e poi lasciare il negozio a lei.»",
-     "\"I want to carry on for a few more years,\" Franco concludes, \"and then leave the shop to her.\""
+     "«Voglio continuare per qualche anno», conclude Franco, «e poi lasciare tutto a lei.»",
+     "\"I want to carry on for a few more years,\" Franco concludes, \"and then leave everything to her.\""
     ]
    ],
    "questions": [
@@ -7624,9 +7624,9 @@
      "type": "mc",
      "options": [
       "Aprire un altro negozio nuovo",
-      "Lasciare il negozio alla ragazza",
+      "Lasciare tutto alla ragazza",
       "Vendere tutto e partire",
-      "Chiudere il negozio e andare a vivere al mare"
+      "Chiudere tutto e andare a vivere al mare"
      ],
      "answer": 1,
      "words": [
@@ -7647,49 +7647,49 @@
    "oop": {},
    "sentences": [
     [
-     "— Ciao Elena, domani vieni a correre con me al parco?",
-     "— Hi Elena, are you coming running with me in the park tomorrow?"
+     "Luca: Ciao Elena, domani vieni a correre con me al parco?",
+     "Luca: Hi Elena, are you coming running with me in the park tomorrow?"
     ],
     [
-     "— Purtroppo non posso: devo restare in ufficio fino alle sei.",
-     "— Unfortunately I can't: I have to stay in the office until six."
+     "Elena: Purtroppo non posso: devo restare in ufficio fino alle sei.",
+     "Elena: Unfortunately I can't: I have to stay in the office until six."
     ],
     [
-     "— Peccato! Ma sabato sono libera tutto il giorno.",
-     "— Shame! But on Saturday I'm free all day."
+     "Peccato! Ma sabato sono libera tutto il giorno.",
+     "Shame! But on Saturday I'm free all day."
     ],
     [
-     "— Perfetto! Prima però voglio comprare scarpe nuove, perché le mie sono vecchie e mi fanno male ai piedi.",
-     "— Perfect! But first I want to buy new shoes, because mine are old and hurt my feet."
+     "Luca: Perfetto! Prima però voglio comprare scarpe nuove, perché le mie sono vecchie e mi fanno male ai piedi.",
+     "Luca: Perfect! But first I want to buy new shoes, because mine are old and hurt my feet."
     ],
     [
-     "— Allora ti accompagno io: conosco un negozio con prezzi molto economici.",
-     "— Then I'll come with you: I know a shop with very cheap prices."
+     "Elena: Allora ti accompagno io: conosco un negozio con prezzi molto economici.",
+     "Elena: Then I'll come with you: I know a shop with very cheap prices."
     ],
     [
-     "— Ottimo! Poi possiamo mangiare qualcosa insieme, offro io.",
-     "— Great! Then we can eat something together, my treat."
+     "Luca: Ottimo! Poi possiamo mangiare qualcosa insieme, offro io.",
+     "Luca: Great! Then we can eat something together, my treat."
     ],
     [
-     "— Affare fatto! Alle quattro davanti alla stazione?",
-     "— Deal! At four in front of the station?"
+     "Elena: Affare fatto! Alle quattro davanti alla stazione?",
+     "Elena: Deal! At four in front of the station?"
     ],
     [
-     "— Sì. E se il tempo è brutto, restiamo a casa e guardiamo un film.",
-     "— Yes. And if the weather is bad, we stay home and watch a film."
+     "Luca: Sì. E se il tempo è brutto, restiamo a casa e guardiamo un film.",
+     "Luca: Yes. And if the weather is bad, we stay home and watch a film."
     ],
     [
-     "— Insomma, in ogni caso passiamo una bella giornata.",
-     "— In short, either way we'll have a nice day."
+     "Elena: Insomma, in ogni caso passiamo una bella giornata.",
+     "Elena: In short, either way we'll have a nice day."
     ]
    ],
    "questions": [
     {
-     "q": "Elena può correre domani, ma solo dopo il lavoro.",
-     "en": "Elena can run tomorrow, but only after work.",
+     "q": "Domani Elena lavora in ufficio fino a sera.",
+     "en": "Tomorrow Elena works in the office until evening.",
      "type": "tf",
      "options": null,
-     "answer": false,
+     "answer": true,
      "words": [
       "purtroppo",
       "restare"
@@ -7697,13 +7697,13 @@
      "sentence": 1
     },
     {
-     "q": "Che cosa vuole comprare la persona che invita Elena?",
-     "en": "What does the person who invites Elena want to buy?",
+     "q": "Che cosa vuole comprare Luca?",
+     "en": "What does Luca want to buy?",
      "type": "mc",
      "options": [
       "Una borsa nuova",
       "Una bicicletta",
-      "Un telefono",
+      "Un telefono nuovo",
       "Scarpe nuove"
      ],
      "answer": 3,
@@ -7731,8 +7731,8 @@
      "sentence": 4
     },
     {
-     "q": "Dopo la corsa le amiche mangeranno insieme.",
-     "en": "After the run the friends will eat together.",
+     "q": "Dopo aver comprato le scarpe i due amici mangeranno insieme.",
+     "en": "After buying the shoes the two friends will eat together.",
      "type": "tf",
      "options": null,
      "answer": true,
@@ -7743,8 +7743,8 @@
      "sentence": 5
     },
     {
-     "q": "Con il brutto tempo le amiche usciranno lo stesso a correre.",
-     "en": "In bad weather the friends will go out running anyway.",
+     "q": "Con il brutto tempo i due amici usciranno lo stesso a correre.",
+     "en": "In bad weather the two friends will go out running anyway.",
      "type": "tf",
      "options": null,
      "answer": false,
@@ -7756,7 +7756,8 @@
     }
    ],
    "names": [
-    "Elena"
+    "Elena",
+    "Luca"
    ]
   },
   {
@@ -7822,7 +7823,7 @@
      "options": [
       "Perché non poteva entrare in casa",
       "Perché aveva perso il telefono",
-      "Perché voleva andare al cinema con lui",
+      "Perché voleva andare al cinema",
       "Perché doveva fare la spesa"
      ],
      "answer": 0,
@@ -7868,7 +7869,7 @@
       "Sotto una sedia della cucina di casa",
       "Nella borsa della vicina",
       "Nella giacca del fratello",
-      "Nella macchina"
+      "Dentro la macchina del fratello"
      ],
      "answer": 2,
      "words": [
@@ -7943,8 +7944,8 @@
      "sentence": 2
     },
     {
-     "q": "Che cosa propone l'amico per il regalo?",
-     "en": "What does the friend suggest for the present?",
+     "q": "Che cosa propone alla fine l'amico per il regalo?",
+     "en": "What does the friend finally suggest for the present?",
      "type": "mc",
      "options": [
       "Un telefono nuovo",
@@ -8081,7 +8082,7 @@
      "type": "mc",
      "options": [
       "Una pasta e un dolce",
-      "Pesce e verdure",
+      "Pesce, verdure e un dolce",
       "Della carne e del pane",
       "Frutta e latte"
      ],
@@ -8225,7 +8226,7 @@
      "type": "mc",
      "options": [
       "Aspettare un altro mese",
-      "Andare nel negozio",
+      "Andare di persona nel negozio",
       "Cambiare il prodotto",
       "Cancellare l'ordine"
      ],
@@ -8287,8 +8288,8 @@
    ],
    "questions": [
     {
-     "q": "L'autore ha sempre vissuto nello stesso quartiere.",
-     "en": "The author has always lived in the same neighbourhood.",
+     "q": "Prima di partire, l'autore non aveva mai cambiato quartiere.",
+     "en": "Before leaving, the author had never changed neighbourhood.",
      "type": "tf",
      "options": null,
      "answer": true,
@@ -8306,7 +8307,7 @@
       "Il freddo della casa",
       "Il rumore della strada",
       "Il cibo della città",
-      "Il lavoro troppo duro e lungo"
+      "Il lavoro troppo duro"
      ],
      "answer": 1,
      "words": [
@@ -8321,7 +8322,7 @@
      "type": "mc",
      "options": [
       "Una donna che abita vicino",
-      "Un vecchio amico",
+      "Un vecchio amico di famiglia",
       "Un collega dell'ufficio nuovo",
       "Il suo capo"
      ],
@@ -8351,7 +8352,7 @@
       "Si scrivono una volta all'anno",
       "Si sentono ogni sera",
       "Si vedono ogni settimana",
-      "Non si sentono mai"
+      "Non si sentono mai più"
      ],
      "answer": 1,
      "words": [
@@ -8381,8 +8382,8 @@
      "\"At school I studied a little science and I tried to build something simple with cheap materials.\""
     ],
     [
-     "«Il primo modello era brutto e pesante, ma funzionava; col tempo ho migliorato il disegno e ora è leggero e forte.»",
-     "\"The first model was ugly and heavy, but it worked; over time I improved the design and now it is light and strong.\""
+     "«Il primo modello era brutto e pesante, ma funzionava; col tempo ho migliorato il progetto e ora è leggero e forte.»",
+     "\"The first model was ugly and heavy, but it worked; over time I improved the project and now it is light and strong.\""
     ],
     [
      "Oggi un'organizzazione lo porta in alcune regioni lontane, e molte famiglie lo usano ogni sera.",
@@ -8403,7 +8404,7 @@
      "en": "What did Giulia invent?",
      "type": "mc",
      "options": [
-      "Una macchina elettrica per la casa e la scuola",
+      "Una macchina elettrica",
       "Un telefono leggero",
       "Una luce che usa l'energia del sole",
       "Un computer economico"
@@ -8462,10 +8463,10 @@
      "en": "What advice does Giulia give to young people?",
      "type": "mc",
      "options": [
-      "Studiare sempre di più",
+      "Studiare sempre di più e più a lungo",
       "Non avere paura di sbagliare",
       "Lavorare ogni giorno in un laboratorio",
-      "Partire per un altro paese"
+      "Partire per un altro paese lontano"
      ],
      "answer": 1,
      "words": [
@@ -8539,7 +8540,7 @@
       "Le macchine nelle strade",
       "Il giardino pubblico sempre sporco",
       "Il rumore della notte",
-      "Le scuole chiuse"
+      "Le scuole chiuse per i lavori"
      ],
      "answer": 0,
      "words": [
@@ -8553,7 +8554,7 @@
      "en": "What is wrong in Via Verdi?",
      "type": "mc",
      "options": [
-      "La luce è troppo debole la sera",
+      "La luce è debole la sera",
       "Ci sono troppe macchine e troppo rumore",
       "Mancano molti negozi e molti bar",
       "La strada è chiusa da due mesi"
@@ -8646,7 +8647,7 @@
       "Solo un po' d'acqua fresca",
       "Carne, vino e dolci",
       "Libri, carte e una macchina",
-      "Pane, frutta e acqua"
+      "Pane e frutta"
      ],
      "answer": 3,
      "words": [
@@ -8673,7 +8674,7 @@
      "type": "mc",
      "options": [
       "È caduta e si è fatta male a un ginocchio",
-      "Ha perso la mappa e non ha più trovato la strada",
+      "Ha perso la mappa",
       "Ha lasciato la borsa a casa",
       "Ha trovato un animale"
      ],
@@ -8703,7 +8704,7 @@
      "options": [
       "Sotto un albero grande",
       "In un piccolo ristorante",
-      "Dentro la macchina",
+      "Dentro la macchina di un amico",
       "In una casa di legno"
      ],
      "answer": 3,
@@ -8923,7 +8924,7 @@
      "options": [
       "L'azienda ha ridotto il personale",
       "Guadagna troppo poco per la sua famiglia",
-      "Non ama i clienti",
+      "Non ama più il lavoro con i clienti",
       "Vuole cambiare città"
      ],
      "answer": 0,
@@ -9011,7 +9012,7 @@
       "Un lavoro molto più facile",
       "Il tempo che risparmia",
       "Più soldi ogni mese",
-      "Un ufficio più grande"
+      "Un ufficio molto più grande"
      ],
      "answer": 1,
      "words": [
@@ -9134,7 +9135,7 @@
      "options": [
       "Era molto stanco",
       "Era arrabbiato con tutti",
-      "Era felice di partire",
+      "Era felice di partire per Lisbona",
       "Aveva paura di volare"
      ],
      "answer": 3,
@@ -9151,7 +9152,7 @@
      "options": [
       "Per lavoro",
       "Per una vacanza con gli amici",
-      "Per un esame",
+      "Per un esame all'università",
       "Per trovare la figlia"
      ],
      "answer": 3,
@@ -9293,8 +9294,8 @@
      "en": "What does the author advise anyone who wants to start?",
      "type": "mc",
      "options": [
-      "Essere sempre perfetti",
-      "Comprare molti colori",
+      "Essere sempre perfetti in tutto",
+      "Comprare molti colori e molta carta",
       "Scegliere qualcosa che piace",
       "Studiare molte ore tutti i giorni"
      ],
