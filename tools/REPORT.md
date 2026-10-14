@@ -38,14 +38,14 @@ Candidate pool: 7,106 (lemma, POS) keys in blended-rank order, one POS per lemma
 | feminine of an adjective used as a noun | 1 | piccola |
 
 Forced A1 items (days, months, numbers 0-20 + tens + cento/mille, colours, greetings, a/e/o/è, A1 core list): 286/286 included.
-Word ids reused from v1 for unchanged (lemma, pos): 1,646; the rest are new ids above w2000 (v1 ids of words whose POS/lemma was wrong are retired, not reassigned).
+Word ids reused from v1 for unchanged (lemma, pos): 2,000; the rest are new ids above w2000 (v1 ids of words whose POS/lemma was wrong are retired, not reassigned).
 
 Levels: {'A1': 600, 'A2': 700, 'B1': 700}. POS: {'noun': 978, 'verb': 489, 'adj': 268, 'adv': 128, 'pron': 39, 'num': 30, 'prep': 24, 'conj': 16, 'det': 15, 'intj': 10, 'art': 2, 'phrase': 1}.
 
 ## Sentences
 
 - Final sentences: **3,143**, 472 with audio (`https://tatoeba.org/audio/download/<audio_id>`).
-- Sentence ids (`tools/sentence_ids_v1.json`): 3,138 kept, 5 new (s3142, s3143, s3144, s3145, s3146), 3 retired.
+- Sentence ids (`tools/sentence_ids_v1.json`): 3,143 kept, 0 new, 3 retired.
 - Word coverage: 0 = 2, 1 = 6, 2 = 1992.
 - Words with no sentence: anzi, ovvero.
 - Candidate sentences (terminal punctuation, 3-14 tokens, content lemmas in pack/top-3000, >=1 link): 475,567. Rejected for a content lemma outside pack/top-3000: 142,865.
