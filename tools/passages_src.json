@@ -6914,6 +6914,2398 @@
      "sentence": 5
     }
    ]
+  },
+  {
+   "id": "p0061",
+   "lv": "A2",
+   "title": "Una riunione spostata",
+   "oop": {},
+   "sentences": [
+    [
+     "Caro Paolo, ti scrivo perché ho una notizia sulla riunione di domani.",
+     "Dear Paolo, I'm writing because I have news about tomorrow's meeting."
+    ],
+    [
+     "Il direttore ha preso un volo per Londra e tornerà soltanto giovedì.",
+     "The director has taken a flight to London and will only be back on Thursday."
+    ],
+    [
+     "Dunque la riunione non sarà più alle nove, ma venerdì mattina.",
+     "So the meeting will no longer be at nine, but on Friday morning."
+    ],
+    [
+     "Ho già scritto a tutti i colleghi e quasi tutti hanno risposto.",
+     "I have already written to all the colleagues and almost everyone has replied."
+    ],
+    [
+     "Se hai un problema con il nuovo giorno, dimmelo entro stasera.",
+     "If you have a problem with the new day, tell me by this evening."
+    ],
+    [
+     "Il tema più importante sarà il contratto con il cliente tedesco.",
+     "The most important topic will be the contract with the German client."
+    ],
+    [
+     "Porta con te le pagine che hai preparato, perché la discussione sarà lunga!",
+     "Bring the pages you have prepared, because the discussion will be long!"
+    ],
+    [
+     "Grazie e scusa per il disturbo.",
+     "Thanks and sorry for the trouble."
+    ],
+    [
+     "A presto, Marta",
+     "See you soon, Marta"
+    ]
+   ],
+   "questions": [
+    {
+     "q": "Quando torna il direttore?",
+     "en": "When is the director coming back?",
+     "type": "mc",
+     "options": [
+      "Mercoledì",
+      "Giovedì",
+      "Venerdì",
+      "Domani"
+     ],
+     "answer": 1,
+     "words": [
+      "tornare",
+      "soltanto"
+     ],
+     "sentence": 1
+    },
+    {
+     "q": "La riunione è spostata a venerdì mattina.",
+     "en": "The meeting has been moved to Friday morning.",
+     "type": "tf",
+     "options": null,
+     "answer": true,
+     "words": [
+      "dunque",
+      "venerdì"
+     ],
+     "sentence": 2
+    },
+    {
+     "q": "Nessun collega ha risposto al messaggio di Marta.",
+     "en": "No colleague has replied to Marta's message.",
+     "type": "tf",
+     "options": null,
+     "answer": false,
+     "words": [
+      "collega",
+      "rispondere"
+     ],
+     "sentence": 3
+    },
+    {
+     "q": "Di che cosa si parlerà soprattutto nella riunione?",
+     "en": "What will the meeting mostly be about?",
+     "type": "mc",
+     "options": [
+      "Di un contratto con un cliente",
+      "Delle vacanze di tutti i colleghi",
+      "Di un viaggio a Londra",
+      "Del nuovo ufficio di Paolo"
+     ],
+     "answer": 0,
+     "words": [
+      "tema",
+      "contratto"
+     ],
+     "sentence": 5
+    },
+    {
+     "q": "Paolo deve dire a Marta se ha un problema prima di sera.",
+     "en": "Paolo has to tell Marta if he has a problem before evening.",
+     "type": "tf",
+     "options": null,
+     "answer": true,
+     "words": [
+      "entro"
+     ],
+     "sentence": 4
+    }
+   ]
+  },
+  {
+   "id": "p0062",
+   "lv": "A2",
+   "title": "La borsa persa",
+   "oop": {},
+   "sentences": [
+    [
+     "— Buongiorno, ho perso la borsa e sono molto preoccupato.",
+     "— Good morning, I've lost my bag and I'm very worried."
+    ],
+    [
+     "— Dove l'ha persa, signore?",
+     "— Where did you lose it, sir?"
+    ],
+    [
+     "— Credo sull'autobus, ma non ne sono sicuro.",
+     "— On the bus, I think, but I'm not sure."
+    ],
+    [
+     "— Com'è fatta?",
+     "— What does it look like?"
+    ],
+    [
+     "— È piccola, marrone, e dentro c'è una carta blu con un po' di denaro.",
+     "— It's small and brown, and inside there is a blue card with some money."
+    ],
+    [
+     "— Aspetti un momento, controllo la lista degli oggetti trovati.",
+     "— Wait a moment, I'll check the list of found objects."
+    ],
+    [
+     "— Intanto prenda una sedia e mi dica il suo nome, per favore.",
+     "— In the meantime take a seat and tell me your name, please."
+    ],
+    [
+     "— Mi chiamo Carlo Rossi e lavoro qui vicino, in un negozio di scarpe.",
+     "— My name is Carlo Rossi and I work near here, in a shoe shop."
+    ],
+    [
+     "— Eccola! Una donna l'ha portata qui un'ora fa.",
+     "— Here it is! A woman brought it here an hour ago."
+    ],
+    [
+     "— Che fortuna! Non ci posso credere.",
+     "— What luck! I can't believe it."
+    ],
+    [
+     "— Controlli che ci sia tutto e firmi qui, per favore.",
+     "— Check that everything is there and sign here, please."
+    ]
+   ],
+   "questions": [
+    {
+     "q": "Dove crede di aver perso la borsa l'uomo?",
+     "en": "Where does the man think he lost his bag?",
+     "type": "mc",
+     "options": [
+      "Al ristorante",
+      "Al parco",
+      "In ufficio",
+      "Sull'autobus"
+     ],
+     "answer": 3,
+     "words": [
+      "credere",
+      "autobus"
+     ],
+     "sentence": 2
+    },
+    {
+     "q": "La borsa è grande e nera.",
+     "en": "The bag is big and black.",
+     "type": "tf",
+     "options": null,
+     "answer": false,
+     "words": [
+      "piccolo",
+      "marrone"
+     ],
+     "sentence": 4
+    },
+    {
+     "q": "Che cosa c'è dentro la borsa?",
+     "en": "What is inside the bag?",
+     "type": "mc",
+     "options": [
+      "Una chiave e un biglietto del treno",
+      "Una carta e un po' di denaro",
+      "Due carte e una lettera",
+      "Una foto e un telefono"
+     ],
+     "answer": 1,
+     "words": [
+      "carta",
+      "denaro"
+     ],
+     "sentence": 4
+    },
+    {
+     "q": "Qualcuno ha portato la borsa all'ufficio.",
+     "en": "Someone has brought the bag to the office.",
+     "type": "tf",
+     "options": null,
+     "answer": true,
+     "words": [
+      "portare"
+     ],
+     "sentence": 8
+    },
+    {
+     "q": "L'uomo non deve firmare niente.",
+     "en": "The man doesn't have to sign anything.",
+     "type": "tf",
+     "options": null,
+     "answer": false,
+     "words": [
+      "firmare"
+     ],
+     "sentence": 10
+    }
+   ],
+   "names": [
+    "Carlo",
+    "Rossi"
+   ]
+  },
+  {
+   "id": "p0063",
+   "lv": "A2",
+   "title": "Una giornata in montagna",
+   "oop": {},
+   "sentences": [
+    [
+     "Oggi è stata una giornata speciale.",
+     "Today was a special day."
+    ],
+    [
+     "Con tre amici sono andato in un piccolo paese di montagna, a cinquanta chilometri dalla città.",
+     "With three friends I went to a small mountain village, fifty kilometres from the city."
+    ],
+    [
+     "Siamo partiti presto con la macchina di Luca, che guida molto veloce.",
+     "We left early in Luca's car; he drives very fast."
+    ],
+    [
+     "Quando siamo arrivati, il paese era ancora in silenzio e l'aria era fredda.",
+     "When we arrived, the village was still silent and the air was cold."
+    ],
+    [
+     "Abbiamo camminato intorno al lago e Giulia ha raccolto dei fiori.",
+     "We walked around the lake and Giulia picked some flowers."
+    ],
+    [
+     "A pranzo abbiamo mangiato in un ristorante locale: il cibo era semplice, ma davvero buono.",
+     "At lunch we ate in a local restaurant: the food was simple, but really good."
+    ],
+    [
+     "Nel pomeriggio un signore ci ha raccontato un episodio interessante sulla storia di una chiesa vicina.",
+     "In the afternoon a man told us an interesting episode about the history of a nearby church."
+    ],
+    [
+     "Parlava piano, quindi ho capito quasi tutto.",
+     "He spoke slowly, so I understood almost everything."
+    ],
+    [
+     "Al ritorno eravamo tutti stanchi, ma felici.",
+     "On the way back we were all tired, but happy."
+    ],
+    [
+     "Voglio tornare presto in un posto come questo.",
+     "I want to go back soon to a place like this."
+    ]
+   ],
+   "questions": [
+    {
+     "q": "Quanto è lontano il paese dalla città?",
+     "en": "How far is the village from the city?",
+     "type": "mc",
+     "options": [
+      "10 chilometri",
+      "20 chilometri",
+      "50 chilometri",
+      "100 chilometri"
+     ],
+     "answer": 2,
+     "words": [
+      "chilometro"
+     ],
+     "sentence": 1
+    },
+    {
+     "q": "Luca guida piano.",
+     "en": "Luca drives slowly.",
+     "type": "tf",
+     "options": null,
+     "answer": false,
+     "words": [
+      "veloce",
+      "guidare"
+     ],
+     "sentence": 2
+    },
+    {
+     "q": "Quando i ragazzi sono arrivati, c'era silenzio nel paese.",
+     "en": "When the friends arrived, it was quiet in the village.",
+     "type": "tf",
+     "options": null,
+     "answer": true,
+     "words": [
+      "silenzio"
+     ],
+     "sentence": 3
+    },
+    {
+     "q": "Che cosa ha fatto Giulia vicino al lago?",
+     "en": "What did Giulia do near the lake?",
+     "type": "mc",
+     "options": [
+      "Ha raccolto dei fiori",
+      "Ha preso un treno",
+      "Ha fatto il bagno",
+      "Ha dormito in macchina"
+     ],
+     "answer": 0,
+     "words": [
+      "raccogliere",
+      "lago"
+     ],
+     "sentence": 4
+    },
+    {
+     "q": "Alla fine della giornata gli amici erano tristi.",
+     "en": "At the end of the day the friends were sad.",
+     "type": "tf",
+     "options": null,
+     "answer": false,
+     "words": [
+      "stanco",
+      "felice"
+     ],
+     "sentence": 8
+    }
+   ],
+   "names": [
+    "Luca",
+    "Giulia"
+   ]
+  },
+  {
+   "id": "p0064",
+   "lv": "A2",
+   "title": "Un evento in biblioteca",
+   "oop": {},
+   "sentences": [
+    [
+     "Attenzione, cittadini: la biblioteca organizza un grande evento sulla storia della nostra città!",
+     "Attention, citizens: the library is organising a big event about the history of our town!"
+    ],
+    [
+     "Si chiama «Il nostro paese un secolo fa» e racconta la vita di ogni giorno di cento anni fa.",
+     "It is called \"Our town a century ago\" and tells about everyday life a hundred years ago."
+    ],
+    [
+     "Troverete vecchie foto, lettere, giornali e persino alcuni oggetti di casa.",
+     "You will find old photos, letters, newspapers and even some household objects."
+    ],
+    [
+     "L'ingresso è libero e l'evento dura fino alla fine del mese.",
+     "Entry is free and the event lasts until the end of the month."
+    ],
+    [
+     "Ogni sabato pomeriggio c'è una visita con un esperto di storia locale.",
+     "Every Saturday afternoon there is a visit with an expert in local history."
+    ],
+    [
+     "Per i bambini delle scuole organizziamo un incontro speciale: possono fare domande e scoprire come giocavano i ragazzi di allora.",
+     "For school children we organise a special meeting: they can ask questions and find out how the children of that time played."
+    ],
+    [
+     "Chiunque abbia vecchie immagini della città può portarle in biblioteca: ci aiuteranno a rendere l'evento ancora più bello.",
+     "Anyone who has old pictures of the town can bring them to the library: they will help us make the event even better."
+    ],
+    [
+     "Siamo aperti dal lunedì al venerdì, dalle nove alle sei.",
+     "We are open from Monday to Friday, from nine to six."
+    ],
+    [
+     "Vi aspettiamo!",
+     "We look forward to seeing you!"
+    ]
+   ],
+   "questions": [
+    {
+     "q": "Per partecipare bisogna pagare.",
+     "en": "You have to pay to take part.",
+     "type": "tf",
+     "options": null,
+     "answer": false,
+     "words": [
+      "ingresso",
+      "libero"
+     ],
+     "sentence": 3
+    },
+    {
+     "q": "Di che cosa parla l'evento?",
+     "en": "What is the event about?",
+     "type": "mc",
+     "options": [
+      "Dei giochi dei bambini di oggi",
+      "Dei libri più antichi del mondo",
+      "Della vita di cento anni fa",
+      "Dei grandi artisti italiani"
+     ],
+     "answer": 2,
+     "words": [
+      "secolo",
+      "vita"
+     ],
+     "sentence": 1
+    },
+    {
+     "q": "Che cosa si può vedere?",
+     "en": "What can you see?",
+     "type": "mc",
+     "options": [
+      "Libri nuovi e vecchi telefoni",
+      "Giochi e film per bambini",
+      "Macchine, biciclette e vestiti antichi",
+      "Foto, lettere e giornali vecchi"
+     ],
+     "answer": 3,
+     "words": [
+      "giornale",
+      "persino"
+     ],
+     "sentence": 2
+    },
+    {
+     "q": "La visita con l'esperto è di sabato.",
+     "en": "The visit with the expert is on Saturday.",
+     "type": "tf",
+     "options": null,
+     "answer": true,
+     "words": [
+      "esperto",
+      "locale"
+     ],
+     "sentence": 4
+    },
+    {
+     "q": "Che cosa può fare chi ha vecchie immagini della città?",
+     "en": "What can someone with old pictures of the town do?",
+     "type": "mc",
+     "options": [
+      "Venderle alla biblioteca",
+      "Mandarle a una scuola",
+      "Metterle in un giornale",
+      "Portarle in biblioteca"
+     ],
+     "answer": 3,
+     "words": [
+      "chiunque",
+      "immagine"
+     ],
+     "sentence": 6
+    }
+   ]
+  },
+  {
+   "id": "p0065",
+   "lv": "A2",
+   "title": "Più strade per le biciclette",
+   "oop": {},
+   "sentences": [
+    [
+     "Il comune ha deciso di costruire dieci chilometri di nuove strade per le biciclette.",
+     "The town has decided to build ten kilometres of new roads for bicycles."
+    ],
+    [
+     "La decisione è arrivata dopo una discussione e molte richieste dei cittadini.",
+     "The decision came after a discussion and many requests from citizens."
+    ],
+    [
+     "Secondo il sindaco, il traffico in centro è un grosso problema, perché troppe persone usano la macchina per viaggi brevi.",
+     "According to the mayor, traffic in the centre is a big problem, because too many people use the car for short trips."
+    ],
+    [
+     "Le nuove strade collegheranno i quartieri con la stazione, la scuola e il parco.",
+     "The new roads will connect the neighbourhoods with the station, the school and the big park."
+    ],
+    [
+     "I lavori cominceranno in primavera e dureranno sei mesi.",
+     "The work will start in spring and last about six months."
+    ],
+    [
+     "In questo periodo non si potrà passare per alcune vie e gli autobus useranno altre strade.",
+     "In this period it will not be possible to pass through some streets and the buses will use other roads."
+    ],
+    [
+     "Molti cittadini sono contenti: «Finalmente potrò andare al lavoro in sicurezza», dice una donna.",
+     "Many citizens are happy: \"At last I will be able to go to work safely,\" says a woman."
+    ],
+    [
+     "Altri hanno dubbi: temono che i lavori costino troppo.",
+     "Others, instead, have doubts: they fear the work will cost too much."
+    ],
+    [
+     "Il comune risponde che il progetto è importante per il futuro.",
+     "The town replies that the project is important for the future."
+    ]
+   ],
+   "questions": [
+    {
+     "q": "Quanti chilometri di strade vuole costruire il comune?",
+     "en": "How many kilometres of roads does the town want to build?",
+     "type": "mc",
+     "options": [
+      "Cinque",
+      "Dieci",
+      "Quindici",
+      "Venti"
+     ],
+     "answer": 1,
+     "words": [
+      "chilometro",
+      "costruire"
+     ],
+     "sentence": 0
+    },
+    {
+     "q": "Il sindaco pensa che il traffico sia un grosso problema in centro.",
+     "en": "The mayor thinks traffic is a big problem in the centre.",
+     "type": "tf",
+     "options": null,
+     "answer": true,
+     "words": [
+      "traffico",
+      "grosso"
+     ],
+     "sentence": 2
+    },
+    {
+     "q": "Quando cominceranno i lavori?",
+     "en": "When will the work begin?",
+     "type": "mc",
+     "options": [
+      "Alla fine dell'estate",
+      "In autunno",
+      "In primavera",
+      "Durante l'inverno"
+     ],
+     "answer": 2,
+     "words": [
+      "cominciare",
+      "primavera"
+     ],
+     "sentence": 4
+    },
+    {
+     "q": "Durante i lavori gli autobus useranno le stesse strade.",
+     "en": "During the work the buses will use the same streets.",
+     "type": "tf",
+     "options": null,
+     "answer": false,
+     "words": [
+      "passare",
+      "autobus"
+     ],
+     "sentence": 5
+    },
+    {
+     "q": "Perché alcuni cittadini hanno dubbi?",
+     "en": "Why do some citizens have doubts?",
+     "type": "mc",
+     "options": [
+      "Pensano che le strade siano pericolose",
+      "Temono che i lavori costino troppo",
+      "Non usano mai la bicicletta",
+      "Vogliono più strade per le macchine"
+     ],
+     "answer": 1,
+     "words": [
+      "dubbio",
+      "costare"
+     ],
+     "sentence": 7
+    }
+   ]
+  },
+  {
+   "id": "p0066",
+   "lv": "A2",
+   "title": "Il negozio di pane",
+   "oop": {},
+   "sentences": [
+    [
+     "Oggi parliamo con Franco, che lavora da trent'anni in un negozio di pane.",
+     "Today we talk to Franco, who has worked for thirty years in a small bread shop."
+    ],
+    [
+     "«Mi alzo ogni giorno alle tre di notte», racconta, «perché il pane deve essere pronto prima delle sei.»",
+     "\"I get up every day at three in the morning,\" he says, \"because the bread has to be ready before six.\""
+    ],
+    [
+     "«Il lavoro è duro, ma mi piace: il pane caldo al mattino è la mia parte preferita.»",
+     "\"The work is hard, but I like it: hot bread in the morning is my favourite part.\""
+    ],
+    [
+     "I clienti più simpatici sono i bambini, che entrano e chiedono un pezzo di pane.",
+     "The nicest customers are the children, who come in and always ask for a piece of bread."
+    ],
+    [
+     "Franco prepara tutto a mano, con un metodo antico, e non cambia mai il suo modo di lavorare.",
+     "Franco prepares everything by hand, with an old method, and never changes his way of working."
+    ],
+    [
+     "«Molti grandi negozi vendono pane a poco prezzo, ma la qualità è diversa», dice.",
+     "\"Many big shops sell bread at a low price, but the quality is different,\" he says."
+    ],
+    [
+     "Una giovane lavora con lui e sta imparando tutto.",
+     "A young girl works with him and is learning everything."
+    ],
+    [
+     "«Voglio continuare per qualche anno», conclude Franco, «e poi lasciare il negozio a lei.»",
+     "\"I want to carry on for a few more years,\" Franco concludes, \"and then leave the shop to her.\""
+    ]
+   ],
+   "questions": [
+    {
+     "q": "A che ora si alza Franco?",
+     "en": "What time does Franco get up?",
+     "type": "mc",
+     "options": [
+      "Alle tre",
+      "Alle cinque",
+      "Alle sei",
+      "Alle otto"
+     ],
+     "answer": 0,
+     "words": [
+      "alzare",
+      "notte"
+     ],
+     "sentence": 1
+    },
+    {
+     "q": "Per Franco i bambini sono i clienti più simpatici.",
+     "en": "For Franco children are the nicest customers.",
+     "type": "tf",
+     "options": null,
+     "answer": true,
+     "words": [
+      "cliente",
+      "simpatico"
+     ],
+     "sentence": 3
+    },
+    {
+     "q": "Franco pensa che il suo metodo antico vada cambiato spesso.",
+     "en": "Franco thinks his old method should be changed often.",
+     "type": "tf",
+     "options": null,
+     "answer": false,
+     "words": [
+      "metodo",
+      "cambiare"
+     ],
+     "sentence": 4
+    },
+    {
+     "q": "Che differenza c'è, secondo Franco, tra il suo pane e quello dei grandi negozi?",
+     "en": "What difference is there, according to Franco, between his bread and that of the big shops?",
+     "type": "mc",
+     "options": [
+      "La qualità è diversa",
+      "Il pane è sempre più caro",
+      "Il prezzo è uguale",
+      "Il pane è più piccolo"
+     ],
+     "answer": 0,
+     "words": [
+      "prezzo",
+      "qualità"
+     ],
+     "sentence": 5
+    },
+    {
+     "q": "Che cosa vuole fare Franco tra qualche anno?",
+     "en": "What does Franco want to do in a few years?",
+     "type": "mc",
+     "options": [
+      "Aprire un altro negozio nuovo",
+      "Lasciare il negozio alla ragazza",
+      "Vendere tutto e partire",
+      "Chiudere il negozio e andare a vivere al mare"
+     ],
+     "answer": 1,
+     "words": [
+      "continuare",
+      "lasciare"
+     ],
+     "sentence": 7
+    }
+   ],
+   "names": [
+    "Franco"
+   ]
+  },
+  {
+   "id": "p0067",
+   "lv": "A2",
+   "title": "Domani si corre?",
+   "oop": {},
+   "sentences": [
+    [
+     "— Ciao Elena, domani vieni a correre con me al parco?",
+     "— Hi Elena, are you coming running with me in the park tomorrow?"
+    ],
+    [
+     "— Purtroppo non posso: devo restare in ufficio fino alle sei.",
+     "— Unfortunately I can't: I have to stay in the office until six."
+    ],
+    [
+     "— Peccato! Ma sabato sono libera tutto il giorno.",
+     "— Shame! But on Saturday I'm free all day."
+    ],
+    [
+     "— Perfetto! Prima però voglio comprare scarpe nuove, perché le mie sono vecchie e mi fanno male ai piedi.",
+     "— Perfect! But first I want to buy new shoes, because mine are old and hurt my feet."
+    ],
+    [
+     "— Allora ti accompagno io: conosco un negozio con prezzi molto economici.",
+     "— Then I'll come with you: I know a shop with very cheap prices."
+    ],
+    [
+     "— Ottimo! Poi possiamo mangiare qualcosa insieme, offro io.",
+     "— Great! Then we can eat something together, my treat."
+    ],
+    [
+     "— Affare fatto! Alle quattro davanti alla stazione?",
+     "— Deal! At four in front of the station?"
+    ],
+    [
+     "— Sì. E se il tempo è brutto, restiamo a casa e guardiamo un film.",
+     "— Yes. And if the weather is bad, we stay home and watch a film."
+    ],
+    [
+     "— Insomma, in ogni caso passiamo una bella giornata.",
+     "— In short, either way we'll have a nice day."
+    ]
+   ],
+   "questions": [
+    {
+     "q": "Elena può correre domani, ma solo dopo il lavoro.",
+     "en": "Elena can run tomorrow, but only after work.",
+     "type": "tf",
+     "options": null,
+     "answer": false,
+     "words": [
+      "purtroppo",
+      "restare"
+     ],
+     "sentence": 1
+    },
+    {
+     "q": "Che cosa vuole comprare la persona che invita Elena?",
+     "en": "What does the person who invites Elena want to buy?",
+     "type": "mc",
+     "options": [
+      "Una borsa nuova",
+      "Una bicicletta",
+      "Un telefono",
+      "Scarpe nuove"
+     ],
+     "answer": 3,
+     "words": [
+      "scarpa",
+      "comprare"
+     ],
+     "sentence": 3
+    },
+    {
+     "q": "Com'è il negozio che conosce Elena?",
+     "en": "What is the shop Elena knows like?",
+     "type": "mc",
+     "options": [
+      "Molto grande e moderno",
+      "Molto economico",
+      "Molto vecchio e piccolo",
+      "Molto lontano dal centro"
+     ],
+     "answer": 1,
+     "words": [
+      "economico",
+      "negozio"
+     ],
+     "sentence": 4
+    },
+    {
+     "q": "Dopo la corsa le amiche mangeranno insieme.",
+     "en": "After the run the friends will eat together.",
+     "type": "tf",
+     "options": null,
+     "answer": true,
+     "words": [
+      "mangiare",
+      "insieme"
+     ],
+     "sentence": 5
+    },
+    {
+     "q": "Con il brutto tempo le amiche usciranno lo stesso a correre.",
+     "en": "In bad weather the friends will go out running anyway.",
+     "type": "tf",
+     "options": null,
+     "answer": false,
+     "words": [
+      "brutto",
+      "restare"
+     ],
+     "sentence": 7
+    }
+   ],
+   "names": [
+    "Elena"
+   ]
+  },
+  {
+   "id": "p0068",
+   "lv": "A2",
+   "title": "Le chiavi perse",
+   "oop": {},
+   "sentences": [
+    [
+     "Ieri sera sono tornata a casa tardi e non ho trovato le chiavi.",
+     "Last night I came home late and couldn't find my keys."
+    ],
+    [
+     "Ho cercato nella borsa, nelle tasche e persino sotto la macchina, ma niente.",
+     "I looked in my bag, in my pockets and even under the car, but nothing."
+    ],
+    [
+     "Era notte e faceva freddo, così ho chiamato mio fratello.",
+     "It was night and cold, so I called my brother."
+    ],
+    [
+     "Lui era fuori con gli amici e non ha risposto.",
+     "He was out with friends and did not answer."
+    ],
+    [
+     "Allora ho provato con una vicina, la signora Rossi, che ha una copia della nostra chiave.",
+     "So I tried a neighbour, Mrs Rossi, who has a copy of our key."
+    ],
+    [
+     "Ha aperto subito la porta e mi ha offerto una tazza di tè caldo.",
+     "She opened the door at once and offered me a cup of hot tea."
+    ],
+    [
+     "Abbiamo parlato per mezz'ora, poi finalmente è arrivato mio fratello.",
+     "We talked for half an hour, then finally my brother arrived."
+    ],
+    [
+     "Le mie chiavi? Erano nella tasca della sua giacca: le aveva prese per errore.",
+     "My keys? They were in his jacket pocket: he had taken them by mistake."
+    ],
+    [
+     "Da oggi una copia resta sempre dalla signora Rossi.",
+     "From today a copy always stays with Mrs Rossi."
+    ]
+   ],
+   "questions": [
+    {
+     "q": "La donna ha trovato le chiavi sotto la macchina.",
+     "en": "The woman found the keys under the car.",
+     "type": "tf",
+     "options": null,
+     "answer": false,
+     "words": [
+      "cercare",
+      "persino"
+     ],
+     "sentence": 1
+    },
+    {
+     "q": "Perché la donna ha chiamato suo fratello?",
+     "en": "Why did the woman call her brother?",
+     "type": "mc",
+     "options": [
+      "Perché non poteva entrare in casa",
+      "Perché aveva perso il telefono",
+      "Perché voleva andare al cinema con lui",
+      "Perché doveva fare la spesa"
+     ],
+     "answer": 0,
+     "words": [
+      "notte",
+      "chiamare"
+     ],
+     "sentence": 2
+    },
+    {
+     "q": "Il fratello ha risposto subito al telefono.",
+     "en": "The brother answered the phone at once.",
+     "type": "tf",
+     "options": null,
+     "answer": false,
+     "words": [
+      "rispondere"
+     ],
+     "sentence": 3
+    },
+    {
+     "q": "Che cosa ha offerto la vicina alla donna?",
+     "en": "What did the neighbour offer the woman?",
+     "type": "mc",
+     "options": [
+      "Una cena",
+      "Un passaggio in macchina",
+      "Una tazza di tè",
+      "Un caffè"
+     ],
+     "answer": 2,
+     "words": [
+      "offrire",
+      "tazza"
+     ],
+     "sentence": 5
+    },
+    {
+     "q": "Dove erano le chiavi?",
+     "en": "Where were the keys?",
+     "type": "mc",
+     "options": [
+      "Sotto una sedia della cucina di casa",
+      "Nella borsa della vicina",
+      "Nella giacca del fratello",
+      "Nella macchina"
+     ],
+     "answer": 2,
+     "words": [
+      "tasca",
+      "errore"
+     ],
+     "sentence": 7
+    }
+   ],
+   "names": [
+    "Rossi"
+   ]
+  },
+  {
+   "id": "p0069",
+   "lv": "A2",
+   "title": "Un regalo per la nonna",
+   "oop": {},
+   "sentences": [
+    [
+     "— Tra una settimana è il compleanno della nonna e non so che cosa regalare.",
+     "— In a week it's Grandma's birthday and I don't know what to give her."
+    ],
+    [
+     "— Perché non compri un libro? Lei legge molto.",
+     "— Why don't you buy a book? She reads a lot."
+    ],
+    [
+     "— Ha già troppi libri, e non vede più molto bene.",
+     "— She already has too many books, and she doesn't see very well any more."
+    ],
+    [
+     "— Allora una giacca calda? L'inverno è vicino.",
+     "— Then a warm jacket? Winter is near."
+    ],
+    [
+     "— Buona idea, ma preferisco qualcosa di speciale, fatto a mano.",
+     "— Good idea, but I prefer something special, made by hand."
+    ],
+    [
+     "— Potresti preparare un album con le immagini di tutta la famiglia.",
+     "— You could prepare an album with pictures of the whole family."
+    ],
+    [
+     "— Fantastico! Cerco le foto più belle e le metto in ordine.",
+     "— Fantastic! I'll look for the best photos and put them in order."
+    ],
+    [
+     "— Io scrivo un breve discorso e lo leggo alla festa.",
+     "— I'll write a short speech and read it at the party."
+    ],
+    [
+     "— Così la nonna capirà quanto le vogliamo bene.",
+     "— That way Grandma will understand how much we love her."
+    ],
+    [
+     "— E dopo la festa mangiamo tutti insieme la sua torta preferita.",
+     "— And after the party we all eat her favourite cake together."
+    ]
+   ],
+   "questions": [
+    {
+     "q": "La nonna ha pochi libri.",
+     "en": "Grandma has few books.",
+     "type": "tf",
+     "options": null,
+     "answer": false,
+     "words": [
+      "troppo",
+      "libro"
+     ],
+     "sentence": 2
+    },
+    {
+     "q": "Che cosa propone l'amico per il regalo?",
+     "en": "What does the friend suggest for the present?",
+     "type": "mc",
+     "options": [
+      "Un telefono nuovo",
+      "Una cena al ristorante",
+      "Un viaggio al mare con tutta la famiglia",
+      "Un album con le immagini della famiglia"
+     ],
+     "answer": 3,
+     "words": [
+      "album",
+      "immagine"
+     ],
+     "sentence": 5
+    },
+    {
+     "q": "Il ragazzo vuole un regalo fatto a mano.",
+     "en": "The boy wants a hand-made present.",
+     "type": "tf",
+     "options": null,
+     "answer": true,
+     "words": [
+      "speciale",
+      "preferire"
+     ],
+     "sentence": 4
+    },
+    {
+     "q": "Che cosa scrive uno dei due per la festa?",
+     "en": "What does one of them write for the party?",
+     "type": "mc",
+     "options": [
+      "Una lettera lunga",
+      "Un breve discorso",
+      "Una canzone",
+      "Un libro"
+     ],
+     "answer": 1,
+     "words": [
+      "breve",
+      "discorso"
+     ],
+     "sentence": 7
+    },
+    {
+     "q": "La festa sarà fra un mese.",
+     "en": "The party will be in a month.",
+     "type": "tf",
+     "options": null,
+     "answer": false,
+     "words": [
+      "settimana",
+      "compleanno"
+     ],
+     "sentence": 0
+    }
+   ]
+  },
+  {
+   "id": "p0070",
+   "lv": "A2",
+   "title": "Il corso di cucina",
+   "oop": {},
+   "sentences": [
+    [
+     "Una volta alla settimana vado a un corso di cucina vicino a casa.",
+     "Once a week I go to a cookery course near home."
+    ],
+    [
+     "All'inizio non sapevo fare niente: bruciavo la pasta e tagliavo male le verdure.",
+     "At the beginning I couldn't do anything: I burnt the pasta and cut the vegetables badly."
+    ],
+    [
+     "L'insegnante, una signora gentile, dice sempre che sbagliare è normale.",
+     "The teacher, a kind lady, always says that making mistakes is normal."
+    ],
+    [
+     "Questa settimana abbiamo preparato una pasta con le verdure e un dolce alla frutta.",
+     "This week we prepared a pasta with vegetables and a fruit cake."
+    ],
+    [
+     "Ognuno aveva un compito: io ho pulito le verdure, Anna ha tagliato la frutta e Marco ha cucinato la pasta.",
+     "Everyone had a task: I cleaned the vegetables, Anna cut the fruit and Marco cooked the pasta."
+    ],
+    [
+     "Il risultato non era perfetto, ma la pasta era davvero buona.",
+     "The result wasn't perfect, but the pasta was really good."
+    ],
+    [
+     "Alla fine abbiamo mangiato tutti insieme e abbiamo parlato della nostra settimana.",
+     "In the end we all ate together and talked about our week."
+    ],
+    [
+     "Adesso a casa cucino spesso, e i miei amici dicono che sono migliorato.",
+     "Now I cook often at home, and my friends say I have improved."
+    ],
+    [
+     "Il prossimo corso comincia tra un mese: se volete, venite con me!",
+     "The next course starts in a month: if you like, come with me!"
+    ]
+   ],
+   "questions": [
+    {
+     "q": "All'inizio l'autore sapeva cucinare molto bene.",
+     "en": "At the beginning the author could cook very well.",
+     "type": "tf",
+     "options": null,
+     "answer": false,
+     "words": [
+      "inizio",
+      "bruciare"
+     ],
+     "sentence": 1
+    },
+    {
+     "q": "Che cosa dice sempre l'insegnante?",
+     "en": "What does the teacher always say?",
+     "type": "mc",
+     "options": [
+      "Che sbagliare è normale",
+      "Che il tempo è importante",
+      "Che la pasta è difficile",
+      "Che il corso è troppo lungo"
+     ],
+     "answer": 0,
+     "words": [
+      "sbagliare",
+      "normale"
+     ],
+     "sentence": 2
+    },
+    {
+     "q": "Che cosa hanno preparato questa settimana?",
+     "en": "What did they prepare this week?",
+     "type": "mc",
+     "options": [
+      "Una pasta e un dolce",
+      "Pesce e verdure",
+      "Della carne e del pane",
+      "Frutta e latte"
+     ],
+     "answer": 0,
+     "words": [
+      "pasta",
+      "dolce"
+     ],
+     "sentence": 3
+    },
+    {
+     "q": "La pasta non era buona, anche se il risultato sembrava perfetto.",
+     "en": "The pasta wasn't good, even though the result looked perfect.",
+     "type": "tf",
+     "options": null,
+     "answer": false,
+     "words": [
+      "risultato",
+      "buono"
+     ],
+     "sentence": 5
+    },
+    {
+     "q": "Il prossimo corso comincerà fra un mese.",
+     "en": "The next course will begin in a month.",
+     "type": "tf",
+     "options": null,
+     "answer": true,
+     "words": [
+      "prossimo",
+      "mese"
+     ],
+     "sentence": 8
+    }
+   ],
+   "names": [
+    "Anna",
+    "Marco"
+   ]
+  },
+  {
+   "id": "p0071",
+   "lv": "B1",
+   "title": "Un ordine in ritardo",
+   "oop": {},
+   "sentences": [
+    [
+     "Gentile servizio clienti, vi scrivo perché un mese fa ho ordinato un computer sul vostro sito e non l'ho ancora ricevuto.",
+     "Dear customer service, I am writing because a month ago I ordered a computer on your site and I have not received it yet."
+    ],
+    [
+     "Quando ho pagato mi avete promesso di consegnare il computer entro una settimana, ma da quel giorno nessuno mi ha dato notizie.",
+     "When I paid you promised me to deliver the computer within a week, but since that day nobody has given me any news."
+    ],
+    [
+     "Ho chiamato tre volte: la prima volta la linea è caduta, la seconda mi hanno chiesto di aspettare e la terza non ha risposto nessuno.",
+     "I called three times: the first time the line dropped, the second time they asked me to wait and the third time nobody answered."
+    ],
+    [
+     "Questa situazione mi dà molto fastidio, perché mi serve il computer per lavorare e senza computer non posso finire i miei progetti.",
+     "This situation is very annoying, because I need the computer to work and without a computer I cannot finish my projects."
+    ],
+    [
+     "Vi chiedo quindi di verificare dove si trova il prodotto e di comunicarmi una data precisa di arrivo.",
+     "I therefore ask you to check where the product is and to tell me a precise arrival date."
+    ],
+    [
+     "Se non è disponibile, preferisco cancellare l'ordine e avere indietro i miei soldi.",
+     "If it is not available, I prefer to cancel the order and get my money back."
+    ],
+    [
+     "Resto in attesa di una risposta rapida e vi ringrazio per l'attenzione.",
+     "I await a quick reply and thank you for your attention."
+    ],
+    [
+     "Andrea Neri",
+     "Andrea Neri"
+    ]
+   ],
+   "questions": [
+    {
+     "q": "Che cosa ha ordinato Andrea?",
+     "en": "What did Andrea order?",
+     "type": "mc",
+     "options": [
+      "Un telefono",
+      "Una macchina",
+      "Un computer",
+      "Un libro"
+     ],
+     "answer": 2,
+     "words": [
+      "ordinare"
+     ],
+     "sentence": 0
+    },
+    {
+     "q": "Il negozio ha promesso di mandare il computer in una settimana.",
+     "en": "The shop promised to send the computer in a week.",
+     "type": "tf",
+     "options": null,
+     "answer": true,
+     "words": [
+      "promettere",
+      "entro"
+     ],
+     "sentence": 1
+    },
+    {
+     "q": "Che cosa è successo la terza volta che Andrea ha chiamato?",
+     "en": "What happened the third time Andrea called?",
+     "type": "mc",
+     "options": [
+      "La linea è caduta",
+      "Nessuno ha risposto",
+      "Gli hanno detto di aspettare",
+      "Gli hanno dato una data"
+     ],
+     "answer": 1,
+     "words": [
+      "chiamare",
+      "rispondere"
+     ],
+     "sentence": 2
+    },
+    {
+     "q": "Andrea può lavorare bene anche senza il computer.",
+     "en": "Andrea can work well even without the computer.",
+     "type": "tf",
+     "options": null,
+     "answer": false,
+     "words": [
+      "servire",
+      "lavorare"
+     ],
+     "sentence": 3
+    },
+    {
+     "q": "Che cosa preferisce Andrea se il prodotto non è disponibile?",
+     "en": "What does Andrea prefer if the product is not available?",
+     "type": "mc",
+     "options": [
+      "Aspettare un altro mese",
+      "Andare nel negozio",
+      "Cambiare il prodotto",
+      "Cancellare l'ordine"
+     ],
+     "answer": 3,
+     "words": [
+      "disponibile",
+      "cancellare"
+     ],
+     "sentence": 5
+    }
+   ],
+   "names": [
+    "Andrea",
+    "Neri"
+   ]
+  },
+  {
+   "id": "p0072",
+   "lv": "B1",
+   "title": "Un nuovo inizio",
+   "oop": {},
+   "sentences": [
+    [
+     "Quando ho ricevuto l'offerta di lavoro a Torino, non sapevo se accettare.",
+     "When I received the job offer in Turin, I didn't know whether to accept."
+    ],
+    [
+     "Vivevo da sempre nello stesso quartiere, con i miei genitori e i miei amici, e l'idea di lasciare tutto mi faceva paura.",
+     "I had always lived in the same neighbourhood, with my parents and my friends, and the idea of leaving everything scared me."
+    ],
+    [
+     "Allora ho deciso di provare, perché un'occasione così non arriva spesso.",
+     "In the end I decided to try, because an opportunity like this does not come often."
+    ],
+    [
+     "I primi giorni sono stati difficili: la casa era piccola, il rumore della strada mi svegliava presto e non conoscevo nessuno.",
+     "The first days were difficult: the house was small, the noise from the street woke me early and I knew nobody."
+    ],
+    [
+     "Poi ho incontrato una donna simpatica, che abita vicino a me, e mi ha invitato a cena con i suoi amici.",
+     "Then I met a very nice woman, who lives near me, and she invited me to dinner with her friends."
+    ],
+    [
+     "Ho scoperto la città: i mercati, i caffè storici e le montagne che si vedono da lontano.",
+     "I discovered the city: the markets, the historic cafés and the mountains you can see from afar."
+    ],
+    [
+     "Sul lavoro ho imparato molte cose e i colleghi mi aiutano quando ho dei dubbi.",
+     "At work I have learnt many things and my colleagues help me when I have doubts."
+    ],
+    [
+     "Il cambiamento mi ha fatto bene: oggi mi sento sicuro e indipendente.",
+     "The change has done me good: today I feel confident and independent."
+    ],
+    [
+     "La famiglia mi manca, ma ci sentiamo ogni sera e ogni mese vado a trovarli.",
+     "I miss my family, but we talk every evening and every month I go to see them."
+    ]
+   ],
+   "questions": [
+    {
+     "q": "L'autore ha sempre vissuto nello stesso quartiere.",
+     "en": "The author has always lived in the same neighbourhood.",
+     "type": "tf",
+     "options": null,
+     "answer": true,
+     "words": [
+      "quartiere",
+      "paura"
+     ],
+     "sentence": 1
+    },
+    {
+     "q": "Che cosa dava fastidio all'autore nei primi giorni?",
+     "en": "What bothered the author in the first days?",
+     "type": "mc",
+     "options": [
+      "Il freddo della casa",
+      "Il rumore della strada",
+      "Il cibo della città",
+      "Il lavoro troppo duro e lungo"
+     ],
+     "answer": 1,
+     "words": [
+      "rumore",
+      "svegliare"
+     ],
+     "sentence": 3
+    },
+    {
+     "q": "Chi ha invitato a cena l'autore?",
+     "en": "Who invited the author to dinner?",
+     "type": "mc",
+     "options": [
+      "Una donna che abita vicino",
+      "Un vecchio amico",
+      "Un collega dell'ufficio nuovo",
+      "Il suo capo"
+     ],
+     "answer": 0,
+     "words": [
+      "invitare"
+     ],
+     "sentence": 4
+    },
+    {
+     "q": "Sul lavoro nessuno aiuta l'autore.",
+     "en": "At work nobody helps the author.",
+     "type": "tf",
+     "options": null,
+     "answer": false,
+     "words": [
+      "collega",
+      "dubbio"
+     ],
+     "sentence": 6
+    },
+    {
+     "q": "Come stanno in contatto l'autore e la famiglia?",
+     "en": "How do the author and his family keep in touch?",
+     "type": "mc",
+     "options": [
+      "Si scrivono una volta all'anno",
+      "Si sentono ogni sera",
+      "Si vedono ogni settimana",
+      "Non si sentono mai"
+     ],
+     "answer": 1,
+     "words": [
+      "mancare",
+      "sentire"
+     ],
+     "sentence": 8
+    }
+   ]
+  },
+  {
+   "id": "p0073",
+   "lv": "B1",
+   "title": "Una luce dal sole",
+   "oop": {},
+   "sentences": [
+    [
+     "Giulia ha vent'anni e ha inventato una luce che funziona con l'energia del sole.",
+     "Giulia is twenty and has invented a light that works with the energy of the sun."
+    ],
+    [
+     "Quando le chiediamo come è nata l'idea, risponde: «Nel mio villaggio spesso mancava la corrente, e la sera non riuscivo a fare i compiti.»",
+     "When we ask her how the idea was born, she answers: \"In my village the electricity often went out, and in the evening I couldn't do my homework.\""
+    ],
+    [
+     "«A scuola ho studiato un po' di scienze e ho provato a costruire qualcosa di semplice con materiali economici.»",
+     "\"At school I studied a little science and I tried to build something simple with cheap materials.\""
+    ],
+    [
+     "«Il primo modello era brutto e pesante, ma funzionava; col tempo ho migliorato il disegno e ora è leggero e forte.»",
+     "\"The first model was ugly and heavy, but it worked; over time I improved the design and now it is light and strong.\""
+    ],
+    [
+     "Oggi un'organizzazione lo porta in alcune regioni lontane, e molte famiglie lo usano ogni sera.",
+     "Today an organisation takes it to some distant regions, and many families use it every evening."
+    ],
+    [
+     "Il successo non l'ha cambiata: continua a studiare all'università e lavora in un piccolo laboratorio.",
+     "Success has not changed her: she keeps studying at university and works in a small laboratory."
+    ],
+    [
+     "«Il mio consiglio ai giovani è semplice», conclude: «non abbiate paura di sbagliare, perché ogni errore insegna qualcosa.»",
+     "\"My advice to young people is simple,\" she concludes: \"don't be afraid of making mistakes, because every mistake teaches you something.\""
+    ]
+   ],
+   "questions": [
+    {
+     "q": "Che cosa ha inventato Giulia?",
+     "en": "What did Giulia invent?",
+     "type": "mc",
+     "options": [
+      "Una macchina elettrica per la casa e la scuola",
+      "Un telefono leggero",
+      "Una luce che usa l'energia del sole",
+      "Un computer economico"
+     ],
+     "answer": 2,
+     "words": [
+      "inventare",
+      "energia"
+     ],
+     "sentence": 0
+    },
+    {
+     "q": "Nel villaggio di Giulia la corrente mancava spesso.",
+     "en": "In Giulia's village the electricity often failed.",
+     "type": "tf",
+     "options": null,
+     "answer": true,
+     "words": [
+      "villaggio",
+      "corrente",
+      "mancare"
+     ],
+     "sentence": 1
+    },
+    {
+     "q": "Il primo modello era leggero e bello.",
+     "en": "The first model was light and beautiful.",
+     "type": "tf",
+     "options": null,
+     "answer": false,
+     "words": [
+      "modello",
+      "pesante"
+     ],
+     "sentence": 3
+    },
+    {
+     "q": "Chi porta oggi la luce nelle regioni lontane?",
+     "en": "Who takes the light to distant regions today?",
+     "type": "mc",
+     "options": [
+      "Una grande scuola",
+      "Un negozio del villaggio",
+      "Un'organizzazione",
+      "Il comune"
+     ],
+     "answer": 2,
+     "words": [
+      "organizzazione",
+      "regione"
+     ],
+     "sentence": 4
+    },
+    {
+     "q": "Che consiglio dà Giulia ai giovani?",
+     "en": "What advice does Giulia give to young people?",
+     "type": "mc",
+     "options": [
+      "Studiare sempre di più",
+      "Non avere paura di sbagliare",
+      "Lavorare ogni giorno in un laboratorio",
+      "Partire per un altro paese"
+     ],
+     "answer": 1,
+     "words": [
+      "consiglio",
+      "sbagliare"
+     ],
+     "sentence": 6
+    }
+   ],
+   "names": [
+    "Giulia"
+   ]
+  },
+  {
+   "id": "p0074",
+   "lv": "B1",
+   "title": "Riunione di quartiere",
+   "oop": {},
+   "sentences": [
+    [
+     "Il comitato del quartiere invita tutti gli abitanti a una riunione pubblica giovedì sera, alle venti, nella sala della scuola.",
+     "The neighbourhood committee invites all residents to a public meeting on Thursday evening, at eight, in the school hall."
+    ],
+    [
+     "L'incontro serve a discutere tre problemi che molte persone hanno segnalato nelle ultime settimane.",
+     "The meeting is to discuss three problems that many people have reported in recent weeks."
+    ],
+    [
+     "Il primo riguarda le macchine: ormai occupano anche le strade più strette e per chi cammina è difficile passare.",
+     "The first concerns cars: by now they take up even the narrowest streets and it is hard for pedestrians to get by."
+    ],
+    [
+     "Il secondo è la luce di via Verdi, che la sera è troppo debole.",
+     "The second is the lighting in Via Verdi, which is too weak in the evening."
+    ],
+    [
+     "Il terzo è il giardino pubblico, dove mancano posti per sedersi e giochi per i bambini.",
+     "The third is the public garden, where there are no places to sit and no games for the children."
+    ],
+    [
+     "Un rappresentante del comune ascolterà le proposte e risponderà alle domande.",
+     "A representative of the town council will listen to the proposals and answer questions."
+    ],
+    [
+     "Chi non può venire può inviare un messaggio al comitato entro mercoledì: tutte le idee saranno lette.",
+     "Anyone who cannot come can send a message to the committee by Wednesday: all ideas will be read."
+    ],
+    [
+     "Alla fine della serata offriremo qualcosa da bere. Venite in tanti, perché solo insieme possiamo migliorare il nostro quartiere!",
+     "At the end of the evening we will offer something to drink. Come in great numbers, because only together can we improve our neighbourhood!"
+    ]
+   ],
+   "questions": [
+    {
+     "q": "La riunione si farà nella sala della scuola.",
+     "en": "The meeting will be held in the school hall.",
+     "type": "tf",
+     "options": null,
+     "answer": true,
+     "words": [
+      "pubblico",
+      "sala"
+     ],
+     "sentence": 0
+    },
+    {
+     "q": "Qual è il primo problema?",
+     "en": "What is the first problem?",
+     "type": "mc",
+     "options": [
+      "Le macchine nelle strade",
+      "Il giardino pubblico sempre sporco",
+      "Il rumore della notte",
+      "Le scuole chiuse"
+     ],
+     "answer": 0,
+     "words": [
+      "occupare",
+      "stretto"
+     ],
+     "sentence": 2
+    },
+    {
+     "q": "Che cosa non va in via Verdi?",
+     "en": "What is wrong in Via Verdi?",
+     "type": "mc",
+     "options": [
+      "La luce è troppo debole la sera",
+      "Ci sono troppe macchine e troppo rumore",
+      "Mancano molti negozi e molti bar",
+      "La strada è chiusa da due mesi"
+     ],
+     "answer": 0,
+     "words": [
+      "debole"
+     ],
+     "sentence": 3
+    },
+    {
+     "q": "Nessuno del comune sarà presente alla riunione.",
+     "en": "Nobody from the town council will be at the meeting.",
+     "type": "tf",
+     "options": null,
+     "answer": false,
+     "words": [
+      "rappresentante",
+      "ascoltare"
+     ],
+     "sentence": 5
+    },
+    {
+     "q": "Che cosa può fare chi non può partecipare?",
+     "en": "What can someone who cannot attend do?",
+     "type": "mc",
+     "options": [
+      "Inviare un messaggio entro mercoledì",
+      "Venire il giorno dopo",
+      "Scrivere una lettera al giornale della città",
+      "Parlare con il sindaco"
+     ],
+     "answer": 0,
+     "words": [
+      "inviare",
+      "entro"
+     ],
+     "sentence": 6
+    }
+   ],
+   "names": [
+    "Verdi"
+   ]
+  },
+  {
+   "id": "p0075",
+   "lv": "B1",
+   "title": "Una domenica sotto la pioggia",
+   "oop": {},
+   "sentences": [
+    [
+     "Domenica scorsa io e mia sorella abbiamo deciso di salire sulla montagna vicino al nostro villaggio.",
+     "Last Sunday my sister and I decided to climb the mountain near our village."
+    ],
+    [
+     "Siamo partite alle sette con la borsa piena di pane, frutta e acqua, e il cielo sembrava perfetto.",
+     "We left at seven with the bag full of bread, fruit and water, and the sky looked perfect."
+    ],
+    [
+     "Dopo due ore, però, il tempo è cambiato velocemente e la pioggia ha cominciato a cadere.",
+     "After two hours, however, the weather changed quickly and the rain began to fall."
+    ],
+    [
+     "La strada è diventata difficile e io sono caduta, ma per fortuna mi sono fatta male solo a un ginocchio.",
+     "The path became difficult and I fell, but luckily I only hurt a knee."
+    ],
+    [
+     "Mia sorella è rimasta tranquilla: ha preso una mappa e ha cercato la strada più breve per tornare.",
+     "My sister stayed calm: she took a map and looked for the shortest way back."
+    ],
+    [
+     "Abbiamo trovato una piccola casa di legno, e lì siamo rimaste ad aspettare mentre la pioggia batteva sul tetto.",
+     "We found a small wooden house, and we stayed there waiting while the rain beat on the roof."
+    ],
+    [
+     "Dopo un'ora è tornato il sole e abbiamo potuto riprendere la strada, stanche ma contente.",
+     "After an hour the sun came back and we were able to resume our way, tired but happy."
+    ],
+    [
+     "La prossima volta controlleremo meglio il tempo prima di partire: è una lezione che non dimenticherò.",
+     "Next time we will check the weather better before leaving: it is a lesson I will not forget."
+    ]
+   ],
+   "questions": [
+    {
+     "q": "Che cosa avevano nella borsa le due sorelle?",
+     "en": "What did the two sisters have in the bag?",
+     "type": "mc",
+     "options": [
+      "Solo un po' d'acqua fresca",
+      "Carne, vino e dolci",
+      "Libri, carte e una macchina",
+      "Pane, frutta e acqua"
+     ],
+     "answer": 3,
+     "words": [
+      "borsa",
+      "frutta"
+     ],
+     "sentence": 1
+    },
+    {
+     "q": "Il tempo è rimasto bello per tutta la giornata.",
+     "en": "The weather stayed nice all day.",
+     "type": "tf",
+     "options": null,
+     "answer": false,
+     "words": [
+      "pioggia",
+      "cambiare"
+     ],
+     "sentence": 2
+    },
+    {
+     "q": "Che cosa è successo all'autrice?",
+     "en": "What happened to the author?",
+     "type": "mc",
+     "options": [
+      "È caduta e si è fatta male a un ginocchio",
+      "Ha perso la mappa e non ha più trovato la strada",
+      "Ha lasciato la borsa a casa",
+      "Ha trovato un animale"
+     ],
+     "answer": 0,
+     "words": [
+      "cadere",
+      "ginocchio"
+     ],
+     "sentence": 3
+    },
+    {
+     "q": "La sorella ha usato una mappa per trovare la via più corta.",
+     "en": "The sister used a map to find the shortest way.",
+     "type": "tf",
+     "options": null,
+     "answer": true,
+     "words": [
+      "mappa",
+      "breve"
+     ],
+     "sentence": 4
+    },
+    {
+     "q": "Dove hanno aspettato le sorelle?",
+     "en": "Where did the sisters wait?",
+     "type": "mc",
+     "options": [
+      "Sotto un albero grande",
+      "In un piccolo ristorante",
+      "Dentro la macchina",
+      "In una casa di legno"
+     ],
+     "answer": 3,
+     "words": [
+      "legno",
+      "tetto"
+     ],
+     "sentence": 5
+    }
+   ]
+  },
+  {
+   "id": "p0076",
+   "lv": "B1",
+   "title": "Si cercano lettori",
+   "oop": {},
+   "sentences": [
+    [
+     "La biblioteca di Pavia cerca persone che vogliano aiutare in un nuovo progetto di lettura per i bambini.",
+     "The library of Pavia is looking for people who want to help with a new reading project for children."
+    ],
+    [
+     "L'idea è nata da una maestra in pensione, che per anni ha letto storie ad alta voce ai suoi studenti.",
+     "The idea came from a retired teacher, who for years read stories aloud to her students."
+    ],
+    [
+     "«Un bambino che ascolta una storia impara nuove parole e capisce meglio il mondo», spiega.",
+     "\"A child who listens to a story learns new words and understands the world better,\" she explains."
+    ],
+    [
+     "Chi partecipa incontrerà i piccoli due pomeriggi alla settimana e li aiuterà a scegliere i libri.",
+     "Whoever takes part will meet the little ones two afternoons a week and help them choose books."
+    ],
+    [
+     "Non serve una formazione particolare: basta avere tempo e voglia di stare con i bambini.",
+     "No special training is needed: it is enough to have time and a wish to be with children."
+    ],
+    [
+     "Finora hanno risposto venti persone, tra cui studenti, impiegati e persone anziane.",
+     "So far twenty people have replied, including students, office workers and elderly people."
+    ],
+    [
+     "La biblioteca spera di arrivare a quaranta persone entro l'autunno, per aprire la sala anche il sabato.",
+     "The library hopes to reach forty people by autumn, so as to open the room on Saturdays too."
+    ],
+    [
+     "Chi desidera partecipare può scrivere alla biblioteca o andare direttamente all'ufficio informazioni.",
+     "Anyone who wants to take part can write to the library or go straight to the information office."
+    ]
+   ],
+   "questions": [
+    {
+     "q": "Da chi è nata l'idea del progetto?",
+     "en": "Who did the idea for the project come from?",
+     "type": "mc",
+     "options": [
+      "Da uno studente",
+      "Da un maestro giovane",
+      "Da una maestra in pensione",
+      "Dal direttore della biblioteca di Pavia"
+     ],
+     "answer": 2,
+     "words": [
+      "maestro",
+      "pensione"
+     ],
+     "sentence": 1
+    },
+    {
+     "q": "Secondo la maestra, ascoltare storie aiuta i bambini a imparare parole nuove.",
+     "en": "According to the teacher, listening to stories helps children learn new words.",
+     "type": "tf",
+     "options": null,
+     "answer": true,
+     "words": [
+      "ascoltare",
+      "imparare"
+     ],
+     "sentence": 2
+    },
+    {
+     "q": "Quante volte alla settimana incontreranno i bambini?",
+     "en": "How many times a week will they meet the children?",
+     "type": "mc",
+     "options": [
+      "Una volta",
+      "Due volte",
+      "Tre volte",
+      "Ogni giorno"
+     ],
+     "answer": 1,
+     "words": [
+      "pomeriggio",
+      "scegliere"
+     ],
+     "sentence": 3
+    },
+    {
+     "q": "Per partecipare serve una formazione speciale.",
+     "en": "A special training is needed to take part.",
+     "type": "tf",
+     "options": null,
+     "answer": false,
+     "words": [
+      "formazione",
+      "servire"
+     ],
+     "sentence": 4
+    },
+    {
+     "q": "Quante persone spera di avere la biblioteca entro l'autunno?",
+     "en": "How many people does the library hope to have by autumn?",
+     "type": "mc",
+     "options": [
+      "Venti",
+      "Trenta",
+      "Quaranta",
+      "Cinquanta"
+     ],
+     "answer": 2,
+     "words": [
+      "sperare",
+      "entro"
+     ],
+     "sentence": 6
+    }
+   ],
+   "names": [
+    "Pavia"
+   ]
+  },
+  {
+   "id": "p0077",
+   "lv": "B1",
+   "title": "Il colloquio di lavoro",
+   "oop": {},
+   "sentences": [
+    [
+     "— Buongiorno, signora Bianchi, mi parli un po' della sua esperienza.",
+     "— Good morning, Mrs Bianchi, tell me a little about your experience."
+    ],
+    [
+     "— Buongiorno. Negli ultimi cinque anni ho lavorato in un'agenzia di viaggi, in ufficio.",
+     "— Good morning. For the last five years I have worked in a travel agency, in an office."
+    ],
+    [
+     "— Che cosa le piaceva di più di quel lavoro?",
+     "— What did you like most about that job?"
+    ],
+    [
+     "— Mi piaceva il contatto con i clienti: ogni persona aveva bisogni diversi e dovevo trovare la soluzione migliore.",
+     "— I liked the contact with customers: every person had different needs and I had to find the best solution."
+    ],
+    [
+     "— E perché vuole lasciare l'agenzia?",
+     "— And why do you want to leave the agency?"
+    ],
+    [
+     "— L'azienda ha ridotto il personale, e io cerco un ambiente dove poter crescere.",
+     "— The company has reduced its staff, and I am looking for an environment where I can grow."
+    ],
+    [
+     "— Capisco. Quali sono i suoi punti deboli?",
+     "— I see. What are your weak points?"
+    ],
+    [
+     "— A volte sono troppo precisa e perdo molto tempo a controllare ogni dettaglio, ma sto imparando a organizzarmi meglio.",
+     "— Sometimes I am too precise and lose a lot of time checking every detail, but I am learning to organise myself better."
+    ],
+    [
+     "— Ultima domanda: quando potrebbe cominciare?",
+     "— Last question: when could you start?"
+    ],
+    [
+     "— Tra due settimane, dopo aver concluso gli ultimi impegni.",
+     "— In two weeks, after finishing my last commitments."
+    ],
+    [
+     "— Perfetto, le faremo sapere entro venerdì.",
+     "— Perfect, we will let you know by Friday."
+    ]
+   ],
+   "questions": [
+    {
+     "q": "Dove lavorava la signora Bianchi?",
+     "en": "Where did Mrs Bianchi work?",
+     "type": "mc",
+     "options": [
+      "In una scuola",
+      "In un ristorante",
+      "In un negozio di scarpe",
+      "In un'agenzia di viaggi"
+     ],
+     "answer": 3,
+     "words": [
+      "agenzia",
+      "viaggio"
+     ],
+     "sentence": 1
+    },
+    {
+     "q": "Alla signora piaceva parlare con i clienti ogni giorno.",
+     "en": "Mrs Bianchi liked talking to customers every day.",
+     "type": "tf",
+     "options": null,
+     "answer": true,
+     "words": [
+      "contatto",
+      "cliente"
+     ],
+     "sentence": 3
+    },
+    {
+     "q": "Perché la signora vuole lasciare l'agenzia?",
+     "en": "Why does Mrs Bianchi want to leave the agency?",
+     "type": "mc",
+     "options": [
+      "L'azienda ha ridotto il personale",
+      "Guadagna troppo poco per la sua famiglia",
+      "Non ama i clienti",
+      "Vuole cambiare città"
+     ],
+     "answer": 0,
+     "words": [
+      "azienda",
+      "personale"
+     ],
+     "sentence": 5
+    },
+    {
+     "q": "Il punto debole della signora è arrivare sempre in ritardo.",
+     "en": "Mrs Bianchi's weak point is always arriving late.",
+     "type": "tf",
+     "options": null,
+     "answer": false,
+     "words": [
+      "preciso",
+      "dettaglio"
+     ],
+     "sentence": 7
+    },
+    {
+     "q": "Quando potrebbe cominciare la signora?",
+     "en": "When could Mrs Bianchi start?",
+     "type": "mc",
+     "options": [
+      "Domani mattina presto",
+      "Tra due giorni",
+      "Tra due settimane",
+      "Tra due mesi"
+     ],
+     "answer": 2,
+     "words": [
+      "concludere",
+      "impegno"
+     ],
+     "sentence": 9
+    }
+   ],
+   "names": [
+    "Bianchi"
+   ]
+  },
+  {
+   "id": "p0078",
+   "lv": "B1",
+   "title": "Lavorare da casa",
+   "oop": {},
+   "sentences": [
+    [
+     "Da due anni lavoro da casa tre giorni alla settimana, e ormai non tornerei indietro.",
+     "For two years I have worked from home three days a week, and by now I wouldn't go back."
+    ],
+    [
+     "Il vantaggio più grande è il tempo: non perdo più un'ora al giorno nel traffico e a pranzo posso uscire a camminare un po'.",
+     "The biggest advantage is time: I no longer lose an hour a day in traffic and at lunch I can go out for a walk."
+    ],
+    [
+     "Inoltre mi concentro meglio, perché in ufficio ci sono spesso telefonate inutili e persone che mi chiamano ogni dieci minuti.",
+     "Besides, I focus better, because in the office there are often useless phone calls and people who call me every ten minutes."
+    ],
+    [
+     "Però non è tutto perfetto: a casa il confine tra lavoro e vita privata non è chiaro, e a volte rispondo ai messaggi anche la sera.",
+     "But it is not all perfect: at home the line between work and private life is not clear, and sometimes I answer messages even in the evening."
+    ],
+    [
+     "Mi manca anche il contatto con i colleghi, perché una conversazione davanti al caffè vale più di dieci messaggi.",
+     "I also miss contact with my colleagues, because a conversation over coffee is worth more than ten messages."
+    ],
+    [
+     "Per questo ho trovato una soluzione: due giorni in ufficio per le riunioni e per vedere le persone, e il resto a casa.",
+     "So I found a solution: two days in the office for meetings and to see people, and the rest at home."
+    ],
+    [
+     "Secondo me, il futuro del lavoro è questo: ognuno sceglie il modo che gli sembra più adatto.",
+     "In my opinion, the future of work is this: everyone chooses the way that seems most suitable to them."
+    ]
+   ],
+   "questions": [
+    {
+     "q": "Qual è il vantaggio più grande, secondo l'autore?",
+     "en": "What is the biggest advantage, according to the author?",
+     "type": "mc",
+     "options": [
+      "Un lavoro molto più facile",
+      "Il tempo che risparmia",
+      "Più soldi ogni mese",
+      "Un ufficio più grande"
+     ],
+     "answer": 1,
+     "words": [
+      "vantaggio",
+      "traffico"
+     ],
+     "sentence": 1
+    },
+    {
+     "q": "In ufficio l'autore riceve spesso telefonate inutili.",
+     "en": "In the office the author often gets useless phone calls.",
+     "type": "tf",
+     "options": null,
+     "answer": true,
+     "words": [
+      "inutile",
+      "telefonata"
+     ],
+     "sentence": 2
+    },
+    {
+     "q": "Il confine tra vita privata e lavoro è sempre ben chiaro quando si lavora da casa.",
+     "en": "The line between private life and work is always very clear when working from home.",
+     "type": "tf",
+     "options": null,
+     "answer": false,
+     "words": [
+      "confine",
+      "privato"
+     ],
+     "sentence": 3
+    },
+    {
+     "q": "Che soluzione ha trovato l'autore?",
+     "en": "What solution has the author found?",
+     "type": "mc",
+     "options": [
+      "Lavorare solo la sera e il fine settimana",
+      "Cambiare lavoro",
+      "Lavorare sempre in ufficio",
+      "Due giorni in ufficio e il resto a casa"
+     ],
+     "answer": 3,
+     "words": [
+      "soluzione",
+      "riunione"
+     ],
+     "sentence": 5
+    },
+    {
+     "q": "Per l'autore ognuno dovrebbe scegliere il modo di lavorare più adatto.",
+     "en": "For the author everyone should choose the most suitable way of working.",
+     "type": "tf",
+     "options": null,
+     "answer": true,
+     "words": [
+      "futuro",
+      "adatto"
+     ],
+     "sentence": 6
+    }
+   ]
+  },
+  {
+   "id": "p0079",
+   "lv": "B1",
+   "title": "All'aeroporto",
+   "oop": {},
+   "sentences": [
+    [
+     "Quando sono arrivata all'aeroporto di Roma, erano le cinque del mattino e avevo ancora sonno.",
+     "When I arrived at Rome airport, it was five in the morning and I was still sleepy."
+    ],
+    [
+     "Mi hanno detto che il mio volo aveva due ore di ritardo a causa del brutto tempo.",
+     "They told me that my flight was two hours late because of the bad weather."
+    ],
+    [
+     "Ho preso un caffè e mi sono seduta in una sala piena di gente che aspettava, con gli occhi fissi sull'orologio.",
+     "I had a coffee and sat down in a hall full of people waiting, with their eyes fixed on the clock."
+    ],
+    [
+     "Vicino a me c'era un signore anziano che viaggiava per la prima volta in aereo e aveva molta paura.",
+     "Next to me there was an elderly man who was travelling by plane for the first time and was very scared."
+    ],
+    [
+     "Abbiamo cominciato a parlare: mi ha raccontato che andava a trovare la figlia, che vive a Lisbona da otto anni.",
+     "We began to talk: he told me he was going to visit his daughter, who has lived in Lisbon for eight years."
+    ],
+    [
+     "Gli ho spiegato come funziona il controllo dei documenti e gli ho fatto vedere dove doveva andare.",
+     "I explained how the document check works and showed him where he had to go."
+    ],
+    [
+     "Quando finalmente è arrivato il momento di partire, mi ha stretto la mano e mi ha ringraziato più volte.",
+     "When the moment to leave finally came, he shook my hand and thanked me several times."
+    ],
+    [
+     "Ho capito che un'attesa lunga può diventare un bell'incontro, se hai voglia di parlare con qualcuno.",
+     "I understood that a long wait can become a nice encounter, if you feel like talking to someone."
+    ]
+   ],
+   "questions": [
+    {
+     "q": "Il volo dell'autrice parte con due ore di ritardo.",
+     "en": "The author's flight leaves two hours late.",
+     "type": "tf",
+     "options": null,
+     "answer": true,
+     "words": [
+      "volo",
+      "ritardo"
+     ],
+     "sentence": 1
+    },
+    {
+     "q": "Come si sentiva il signore anziano?",
+     "en": "How did the elderly man feel?",
+     "type": "mc",
+     "options": [
+      "Era molto stanco",
+      "Era arrabbiato con tutti",
+      "Era felice di partire",
+      "Aveva paura di volare"
+     ],
+     "answer": 3,
+     "words": [
+      "anziano",
+      "paura"
+     ],
+     "sentence": 3
+    },
+    {
+     "q": "Perché il signore andava a Lisbona?",
+     "en": "Why was the man going to Lisbon?",
+     "type": "mc",
+     "options": [
+      "Per lavoro",
+      "Per una vacanza con gli amici",
+      "Per un esame",
+      "Per trovare la figlia"
+     ],
+     "answer": 3,
+     "words": [
+      "figlia",
+      "trovare"
+     ],
+     "sentence": 4
+    },
+    {
+     "q": "L'autrice ha spiegato al signore il controllo dei documenti.",
+     "en": "The author explained the document check to the man.",
+     "type": "tf",
+     "options": null,
+     "answer": true,
+     "words": [
+      "documento",
+      "controllo"
+     ],
+     "sentence": 5
+    },
+    {
+     "q": "Alla fine il signore se n'è andato senza dire niente.",
+     "en": "In the end the man left without saying anything.",
+     "type": "tf",
+     "options": null,
+     "answer": false,
+     "words": [
+      "stringere",
+      "ringraziare"
+     ],
+     "sentence": 6
+    }
+   ],
+   "names": [
+    "Roma",
+    "Lisbona"
+   ]
+  },
+  {
+   "id": "p0080",
+   "lv": "B1",
+   "title": "Imparo a disegnare",
+   "oop": {},
+   "sentences": [
+    [
+     "Tre mesi fa ho comprato dei colori e della carta e ho deciso di imparare a disegnare da solo.",
+     "Three months ago I bought some colours and paper and decided to learn to draw on my own."
+    ],
+    [
+     "All'inizio le mie linee erano brutte e le facce sembravano tutte uguali, quindi ho pensato di rinunciare.",
+     "At the beginning my lines were ugly and the faces all looked the same, so I thought of giving up."
+    ],
+    [
+     "Poi un amico mi ha consigliato di seguire un corso e di fare un disegno ogni giorno, anche solo per dieci minuti.",
+     "Then a friend advised me to take a course and to make a drawing every day, even for just ten minutes."
+    ],
+    [
+     "Questo metodo mi ha aiutato più di quanto immaginassi: i progressi sono lenti, ma si vedono.",
+     "This method has helped me more than I imagined: progress is slow, but you can see it."
+    ],
+    [
+     "Adesso conosco le regole principali e riesco a disegnare un volto intero senza cancellare dieci volte.",
+     "Now I know the main rules and I can draw a whole face without rubbing out ten times."
+    ],
+    [
+     "Ieri sera ho regalato il mio disegno preferito a mia madre, e lei è rimasta senza parole.",
+     "Last night I gave my favourite drawing to my mother, and she was left speechless."
+    ],
+    [
+     "Il mio consiglio per chi vuole iniziare è semplice: scegliete qualcosa che vi piace e non pensate di dover essere perfetti.",
+     "My advice for anyone who wants to start is simple: choose something you like and don't think you have to be perfect."
+    ],
+    [
+     "Disegnare è un linguaggio, e come ogni linguaggio si impara a poco a poco, giorno dopo giorno.",
+     "Drawing is a language, and like every language it is learnt little by little, day after day."
+    ]
+   ],
+   "questions": [
+    {
+     "q": "L'autore ha cominciato a disegnare senza maestro.",
+     "en": "The author started drawing without a teacher.",
+     "type": "tf",
+     "options": null,
+     "answer": true,
+     "words": [
+      "disegnare",
+      "solo"
+     ],
+     "sentence": 0
+    },
+    {
+     "q": "Che consiglio ha dato l'amico?",
+     "en": "What advice did the friend give?",
+     "type": "mc",
+     "options": [
+      "Comprare colori più cari",
+      "Smettere di disegnare per un mese intero",
+      "Seguire un corso e disegnare ogni giorno",
+      "Fare una pausa molto lunga"
+     ],
+     "answer": 2,
+     "words": [
+      "consigliare",
+      "corso"
+     ],
+     "sentence": 2
+    },
+    {
+     "q": "I progressi dell'autore sono rapidi.",
+     "en": "The author's progress is fast.",
+     "type": "tf",
+     "options": null,
+     "answer": false,
+     "words": [
+      "progresso",
+      "lento"
+     ],
+     "sentence": 3
+    },
+    {
+     "q": "A chi ha regalato il disegno l'autore?",
+     "en": "Who did the author give the drawing to?",
+     "type": "mc",
+     "options": [
+      "A un amico",
+      "A un insegnante",
+      "A suo padre",
+      "A sua madre"
+     ],
+     "answer": 3,
+     "words": [
+      "regalare"
+     ],
+     "sentence": 5
+    },
+    {
+     "q": "Che cosa consiglia l'autore a chi vuole iniziare?",
+     "en": "What does the author advise anyone who wants to start?",
+     "type": "mc",
+     "options": [
+      "Essere sempre perfetti",
+      "Comprare molti colori",
+      "Scegliere qualcosa che piace",
+      "Studiare molte ore tutti i giorni"
+     ],
+     "answer": 2,
+     "words": [
+      "consiglio",
+      "perfetto"
+     ],
+     "sentence": 6
+    }
+   ]
   }
  ]
 }

@@ -3,7 +3,7 @@
 Static data pack for a language-agnostic vocab trainer (`key: "it"`). 2000
 words spanning A1-B1, each with a short English gloss, plus example
 sentences with translations and (where licence permits) native audio. The
-Read tab adds 60 short reading passages with comprehension questions (see
+Read tab adds 80 short reading passages with comprehension questions (see
 "Reading passages" below).
 
 **Live:** https://bannerless-studio.github.io/italian/
@@ -96,7 +96,7 @@ against the Kelly CEFR-tagged list where available.
 
 ## Reading passages (Read tab)
 
-60 short reading texts, 20 each at A1, A2 and B1, with 4-5 comprehension
+80 short reading texts, 20 at A1 and 30 each at A2 and B1, with 4-5 comprehension
 questions each. The texts were written for this pack, checked by an
 automated QA pass rather than a native speaker. Tapping any word in a
 passage shows its gloss, including inflected forms. A passage's spaced

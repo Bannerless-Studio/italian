@@ -14,7 +14,7 @@ before touching any file here; it says what is hand-maintained vs generated.
   high-frequency words the sense-ranking gets wrong (stare, piacere, ci/le/gli/lo...).
 - `forced_a1.txt` — hand-maintained. A1 core word list forced into A1 (closed
   sets like days/months/numbers live in `langs/it.py` instead).
-- `passages_src.json` — hand-maintained. Source text for the 60 reading
+- `passages_src.json` — hand-maintained. Source text for the 80 reading
   passages; `packbuilder passages` builds `pack/passages.json` from it.
 - `generated_examples.tsv` — hand-reviewed written example sentences (`"src":
   "gen"` in sentences.json), exempt from the drop-everywhere content filter.

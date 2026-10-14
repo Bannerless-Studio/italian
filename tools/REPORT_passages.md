@@ -10,8 +10,8 @@ words = the builder's word count (the band rule); ws_words = whitespace-separate
 tokens of the passage text, the count the app shows (report only).
 
 - **A1**: 20 passages; words/passage 63-90 (median 76.0); ws_words 63-90; coverage min 1.000, median 1.000 (rule >= 0.95); linked min 0.987; questions mc 45, tf 40
-- **A2**: 20 passages; words/passage 91-119 (median 112.0); ws_words 91-119; coverage min 0.971, median 1.000 (rule >= 0.95); linked min 0.971; questions mc 50, tf 42
-- **B1**: 20 passages; words/passage 120-141 (median 134.0); ws_words 122-141; coverage min 0.992, median 1.000 (rule >= 0.93); linked min 0.992; questions mc 56, tf 41
+- **A2**: 30 passages; words/passage 91-119 (median 111.5); ws_words 91-119; coverage min 0.971, median 1.000 (rule >= 0.95); linked min 0.971; questions mc 74, tf 68
+- **B1**: 30 passages; words/passage 114-146 (median 135.0); ws_words 122-146; coverage min 0.992, median 1.000 (rule >= 0.93); linked min 0.992; questions mc 84, tf 63
 
 | id | lv | title | words | ws_words | coverage | linked | out-of-pack lemmas (reason) | higher-level lemmas |
 |---|---|---|---|---|---|---|---|---|
@@ -75,6 +75,26 @@ tokens of the passage text, the count the app shows (report only).
 | p0058 | B1 | Una lettera al giornale | 140 | 140 | 1.000 | 1.000 | - | - |
 | p0059 | B1 | Imparare una lingua da adulti | 136 | 136 | 1.000 | 1.000 | - | - |
 | p0060 | B1 | Tra dieci anni | 128 | 128 | 1.000 | 1.000 | - | - |
+| p0061 | A2 | Una riunione spostata | 91 | 91 | 1.000 | 1.000 | - | B1: disturbo, entro, riunione |
+| p0062 | A2 | La borsa persa | 94 | 105 | 1.000 | 1.000 | - | B1: intanto, preoccupato |
+| p0063 | A2 | Una giornata in montagna | 111 | 111 | 1.000 | 1.000 | - | B1: lago |
+| p0064 | A2 | Un evento in biblioteca | 116 | 116 | 1.000 | 1.000 | - | B1: biblioteca, esperto, ingresso |
+| p0065 | A2 | Più strade per le biciclette | 119 | 119 | 1.000 | 1.000 | - | B1: traffico |
+| p0066 | A2 | Il negozio di pane | 118 | 118 | 1.000 | 1.000 | - | B1: concludere, simpatico |
+| p0067 | A2 | Domani si corre? | 94 | 103 | 1.000 | 1.000 | - | B1: corsa, moderno |
+| p0068 | A2 | Le chiavi perse | 109 | 109 | 1.000 | 1.000 | - | B1: copia |
+| p0069 | A2 | Un regalo per la nonna | 100 | 110 | 1.000 | 1.000 | - | B1: album, regalare |
+| p0070 | A2 | Il corso di cucina | 118 | 118 | 1.000 | 1.000 | - | B1: cucinare, insegnante |
+| p0071 | B1 | Un ordine in ritardo | 135 | 135 | 1.000 | 1.000 | - | - |
+| p0072 | B1 | Un nuovo inizio | 146 | 146 | 1.000 | 1.000 | - | - |
+| p0073 | B1 | Una luce dal sole | 126 | 126 | 1.000 | 1.000 | - | - |
+| p0074 | B1 | Riunione di quartiere | 130 | 130 | 1.000 | 1.000 | - | - |
+| p0075 | B1 | Una domenica sotto la pioggia | 138 | 138 | 1.000 | 1.000 | - | - |
+| p0076 | B1 | Si cercano lettori | 125 | 125 | 1.000 | 1.000 | - | - |
+| p0077 | B1 | Il colloquio di lavoro | 114 | 125 | 1.000 | 1.000 | - | - |
+| p0078 | B1 | Lavorare da casa | 144 | 144 | 1.000 | 1.000 | - | - |
+| p0079 | B1 | All'aeroporto | 144 | 144 | 1.000 | 1.000 | - | - |
+| p0080 | B1 | Imparo a disegnare | 145 | 145 | 1.000 | 1.000 | - | - |
 
 Title words, and question/option words the budget does not count (a numeral-like
 pack word), that are out of the pack or above the passage's level (report only;
@@ -85,6 +105,12 @@ the budget rule above is unchanged):
 - p0028: title 'sorpresa': sorpresa B1
 - p0033: title 'avviso': out of pack
 - p0036: title 'caduta': out of pack
+- p0061: title 'riunione': riunione B1
+- p0062: title 'persa': out of pack
+- p0064: title 'biblioteca': biblioteca B1
+- p0068: title 'perse': out of pack
+- p0076: title 'lettori': out of pack
+- p0077: title 'colloquio': out of pack
 
 <!-- manual section: kept across runs -->
 
@@ -131,3 +157,12 @@ the budget rule above is unchanged):
 - **Tenses.** A1 uses the present tense. A2 adds the passato prossimo. B1
   adds the imperfetto, future, conditional and some subjunctive. The passato
   remoto is not used.
+- **p0061-p0080 (2026-10-14).** 10 A2 and 10 B1 passages added; p0001-p0060
+  are unchanged. The current builder emits the same sentence word ids in a
+  different order for 22 of those 60 entries (same sets, same spans), so the
+  60 were restored from the previous pack/passages.json after the build.
+  A fresh `passages` run reorders those lists again. The 20 new ones have 5
+  questions each, 52 mc answers at positions 0/1/2/3 as 13/13/13/13, 22 true
+  and 26 false tf items, no correct option that is the unique longest, and no
+  tf item sharing a 5-word run with its text. They link 135 A2/B1 words that
+  p0001-p0060 never linked. No out-of-pack lemmas are declared.
